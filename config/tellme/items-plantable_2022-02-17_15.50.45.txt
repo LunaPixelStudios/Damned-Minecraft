@@ -1,0 +1,544 @@
+----------------------------------------------------------------
+*** WARNING ***
+Don't use the item ID for anything "proper"!!
+It's provided here for completeness's sake, it's different in every world.
+----------------------------------------------------------------
+Mod name, Registry name, Item ID, Display name, Plant Type, Tags
+----------------------------------------------------------------
+Alex's Mobs, alexsmobs:banana_peel, 14657, Banana Peel, plains, 
+Atlantis, atlantis:underwater_flower, 1680, Atlantis Flower, plains, 
+Atum 2, atum:anputs_fingers, 5607, Anput's Fingers, crop, 
+Atum 2, atum:anputs_fingers_spores, 6242, Anput's Fingers Spores, crop, forge:crops, forge:crops/nether_wart, hexerei:herbs
+Atum 2, atum:date_block, 5604, Date, plains, 
+Atum 2, atum:dry_grass, 5609, Dry Grass, desert, supplementaries:flower_box_plantable
+Atum 2, atum:emmer_seeds, 6243, Emmer Seeds, crop, alexsmobs:crow_foodstuffs, forge:seeds, forge:seeds/emmer, hexerei:herbs, quark:seed_pouch_holdable
+Atum 2, atum:emmer_wheat, 5605, Emmer, crop, 
+Atum 2, atum:flax_block, 5615, Flax, crop, 
+Atum 2, atum:flax_seeds, 6239, Flax Seeds, crop, alexsmobs:crow_foodstuffs, forge:seeds, forge:seeds/flax, hexerei:herbs, quark:seed_pouch_holdable
+Atum 2, atum:oasis_grass, 5608, Oasis Grass, plains, supplementaries:flower_box_plantable
+Atum 2, atum:palm_sapling, 6025, Palm Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Atum 2, atum:papyrus, 5613, Papyrus, beach, 
+Atum 2, atum:papyrus_plant, 6238, Papyrus, beach, supplementaries:flower_box_plantable
+Atum 2, atum:shrub, 5611, Dry Shrub, plains, atum:shrub, supplementaries:flower_box_plantable
+Atum 2, atum:tall_dry_grass, 5610, Tall Dry Grass, desert, supplementaries:flower_box_plantable
+Atum 2, atum:weed, 5612, Dry Shrub, plains, atum:shrub, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:barley, 1224, Barley, plains, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:blue_hydrangea, 1211, Blue Hydrangea, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:burning_blossom, 1210, Burning Blossom, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:bush, 1217, Bush, plains, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:cattail, 1223, Cattail, beach, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:clover, 1218, Clover, plains, sereneseasons:spring_crops, sereneseasons:summer_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:dead_grass, 1222, Dead Grass, plains, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:dead_sapling, 1141, Dead Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:desert_grass, 1221, Desert Grass, plains, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:dune_grass, 1220, Dune Grass, plains, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:fir_sapling, 1034, Fir Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:flowering_oak_sapling, 1024, Flowering Oak Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:glowflower, 1208, Glowflower, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:glowshroom, 1231, Glowshroom, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:goldenrod, 1212, Goldenrod, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:hellbark_sapling, 1186, Hellbark Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:huge_clover_petal, 1219, Huge Clover Petal, plains, 
+Biomes O' Plenty, biomesoplenty:jacaranda_sapling, 1096, Jacaranda Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:lavender, 1203, Lavender, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:magic_sapling, 1156, Magic Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:mahogany_sapling, 1081, Mahogany Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:mangrove_root, 1227, Mangrove Root, plains, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:maple_sapling, 1032, Maple Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:orange_autumn_sapling, 1030, Orange Autumn Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:orange_cosmos, 1205, Orange Cosmos, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:origin_sapling, 1022, Origin Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:palm_sapling, 1111, Palm Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:pink_cherry_sapling, 1066, Pink Cherry Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:pink_daffodil, 1206, Pink Daffodil, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:pink_hibiscus, 1207, Pink Hibiscus, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:rainbow_birch_sapling, 1026, Rainbow Birch Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:redwood_sapling, 1049, Redwood Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:reed, 1225, Reed, plains, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:rose, 1201, Rose, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:sprout, 1216, Sprout, plains, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:toadstool, 1230, Toadstool, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:umbran_sapling, 1171, Umbran Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:violet, 1202, Violet, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:watergrass, 1226, Watergrass, plains, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:white_cherry_sapling, 1064, White Cherry Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:wildflower, 1204, Wildflower, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:willow_sapling, 1126, Willow Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:wilted_lily, 1209, Wilted Lily, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Biomes O' Plenty, biomesoplenty:yellow_autumn_sapling, 1028, Yellow Autumn Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:spring_crops, sereneseasons:summer_crops, sereneseasons:winter_crops, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:baneful_mushroom, 14000, Baneful Mushroom, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:blaze_bud, 13992, Blaze Bud, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:bluebright_sapling, 13925, Bluebright Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:blush_blossom, 13908, Blush Blossom, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:brewberry_bush, 13928, Brewberry Bush, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:briskbloom, 13912, Briskbloom, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:brittlebush, 13911, Brittlebush, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:brumble, 13918, Brumble, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:camellia, 13906, Camellia, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:cherry_grass, 14049, Cherry Grass, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:cherry_sapling, 14058, Cherry Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:chilled_lily_pad, 14330, Chilled Lily Pad, water, 
+Blue Skies, blue_skies:chillweed, 13910, Chillweed, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:crescent_fruit_sapling, 14061, Crescent Fruit Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:cryo_root, 13691, Cryo Root, crop, forge:crops, hexerei:herbs
+Blue Skies, blue_skies:crystal_flower, 13991, Crystal Flower, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:crystallized_grass, 14002, Crystallized Grass, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:dusk_sapling, 13998, Dusk Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:fiery_bean_seeds, 13881, Fiery Bean Seeds, crop, alexsmobs:crow_foodstuffs, blue_skies:drops/lunar_grass, forge:seeds, hexerei:herbs, quark:seed_pouch_holdable
+Blue Skies, blue_skies:flare_floret, 13993, Flare Floret, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:frose, 13913, Frose, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:frostbright_sapling, 13927, Frostbright Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:glimmer_reed, 14001, Glimmer Reeds, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:lucentroot, 13996, Lucentroot, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:lunar_grass, 13972, Lunar Grass, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:lunar_sapling, 13997, Lunar Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:maple_sapling, 13999, Maple Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:midday_bayhop, 13914, Midday Bayhop, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:moonlit_bloom, 13990, Moonlit Bloom, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:moonlit_water_lily, 14331, Moonlit Water Lily, plains, 
+Blue Skies, blue_skies:muckweed, 13995, Muckweed, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:nightcress, 13994, Nightcress, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:pine_fruit_seeds, 13883, Pine Fruit Seeds, crop, alexsmobs:crow_foodstuffs, blue_skies:drops/turquoise_grass, forge:seeds, hexerei:herbs, quark:seed_pouch_holdable
+Blue Skies, blue_skies:polar_posy, 13909, Polar Posy, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:scalefruit_seeds, 13882, Scalefruit Seeds, crop, alexsmobs:crow_foodstuffs, blue_skies:drops/lunar_grass, forge:seeds, hexerei:herbs, quark:seed_pouch_holdable
+Blue Skies, blue_skies:sea_moss, 13915, Sea Moss, plains, 
+Blue Skies, blue_skies:snowbloom, 13907, Snowbloom, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:snowcap_mushroom, 13930, Snowcap Mushroom, plains, 
+Blue Skies, blue_skies:snowcap_pinhead, 13929, Snowcap Pinhead, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:solnut, 13690, Solnut, crop, forge:crops, hexerei:herbs
+Blue Skies, blue_skies:starlit_sapling, 13926, Starlit Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:tall_lunar_grass, 13973, Lunar Tall Grass, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:tall_turquoise_grass, 13890, Tall Turquoise Grass, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:turquoise_grass, 13889, Turquoise Grass, plains, supplementaries:flower_box_plantable
+Blue Skies, blue_skies:winter_leaf_seeds, 13880, Winter Leaf Seeds, crop, alexsmobs:crow_foodstuffs, blue_skies:drops/turquoise_grass, forge:seeds, hexerei:herbs, quark:seed_pouch_holdable
+Caves and Cliffs Backport, cavesandcliffs:azalea, 3368, Azalea, plains, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Caves and Cliffs Backport, cavesandcliffs:flowering_azalea, 3369, Flowering Azalea, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Caves and Cliffs Backport, cavesandcliffs:small_dripleaf, 3375, Small Dripleaf, plains, supplementaries:flower_box_plantable
+Druidcraft, druidcraft:blueberries, 17013, Blueberries, plains, forge:crops, forge:crops/blueberries, forge:fruits, forge:fruits/blueberries, hexerei:herbs
+Druidcraft, druidcraft:darkwood_sapling, 17033, Darkwood Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Druidcraft, druidcraft:elder_leaf_layer, 17048, Decaying Elder Fruit, plains, 
+Druidcraft, druidcraft:elder_sapling, 17049, Elder Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Druidcraft, druidcraft:lavender, 17094, Lavender, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Farmer's Delight, farmersdelight:brown_mushroom_colony, 15401, Brown Mushroom Colony, plains, supplementaries:flower_box_plantable
+Farmer's Delight, farmersdelight:cabbage_seeds, 15408, Cabbage Seeds, crop, alexsmobs:crow_foodstuffs, forge:seeds, forge:seeds/cabbage, hexerei:herbs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:winter_crops
+Farmer's Delight, farmersdelight:onion, 15405, Onion, crop, forge:crops, forge:crops/onion, forge:vegetables, forge:vegetables/onion, hexerei:herbs, sereneseasons:autumn_crops, sereneseasons:spring_crops
+Farmer's Delight, farmersdelight:red_mushroom_colony, 15402, Red Mushroom Colony, plains, supplementaries:flower_box_plantable
+Farmer's Delight, farmersdelight:rice, 15407, Rice, plains, alexsmobs:crow_foodstuffs, alexsmobs:shrimp_rice_fryables, forge:crops, forge:crops/rice, forge:grain, forge:grain/rice, forge:seeds, forge:seeds/rice, hexerei:herbs, quark:seed_pouch_holdable, sereneseasons:autumn_crops, sereneseasons:summer_crops
+Farmer's Delight, farmersdelight:tomato_seeds, 15409, Tomato Seeds, crop, alexsmobs:crow_foodstuffs, forge:seeds, forge:seeds/tomato, hexerei:herbs, quark:seed_pouch_holdable, sereneseasons:summer_crops
+Farmer's Delight, farmersdelight:wild_beetroots, 15399, Sea Beet, plains, aquaculture:turtle_edible, farmersdelight:wild_crops, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Farmer's Delight, farmersdelight:wild_cabbages, 15394, Wild Cabbage, plains, aquaculture:turtle_edible, farmersdelight:wild_crops, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Farmer's Delight, farmersdelight:wild_carrots, 15397, Wild Carrots, plains, aquaculture:turtle_edible, farmersdelight:wild_crops, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Farmer's Delight, farmersdelight:wild_onions, 15395, Wild Onions, plains, aquaculture:turtle_edible, farmersdelight:wild_crops, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Farmer's Delight, farmersdelight:wild_potatoes, 15398, Wild Potatoes, plains, aquaculture:turtle_edible, farmersdelight:wild_crops, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Farmer's Delight, farmersdelight:wild_rice, 15400, Wild Rice, plains, aquaculture:turtle_edible, farmersdelight:wild_crops, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Farmer's Delight, farmersdelight:wild_tomatoes, 15396, Tomato Vines, plains, aquaculture:turtle_edible, farmersdelight:wild_crops, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Farmer's Respite, farmersrespite:coffee_beans, 15488, Coffee Beans, nether, 
+Farmer's Respite, farmersrespite:tea_seeds, 15487, Tea Seeds, plains, 
+Farmer's Respite, farmersrespite:wild_tea_bush, 15486, Wild Tea Bush, plains, 
+Forbidden & Arcanus, forbidden_arcanus:cherrywood_sapling, 19536, Cherrywood Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Forbidden & Arcanus, forbidden_arcanus:fungyss, 19476, Fungyss, plains, supplementaries:flower_box_plantable
+Forbidden & Arcanus, forbidden_arcanus:golden_orchid_seeds, 19345, Golden Orchid Seeds, crop, alexsmobs:crow_foodstuffs, forbidden_arcanus:magical_farmland_blacklisted, forge:seeds, hexerei:herbs, quark:seed_pouch_holdable
+Forbidden & Arcanus, forbidden_arcanus:mysterywood_sapling, 19553, Mysterywood Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Forbidden & Arcanus, forbidden_arcanus:nipa, 19489, Nipa, plains, supplementaries:flower_box_plantable
+Forbidden & Arcanus, forbidden_arcanus:yellow_orchid, 19564, Yellow Orchid, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Greek Fantasy, greekfantasy:golden_apple_sapling, 6561, Golden Apple Sapling, plains, 
+Greek Fantasy, greekfantasy:olive_sapling, 6565, Olive Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Greek Fantasy, greekfantasy:pomegranate_sapling, 6575, Pomegranate Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, greekfantasy:lampad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Greek Fantasy, greekfantasy:pomegranate_seeds, 6532, Pomegranate Seeds, plains, 
+Greek Fantasy, greekfantasy:reeds, 6560, Reeds, water, greekfantasy:dryad_trade
+Greek Fantasy, greekfantasy:wild_rose, 6563, Wild Rose, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Hexerei, hexerei:belladonna_flower, 13317, Belladonna Flower, plains, hexerei:herbs
+Hexerei, hexerei:flowering_lily_pad, 13258, Flowering Lily Pad, plains, 
+Hexerei, hexerei:mahogany_sapling, 13300, Mahogany Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Hexerei, hexerei:mandrake_flower, 13316, Mandrake Flower, plains, hexerei:herbs
+Hexerei, hexerei:mugwort_bush, 13318, Mugwort Bush, plains, hexerei:herbs
+Hexerei, hexerei:sage_seed, 13257, Sage, crop, 
+Hexerei, hexerei:willow_sapling, 13315, Willow Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Hexerei, hexerei:yellow_dock_bush, 13319, Yellow Dock Bush, plains, hexerei:herbs
+Ice and Fire, iceandfire:fire_lily, 15095, Fire Lily, plains, 
+Ice and Fire, iceandfire:frost_lily, 15096, Frost Lily, plains, 
+Ice and Fire, iceandfire:lightning_lily, 15097, Lightning Lily, plains, 
+Ice and Fire, iceandfire:myrmex_desert_biolight, 15177, Desert Myrmex Bioluminescence, plains, 
+Ice and Fire, iceandfire:myrmex_jungle_biolight, 15178, Jungle Myrmex Bioluminescence, plains, 
+Infernal Expansion, infernalexp:dullthorns, 1470, Dullthorns, plains, supplementaries:flower_box_plantable
+Infernal Expansion, infernalexp:luminous_fungus, 1603, Luminous Fungus, plains, minecraft:fungus, supplementaries:flower_box_plantable
+Infernal Expansion, infernalexp:shroomlight_fungus, 1605, Shroomlight Tear, plains, supplementaries:flower_box_plantable
+Minecraft, minecraft:acacia_sapling, 27, Acacia Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:allium, 114, Allium, plains, aquaculture:turtle_edible, forge:flowers/magenta, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:azure_bluet, 115, Azure Bluet, plains, aquaculture:turtle_edible, forge:flowers/light_gray, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:beetroot_seeds, 890, Beetroot Seeds, crop, alexsmobs:crow_foodstuffs, forbidden_arcanus:magical_farmland_blacklisted, forge:seeds, forge:seeds/beetroot, hexerei:herbs, minecraft:seeds, platy:seeds, quark:seed_pouch_holdable
+Minecraft, minecraft:birch_sapling, 25, Birch Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:blue_orchid, 113, Blue Orchid, plains, aquaculture:turtle_edible, forge:flowers/light_blue, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:brown_mushroom, 124, Brown Mushroom, cave, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, lycanitesmobs:diet_fungivore, minecraft:fungus, minecraft:mushrooms, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:cactus, 205, Cactus, desert, supplementaries:flower_box_plantable
+Minecraft, minecraft:carrot, 830, Carrot, crop, alexsmobs:elephant_foodstuffs, blue_skies:trough_foods, farmersdelight:cabbage_roll_ingredients, forge:crops, forge:crops/carrot, forge:food, forge:food/raw, forge:vegetables, forge:vegetables/carrot, greekfantasy:dryad_trade, greekfantasy:horn_of_plenty, hexerei:herbs, lycanitesmobs:diet_herbivore, minecraft:seeds, quark:seed_pouch_holdable
+Minecraft, minecraft:cornflower, 121, Cornflower, plains, aquaculture:turtle_edible, forge:flowers/blue, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:crimson_fungus, 126, Crimson Fungus, plains, greekfantasy:lampad_trade, minecraft:fungus, platy:fungi, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:crimson_roots, 128, Crimson Roots, plains, greekfantasy:lampad_trade, supplementaries:flower_box_plantable
+Minecraft, minecraft:dandelion, 111, Dandelion, plains, aquaculture:turtle_edible, forge:flowers/yellow, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:dark_oak_sapling, 28, Dark Oak Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:dead_bush, 91, Dead Bush, desert, supplementaries:flower_box_plantable
+Minecraft, minecraft:fern, 90, Fern, plains, supplementaries:flower_box_plantable
+Minecraft, minecraft:grass, 89, Grass, plains, 
+Minecraft, minecraft:jungle_sapling, 26, Jungle Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:large_fern, 378, Large Fern, plains, 
+Minecraft, minecraft:lilac, 374, Lilac, plains, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:lily_of_the_valley, 122, Lily of the Valley, plains, aquaculture:turtle_edible, forge:flowers/white, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:lily_pad, 263, Lily Pad, water, 
+Minecraft, minecraft:melon_seeds, 738, Melon Seeds, crop, alexsmobs:crow_foodstuffs, forbidden_arcanus:magical_farmland_blacklisted, forge:seeds, forge:seeds/melon, hexerei:herbs, minecraft:seeds, platy:seeds, quark:seed_pouch_holdable
+Minecraft, minecraft:nether_sprouts, 130, Warped Sprouts, plains, greekfantasy:lampad_trade
+Minecraft, minecraft:nether_wart, 748, Nether Wart, nether, forge:crops, forge:crops/nether_wart, greekfantasy:lampad_trade, hexerei:herbs, quark:seed_pouch_holdable, starmute:brewing_ingredients
+Minecraft, minecraft:oak_sapling, 23, Oak Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:orange_tulip, 117, Orange Tulip, plains, aquaculture:turtle_edible, forge:flowers/orange, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:oxeye_daisy, 120, Oxeye Daisy, plains, aquaculture:turtle_edible, forge:flowers/light_gray, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:peony, 376, Peony, plains, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:pink_tulip, 119, Pink Tulip, plains, aquaculture:turtle_edible, forge:flowers/pink, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:poppy, 112, Poppy, plains, aquaculture:turtle_edible, forge:flowers/red, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:potato, 831, Potato, crop, alexsmobs:elephant_foodstuffs, farmersdelight:cabbage_roll_ingredients, forge:crops, forge:crops/potato, forge:food, forge:food/raw, forge:vegetables, forge:vegetables/potato, greekfantasy:dryad_trade, greekfantasy:horn_of_plenty, hexerei:herbs, lycanitesmobs:diet_herbivore, minecraft:seeds, quark:seed_pouch_holdable
+Minecraft, minecraft:pumpkin_seeds, 737, Pumpkin Seeds, crop, alexsmobs:crow_foodstuffs, forbidden_arcanus:magical_farmland_blacklisted, forge:seeds, forge:seeds/pumpkin, hexerei:herbs, minecraft:seeds, platy:seeds, quark:seed_pouch_holdable
+Minecraft, minecraft:red_mushroom, 125, Red Mushroom, cave, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, lycanitesmobs:diet_fungivore, minecraft:fungus, minecraft:mushrooms, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:red_tulip, 116, Red Tulip, plains, aquaculture:turtle_edible, forge:flowers/red, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:rose_bush, 375, Rose Bush, plains, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:sea_pickle, 93, Sea Pickle, plains, 
+Minecraft, minecraft:seagrass, 92, Seagrass, plains, 
+Minecraft, minecraft:spruce_sapling, 24, Spruce Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:sugar_cane, 133, Sugar Cane, beach, alexsmobs:elephant_foodstuffs, alexsmobs:gorilla_foodstuffs, forge:sugar_cane, greekfantasy:dryad_trade, quark:seed_pouch_holdable
+Minecraft, minecraft:sunflower, 373, Sunflower, plains, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:sweet_berries, 948, Sweet Berries, plains, alexsmobs:elephant_foodstuffs, forge:berries, forge:food, forge:food/raw, greekfantasy:dryad_trade, greekfantasy:horn_of_plenty, lycanitesmobs:diet_frugivore, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:tall_grass, 377, Tall Grass, plains, 
+Minecraft, minecraft:warped_fungus, 127, Warped Fungus, plains, greekfantasy:lampad_trade, minecraft:fungus, platy:fungi, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Minecraft, minecraft:warped_roots, 129, Warped Roots, plains, greekfantasy:lampad_trade, supplementaries:flower_box_plantable
+Minecraft, minecraft:wheat_seeds, 619, Wheat Seeds, crop, alexsmobs:crow_foodstuffs, forbidden_arcanus:magical_farmland_blacklisted, forge:seeds, forge:seeds/wheat, hexerei:herbs, minecraft:seeds, platy:seeds, quark:seed_pouch_holdable
+Minecraft, minecraft:white_tulip, 118, White Tulip, plains, aquaculture:turtle_edible, forge:flowers/light_gray, greekfantasy:dryad_trade, greekfantasy:overworld_flowers, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Minecraft, minecraft:wither_rose, 123, Wither Rose, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, greekfantasy:lampad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:allium_flower_bush, 12989, Allium Flower Bush, plains, aquaculture:turtle_edible, byg:purple_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:alpine_bellflower, 12991, Alpine Bellflower, plains, aquaculture:turtle_edible, byg:purple_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:amaranth, 12992, Amaranth, plains, aquaculture:turtle_edible, byg:red_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:angelica, 12993, Angelica, plains, aquaculture:turtle_edible, byg:white_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:araucaria_sapling, 12732, Araucaria Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:aspen_sapling, 12164, Aspen Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:azalea, 12994, Azalea, plains, aquaculture:turtle_edible, byg:double_blue_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:baobab_sapling, 12183, Baobab Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:beach_grass, 12976, Beach Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:begonia, 12995, Begonia, plains, aquaculture:turtle_edible, byg:red_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:bistort, 12996, Bistort, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:black_puff, 12949, Black Puff, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:black_rose, 12997, Black Rose, plains, aquaculture:turtle_edible, byg:black_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:blue_enchanted_sapling, 12201, Blue Enchanted Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:blue_glowcane, 12768, Blue Glowcane, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:blue_glowshroom, 12779, Blue Glowshroom, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:blue_sage, 12998, Blue Sage, plains, aquaculture:turtle_edible, byg:blue_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:blue_spruce_sapling, 12734, Blue Spruce Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:blueberries, 12953, Blueberries, plains, byg:blue_dye, forge:crops, forge:fruits, hexerei:herbs, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:brown_birch_sapling, 12736, Brown Birch Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:brown_oak_sapling, 12738, Brown Oak Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:brown_zelkova_sapling, 12740, Brown Zelkova Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:bulbis_anomaly, 12223, Bulbis Anomaly, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:bulbis_oddity, 12222, Bulbis Oddity, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:bulbis_sprouts, 12884, Bulbis Sprouts, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:california_poppy, 12999, California Poppy, plains, aquaculture:turtle_edible, byg:orange_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:cattail, 12955, Cattail, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:cika_sapling, 12262, Cika Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:clover_patch, 12978, Clover Patch, plains, 
+Oh The Biomes You'll Go, byg:crimson_berries, 12787, Crimson Berries, plains, forge:crops, forge:fruits, hexerei:herbs, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:crocus, 13000, Crocus, plains, aquaculture:turtle_edible, byg:purple_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:cryptic_bramble, 12939, Cryptic Bramble, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:cyan_amaranth, 13001, Cyan Amaranth, plains, aquaculture:turtle_edible, byg:cyan_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:cyan_rose, 13002, Cyan Rose, plains, aquaculture:turtle_edible, byg:cyan_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:cyan_tulip, 13003, Cyan Tulip, plains, aquaculture:turtle_edible, byg:cyan_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:cypress_sapling, 12280, Cypress Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:daffodil, 13004, Daffodil, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:death_cap, 12836, Death Cap, plains, 
+Oh The Biomes You'll Go, byg:delphinium, 13005, Delphinium, plains, aquaculture:turtle_edible, byg:double_blue_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:ebony_sapling, 12298, Ebony Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:embur_lily, 12856, Embur Lily, plains, 
+Oh The Biomes You'll Go, byg:embur_roots, 12854, Embur Roots, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:embur_sprouts, 12853, Embur Sprouts, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:embur_wart, 12712, Embur Wart, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:ender_lily, 12863, Ender Lily, plains, 
+Oh The Biomes You'll Go, byg:ether_bush, 12892, Ether Bush, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:ether_foliage, 12889, Ether Foliage, plains, 
+Oh The Biomes You'll Go, byg:ether_grass, 12891, Ether Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:ether_sapling, 12317, Ether Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:fairy_slipper, 13006, Fairy Slipper, plains, aquaculture:turtle_edible, byg:magenta_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:fir_sapling, 12334, Fir Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:firecracker_flower_bush, 13007, Firecracker Flower Bush, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:flower_patch, 12979, Flower Patch, plains, 
+Oh The Biomes You'll Go, byg:flowering_indigo_jacaranda_bush, 12419, Flowering Indigo Jacaranda Bush, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:flowering_jacaranda_bush, 12414, Flowering Jacaranda Bush, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:foxglove, 13008, Foxglove, plains, aquaculture:turtle_edible, byg:double_cyan_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:fungal_imparius, 12399, Fungal Imparius, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:golden_spined_cactus, 12956, Golden Spined Cactus, plains, aquaculture:turtle_edible, byg:green_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:green_enchanted_sapling, 12352, Green Enchanted Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:green_mushroom, 12943, Green Mushroom, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:green_tulip, 13009, Green Tulip, plains, aquaculture:turtle_edible, byg:lime_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:guzmania, 13010, Guzmania, plains, aquaculture:turtle_edible, byg:orange_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:holly_sapling, 12372, Holly Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:horseweed, 12957, Horseweed, plains, byg:green_dye, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:imparius_bush, 12864, Imparius Bush, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:imparius_mushroom, 12393, Imparius Mushroom, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:incan_lily, 13011, Incan Lily, plains, aquaculture:turtle_edible, byg:orange_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:indigo_jacaranda_bush, 12418, Indigo Jacaranda Bush, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:indigo_jacaranda_sapling, 12420, Indigo Jacaranda Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:iris, 13012, Iris, plains, aquaculture:turtle_edible, byg:purple_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:ivis_roots, 12861, Ivis Roots, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:ivis_sprout, 12862, Ivis Sprout, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:jacaranda_bush, 12413, Jacaranda Bush, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:jacaranda_sapling, 12415, Jacaranda Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:japanese_orchid, 13013, Japanese Orchid, plains, aquaculture:turtle_edible, byg:double_pink_dye, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:joshua_sapling, 12742, Joshua Sapling, plains, forge:saplings
+Oh The Biomes You'll Go, byg:kovan_flower, 13014, Kovan Flower, plains, aquaculture:turtle_edible, byg:red_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:lament_sapling, 12439, Lament Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:lament_sprouts, 12442, Lament Sprouts, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:lazarus_bellflower, 13015, Lazarus Bellflower, plains, aquaculture:turtle_edible, byg:magenta_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:leaf_pile, 12977, Leaf Pile, plains, 
+Oh The Biomes You'll Go, byg:lolipop_flower, 13016, Lolipop Flower, plains, aquaculture:turtle_edible, byg:yellow_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:magenta_amaranth, 13017, Magenta Amaranth, plains, aquaculture:turtle_edible, byg:magenta_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:magenta_tulip, 13018, Magenta Tulip, plains, aquaculture:turtle_edible, byg:magenta_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:mahogany_sapling, 12458, Mahogany Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:mangrove_sapling, 12476, Mangrove Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:maple_sapling, 12494, Maple Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:mini_cactus, 12958, Mini Cactus, plains, byg:green_dye, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:nether_bristle, 12839, Nether Bristle, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:nightshade_berries, 12894, Nightshade Berries, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:nightshade_roots, 12898, Nightshade Roots, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:nightshade_sapling, 12516, Nightshade Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:nightshade_sprouts, 12897, Nightshade Sprouts, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:oddity_bush, 12904, Oddity Bush, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:orange_amaranth, 13019, Orange Amaranth, plains, aquaculture:turtle_edible, byg:orange_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:orange_birch_sapling, 12747, Orange Birch Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:orange_daisy, 13020, Orange Daisy, plains, aquaculture:turtle_edible, byg:orange_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:orange_oak_sapling, 12749, Orange Oak Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:orange_spruce_sapling, 12751, Orange Spruce Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:orchard_sapling, 12753, Orchard Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:osiria_rose, 13021, Osiria Rose, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:palm_sapling, 12535, Palm Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:palo_verde_sapling, 12554, Palo Verde Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:peach_leather_flower, 13022, Peach Leather Flower, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:pine_sapling, 12560, Pine Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:pink_allium, 13023, Pink Allium, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:pink_allium_flower_bush, 13024, Pink Allium Flower Bush, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:pink_anemone, 13026, Pink Anemone, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:pink_cherry_foliage, 12241, Pink Cherry Foliage, plains, 
+Oh The Biomes You'll Go, byg:pink_cherry_sapling, 12240, Pink Cherry Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:pink_daffodil, 13027, Pink Daffodil, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:pink_glowcane, 12771, Pink Glowcane, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:pink_orchid, 13028, Pink Orchid, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:prairie_grass, 12961, Prairie Grass, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:prickly_pear_cactus, 12960, Prickly Pear Cactus, plains, byg:green_dye, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:protea_flower, 13029, Protea Flower, plains, aquaculture:turtle_edible, byg:magenta_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:purple_amaranth, 13030, Purple Amaranth, plains, aquaculture:turtle_edible, byg:purple_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:purple_bulbis_anomaly, 12220, Purple Bulbis Anomaly, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:purple_bulbis_oddity, 12219, Purple Bulbis Oddity, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:purple_glowcane, 12774, Purple Glowcane, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:purple_glowshroom, 12781, Purple Glowshroom, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:purple_orchid, 13031, Purple Orchid, plains, aquaculture:turtle_edible, byg:purple_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:purple_sage, 13032, Purple Sage, plains, aquaculture:turtle_edible, byg:purple_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:purple_tulip, 13033, Purple Tulip, plains, aquaculture:turtle_edible, byg:purple_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:rainbow_eucalyptus_sapling, 12578, Rainbow Eucalyptus Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:red_birch_sapling, 12757, Red Birch Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:red_cornflower, 13034, Red Cornflower, plains, aquaculture:turtle_edible, byg:red_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:red_glowcane, 12777, Red Glowcane, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:red_maple_sapling, 12496, Red Maple Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:red_oak_sapling, 12759, Red Oak Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:red_orchid, 13035, Red Orchid, plains, aquaculture:turtle_edible, byg:red_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:red_spruce_sapling, 12761, Red Spruce Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:redwood_sapling, 12596, Redwood Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:reeds, 12962, Reeds, plains, byg:brown_dye, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:richea, 13036, Richea, plains, aquaculture:turtle_edible, byg:light_gray_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:rose, 13037, Rose, plains, aquaculture:turtle_edible, byg:red_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:scorched_bush, 12829, Scorched Bush, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:scorched_grass, 12830, Scorched Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:short_beach_grass, 12975, Short Beach Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:short_grass, 12967, Short Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:shulkren_fungus, 12924, Shulkren Fungus, plains, 
+Oh The Biomes You'll Go, byg:shulkren_moss_blanket, 12926, Shulkren Moss Blanket, plains, 
+Oh The Biomes You'll Go, byg:silver_maple_sapling, 12498, Silver Maple Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:silver_vase_flower, 13038, Silver Vase Flower, plains, aquaculture:turtle_edible, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:skyris_sapling, 12617, Skyris Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:snowdrops, 13039, Snowdrops, plains, aquaculture:turtle_edible, byg:white_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:soul_shroom, 12832, Soul Shroom, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:sythian_fungus, 12692, Sythian Fungus, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:sythian_roots, 12847, Sythian Roots, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:sythian_sprout, 12848, Sythian Sprout, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:tall_allium, 12990, Tall Allium, plains, aquaculture:turtle_edible, byg:double_purple_dye, byg:purple_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:tall_crimson_roots, 12786, Tall Crimson Roots, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:tall_embur_roots, 12855, Tall Embur Roots, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:tall_ether_grass, 12890, Tall Ether Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:tall_pink_allium, 13025, Tall Pink Allium, plains, aquaculture:turtle_edible, byg:double_pink_dye, byg:pink_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:tall_prairie_grass, 12968, Tall Prairie Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:thereal_bellflower, 12893, Thereal Bellflower, plains, aquaculture:turtle_edible, byg:light_blue_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:tiny_lilypads, 12969, Tiny Lilypads, plains, 
+Oh The Biomes You'll Go, byg:torch_ginger, 13040, Torch Ginger, plains, aquaculture:turtle_edible, byg:red_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:vermilion_sculk_growth, 12922, Vermilion Sculk Growth, plains, 
+Oh The Biomes You'll Go, byg:vermilion_sculk_tendrils, 12921, Vermilion Sculk Tendrils, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:violet_leather_flower, 13041, Violet Leather Flower, plains, aquaculture:turtle_edible, byg:blue_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:warped_bush, 12790, Warped Bush, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:water_silk, 12970, Water Silk, plains, 
+Oh The Biomes You'll Go, byg:weed_grass, 12973, Weed Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:weeping_milkcap, 12945, Weeping Milkcap, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:whaling_grass, 12827, Whaling Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:white_anemone, 13042, White Anemone, plains, aquaculture:turtle_edible, byg:white_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:white_cherry_foliage, 12244, White Cherry Foliage, plains, 
+Oh The Biomes You'll Go, byg:white_cherry_sapling, 12243, White Cherry Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:white_sage, 13043, White Sage, plains, aquaculture:turtle_edible, byg:white_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:willow_sapling, 12636, Willow Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:wilted_grass, 12974, Wilted Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:winter_cyclamen, 13044, Winter Cyclamen, plains, aquaculture:turtle_edible, byg:cyan_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:winter_grass, 12972, Winter Grass, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:winter_rose, 13045, Winter Rose, plains, aquaculture:turtle_edible, byg:white_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:winter_scilla, 13046, Winter Scilla, plains, aquaculture:turtle_edible, byg:light_blue_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:winter_succulent, 12971, Winter Succulent, plains, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:witch_hazel_sapling, 12655, Witch Hazel Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:withering_oak_sapling, 12728, Withering Oak Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:wood_blewit, 12947, Wood Blewit, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:yellow_birch_sapling, 12763, Yellow Birch Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:yellow_daffodil, 13047, Yellow Daffodil, plains, aquaculture:turtle_edible, byg:yellow_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:yellow_spruce_sapling, 12765, Yellow Spruce Sapling, plains, forge:saplings
+Oh The Biomes You'll Go, byg:yellow_tulip, 13048, Yellow Tulip, plains, aquaculture:turtle_edible, byg:yellow_dye, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+Oh The Biomes You'll Go, byg:zelkova_sapling, 12673, Zelkova Sapling, plains, alexsmobs:elephant_foodstuffs, forge:saplings, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Pandoras Creatures, pandoras_creatures:dhania, 6475, Dhania, plains, 
+Pandoras Creatures, pandoras_creatures:hill_bloom, 6476, Hill Bloom, plains, 
+Pandoras Creatures, pandoras_creatures:horsetail, 6474, Horsetail, plains, 
+Quark, quark:blue_blossom_sapling, 18436, Frosty Blossom Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Quark, quark:glowshroom, 18432, Glowshroom, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Quark, quark:lavender_blossom_sapling, 18438, Serene Blossom Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Quark, quark:orange_blossom_sapling, 18440, Warm Blossom Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Quark, quark:pink_blossom_sapling, 18442, Sweet Blossom Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Quark, quark:red_blossom_sapling, 18446, Fiery Blossom Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Quark, quark:yellow_blossom_sapling, 18444, Sunny Blossom Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Subterranean Wilderness, subwild:long_foxfire, 6271, Foxfire Mushroom, cave, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Subterranean Wilderness, subwild:short_foxfire, 6270, Foxfire Mushroom, cave, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Supplementaries, supplementaries:flax_seeds, 2170, Flax Seeds, crop, alexsmobs:crow_foodstuffs, forge:seeds, forge:seeds/flax, hexerei:herbs, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+Supplementaries, supplementaries:wild_flax, 2171, Wild Flax, plains, 
+The Outer End, outer_end:azure_sprouts, 17884, Azure Sprouts, plains, supplementaries:flower_box_plantable
+The Outer End, outer_end:cobalt_roots, 17930, Cobalt Roots, plains, supplementaries:flower_box_plantable
+The Outer End, outer_end:ender_roots, 17880, Ender Roots, plains, supplementaries:flower_box_plantable
+The Outer End, outer_end:mint_roots, 17929, Mint Roots, plains, supplementaries:flower_box_plantable
+The Outer End, outer_end:rose_roots, 17928, Rose Roots, plains, supplementaries:flower_box_plantable
+The Outer End, outer_end:tall_ender_roots, 17881, Tall Ender Roots, plains, supplementaries:flower_box_plantable
+The Undergarden, undergarden:ashen_deepturf, 16335, Ashen Deepturf, plains, supplementaries:flower_box_plantable
+The Undergarden, undergarden:blisterberry, 16230, Blisterberry, plains, supplementaries:flower_box_plantable
+The Undergarden, undergarden:blood_mushroom, 16353, Blood Mushroom, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, undergarden:mushrooms
+The Undergarden, undergarden:deepturf, 16334, Deepturf, plains, supplementaries:flower_box_plantable
+The Undergarden, undergarden:ditchbulb, 16177, Ditchbulb, plains, minecraft:coals
+The Undergarden, undergarden:frozen_deepturf, 16336, Frozen Deepturf, plains, supplementaries:flower_box_plantable
+The Undergarden, undergarden:gloomgourd_seeds, 16240, Gloomgourd Seeds, crop, alexsmobs:crow_foodstuffs, forge:seeds, hexerei:herbs, quark:seed_pouch_holdable
+The Undergarden, undergarden:grongle_sapling, 16389, Grongle Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+The Undergarden, undergarden:indigo_mushroom, 16345, Indigo Mushroom, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, undergarden:mushrooms
+The Undergarden, undergarden:ink_mushroom, 16351, Ink Mushroom, plains, supplementaries:flower_box_plantable
+The Undergarden, undergarden:shimmerweed, 16338, Shimmerweed, plains, aquaculture:turtle_edible, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:small_flowers, supplementaries:flower_box_plantable
+The Undergarden, undergarden:smogstem_sapling, 16357, Smogstem Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+The Undergarden, undergarden:tall_deepturf, 16337, Tall Deepturf, plains, supplementaries:flower_box_plantable
+The Undergarden, undergarden:tall_shimmerweed, 16339, Tall Shimmerweed, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, minecraft:tall_flowers, supplementaries:flower_box_plantable
+The Undergarden, undergarden:underbeans, 16228, Underbeans, plains, supplementaries:flower_box_plantable
+The Undergarden, undergarden:veil_mushroom, 16348, Veiled Mushroom, plains, farmersdelight:cabbage_roll_ingredients, forge:mushrooms, greekfantasy:lampad_trade, quark:seed_pouch_holdable, supplementaries:flower_box_plantable, undergarden:mushrooms
+The Undergarden, undergarden:wigglewood_sapling, 16373, Wigglewood Sapling, plains, alexsmobs:elephant_foodstuffs, greekfantasy:dryad_trade, hexerei:herbs, minecraft:saplings, quark:seed_pouch_holdable, supplementaries:flower_box_plantable
+TheAbyss, theabyss:abyss_crystal_ore, 4304, Abyss Crystal, plains, 
+TheAbyss, theabyss:anima_fire, 4250, Anima Mea, plains, 
+TheAbyss, theabyss:aurel_cave_moss, 4313, Aurel Cave Moss, plains, 
+TheAbyss, theabyss:aurel_crystal_ore, 4300, Caverna Crystal, cave, 
+TheAbyss, theabyss:aurel_leave_carpet, 4315, Aurel Leave Carpet, cave, 
+TheAbyss, theabyss:aurel_rank, 4316, Aurel Rank, cave, 
+TheAbyss, theabyss:aurel_shroom, 4314, Aurel Shroom, plains, 
+TheAbyss, theabyss:blaru_cave_moss, 4317, Blaru Cave Moss, plains, 
+TheAbyss, theabyss:blaru_leave_carpet, 4308, Blaru Leave Carpet, plains, 
+TheAbyss, theabyss:caecus_versa, 4241, Caecus Versa, plains, 
+TheAbyss, theabyss:caverna_crystal_ore, 4301, Caverna Crystal, cave, 
+TheAbyss, theabyss:crimson_crystal_ore, 4298, Crimson Crystal, nether, 
+TheAbyss, theabyss:ender_crystal_ore, 4302, Ender Crystal, plains, 
+TheAbyss, theabyss:exolius_plant, 4306, Exolius Maximus, plains, 
+TheAbyss, theabyss:flos_vitae, 4242, Flos Vitae, plains, 
+TheAbyss, theabyss:fortis_ultima, 4231, Fortis Ultima, plains, 
+TheAbyss, theabyss:frost_crystal_ore, 4303, Frost Crystal, plains, 
+TheAbyss, theabyss:glow_shroom, 4263, Glow Shroom, plains, 
+TheAbyss, theabyss:glowing_blaru_moss, 4312, Glowing Blaru Moss, plains, 
+TheAbyss, theabyss:goralys_lasus, 4245, Goralys Lasus, plains, 
+TheAbyss, theabyss:grass_big, 4261, Grass, plains, 
+TheAbyss, theabyss:grass_middle, 4260, Grass, plains, 
+TheAbyss, theabyss:grass_small, 4259, Grass, plains, 
+TheAbyss, theabyss:gulom_plant, 4229, Gulom Plant, plains, 
+TheAbyss, theabyss:hollow_crystal_ore, 4305, Hollow Crystal, plains, 
+TheAbyss, theabyss:ice_rank, 4252, Ice Rank, plains, 
+TheAbyss, theabyss:icela_rank, 4255, Icela Rank, plains, 
+TheAbyss, theabyss:icora_flower, 4253, Icora Flower, plains, 
+TheAbyss, theabyss:ignetaris_versa, 4244, Ignetaris Versa, plains, 
+TheAbyss, theabyss:jungle_leave_carpet, 4309, Jungle Leave Carpet, plains, 
+TheAbyss, theabyss:lazarus_grass, 4292, Lazarus Grass, plains, 
+TheAbyss, theabyss:lera_exiliaris, 4243, Lera Exiliaris, plains, 
+TheAbyss, theabyss:lercas_umbrella, 4234, Lercas Umbrella, plains, 
+TheAbyss, theabyss:loran_bush, 4248, Loran Bush, plains, 
+TheAbyss, theabyss:loran_bush_2, 4247, Loran Bush, plains, 
+TheAbyss, theabyss:loran_flower, 4228, Loran Flower, plains, 
+TheAbyss, theabyss:luma_grass, 4387, Luma Grass, plains, 
+TheAbyss, theabyss:lumus_flower, 4294, Lumus Flower, plains, 
+TheAbyss, theabyss:lumus_grass, 4293, Lumus Grass, plains, 
+TheAbyss, theabyss:lumus_maximus, 4237, Lumus Maximus, plains, 
+TheAbyss, theabyss:lungo_rank, 4311, Lungo Rank, plains, 
+TheAbyss, theabyss:mini_stone_1, 4274, Little Stone, plains, 
+TheAbyss, theabyss:octavys_magynisius, 4240, Octavys Magynisius, plains, 
+TheAbyss, theabyss:opia_shroom, 4232, Opia Shroom, plains, 
+TheAbyss, theabyss:ralom_plant, 4230, Ralom Plant, plains, 
+TheAbyss, theabyss:raptor_egg, 4395, Raptor Egg, plains, 
+TheAbyss, theabyss:rotten_rank, 4256, Rotten Rank, plains, 
+TheAbyss, theabyss:rub_shroom, 4265, Rub Shroom, plains, 
+TheAbyss, theabyss:saturnia_versa, 4236, Saturnia Versa, plains, 
+TheAbyss, theabyss:slimed_carpet, 4310, Slimed Carpet, plains, 
+TheAbyss, theabyss:slimed_vitae, 4251, Slimed Vitae, plains, 
+TheAbyss, theabyss:srala_shroom, 4235, Srala Shroom, plains, 
+TheAbyss, theabyss:tall_glow_shroom, 4262, Tall Glow Shroom, plains, 
+TheAbyss, theabyss:tall_rub_shroom, 4264, Tall Rub Shroom, plains, 
+TheAbyss, theabyss:tantra_grass_big, 4291, Tantra Grass, plains, 
+TheAbyss, theabyss:tantra_grass_middle, 4290, Tantra Grass, plains, 
+TheAbyss, theabyss:tantra_grass_small, 4289, Tantra Grass, plains, 
+TheAbyss, theabyss:tenuem_fire, 4249, Tenuem, plains, 
+TheAbyss, theabyss:tesla_rank, 4254, Tesla Rank, plains, 
+TheAbyss, theabyss:thunder_flower, 4233, Thunder Flower, plains, 
+TheAbyss, theabyss:vealus_meramus, 4297, Vealus Meramus, plains, 
+TheAbyss, theabyss:vera_lesus, 4238, Vera Lesus, plains, 
+TheAbyss, theabyss:verta_celsius, 4266, Verta Celsius, plains, 
+TheAbyss, theabyss:warped_crystal_ore, 4299, Warped Crystal, nether, 
+TheAbyss, theabyss:wart_root, 4246, Abyss Wart Roots, plains, 
+TheAbyss, theabyss:young_exolius_plant, 4307, Young Exolius Maximus, plains, 
+Tropicraft, tropicraft:acai_vine, 13335, Acai Vine, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:anemone, 13336, Anemone, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:black_mangrove_propagule, 13412, Black Mangrove Propagule, plains, tropicraft:saplings
+Tropicraft, tropicraft:bromeliad, 13337, Bromeliad, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:canna, 13338, Canna, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:commelina_diffusa, 13339, Commelina Diffusa, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:crocosmia, 13340, Crocosmia, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:croton, 13341, Croton, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:dracaena, 13342, Dracaena, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:foliage, 13344, Foliage, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:grapefruit_sapling, 13387, Grapefruit Sapling, plains, tropicraft:saplings
+Tropicraft, tropicraft:iris, 13443, Iris, plains, 
+Tropicraft, tropicraft:lemon_sapling, 13388, Lemon Sapling, plains, tropicraft:saplings
+Tropicraft, tropicraft:lime_sapling, 13389, Lime Sapling, plains, tropicraft:saplings
+Tropicraft, tropicraft:magic_mushroom, 13345, Magic Mushroom, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:mahogany_sapling, 13392, Mahogany Sapling, plains, tropicraft:saplings
+Tropicraft, tropicraft:orange_anthurium, 13346, Orange Anthurium, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:orange_sapling, 13390, Orange Sapling, plains, tropicraft:saplings
+Tropicraft, tropicraft:orchid, 13347, Orchid, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:palm_sapling, 13393, Palm Sapling, plains, tropicraft:saplings
+Tropicraft, tropicraft:papaya_sapling, 13391, Papaya Sapling, plains, tropicraft:saplings
+Tropicraft, tropicraft:pathos, 13348, Pathos, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:pineapple, 13444, Pineapple, plains, 
+Tropicraft, tropicraft:raw_coffee_bean, 13529, Raw Coffee Bean, crop, 
+Tropicraft, tropicraft:red_anthurium, 13349, Red Anthurium, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Tropicraft, tropicraft:red_mangrove_propagule, 13409, Red Mangrove Propagule, plains, tropicraft:saplings
+Tropicraft, tropicraft:reeds, 13422, Reeds, plains, 
+Tropicraft, tropicraft:small_golden_leather_fern, 13459, Golden Leather Fern, plains, 
+Tropicraft, tropicraft:tall_mangrove_propagule, 13410, Tall Mangrove Propagule, plains, tropicraft:saplings
+Tropicraft, tropicraft:tea_mangrove_propagule, 13411, Tea Mangrove Propagule, plains, tropicraft:saplings
+Tropicraft, tropicraft:tropical_fern, 13343, Tropical Fern, plains, greekfantasy:dryad_trade, hexerei:herbs, minecraft:flowers, supplementaries:flower_box_plantable, tropicraft:small_flowers
+Untamed Wilds, untamedwilds:anemone_rose_bulb, 5424, Rose Bulb Anemone, plains, 
+Untamed Wilds, untamedwilds:anemone_sand, 5425, Sand Anemone, plains, 
+Untamed Wilds, untamedwilds:anemone_sebae, 5426, Purple Tip Anemone, plains, 
+Untamed Wilds, untamedwilds:flora_amazon_sword, 5432, Amazon Sword, plains, 
+Untamed Wilds, untamedwilds:flora_bush_temperate, 5434, Temperate Bush, plains, 
+Untamed Wilds, untamedwilds:flora_eelgrass, 5433, Eelgrass, plains, 
+Untamed Wilds, untamedwilds:flora_elephant_ear, 5435, Elephant Ear, plains, 
+Untamed Wilds, untamedwilds:flora_hemlock, 5436, Hemlock, plains, 
+----------------------------------------------------------------
+Mod name, Registry name, Item ID, Display name, Plant Type, Tags
+----------------------------------------------------------------

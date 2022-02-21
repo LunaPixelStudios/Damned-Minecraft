@@ -1,0 +1,464 @@
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                            BO3 object                           | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Author: Unknown
+
+Description: No description
+
+Version: 3
+
+SettingsMode: WriteWithoutComments
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                          Main settings                          | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Tree: false
+
+Frequency: 1
+
+Rarity: 33.0
+
+RotateRandomly: true
+
+SpawnHeight: highestBlock
+
+SpawnHeightOffset: -4
+
+SpawnHeightVariance: 0
+
+##############################
+# Height Limits for the BO3. #
+##############################
+
+MinHeight: 55
+
+MaxHeight: 62
+
+######################
+# Extrusion settings #
+######################
+
+ExtrudeMode: None
+
+ExtrudeThroughBlocks: AIR
+
+MaxBranchDepth: 10
+
+ExcludedBiomes: All
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                      Source block settings                      | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+SourceBlocks: AIR
+
+MaxPercentageOutsideSourceBlock: 100
+
+OutsideSourceBlock: placeAnyway
+
+IsOTGPlus: false
+
+InheritBO3: 
+
+InheritBO3Rotation: NORTH
+
+OverrideChildSettings: true
+
+OverrideParentHeight: false
+
+CanOverride: false
+
+BranchFrequency: 0
+
+BranchFrequencyGroup: 
+
+MustBeBelowOther: false
+
+MustBeInside: 
+
+CannotBeInside: 
+
+ReplacesBO3: 
+
+CanSpawnOnWater: true
+
+SpawnOnWaterOnly: false
+
+SpawnUnderWater: false
+
+SpawnAtWaterLevel: false
+
+HeightOffset: 0
+
+RemoveAir: true
+
+ReplaceAbove: 
+
+ReplaceBelow: 
+
+ReplaceWithBiomeBlocks: true
+
+ReplaceWithGroundBlock: DIRT
+
+ReplaceWithSurfaceBlock: GRASS
+
+SmoothRadius: 0
+
+SmoothHeightOffset: 0
+
+SmoothStartTop: false
+
+SmoothStartWood: false
+
+SmoothingSurfaceBlock: 
+
+SmoothingGroundBlock: 
+
+BO3Group: 
+
+IsSpawnPoint: false
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                              Blocks                             | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Block(-8,2,-4,PACKED_ICE)
+Block(-7,0,-4,PACKED_ICE)
+Block(-7,1,-5,PACKED_ICE)
+Block(-7,1,-4,PACKED_ICE)
+Block(-7,1,-3,PACKED_ICE)
+Block(-7,2,-6,PACKED_ICE)
+Block(-7,2,-5,PACKED_ICE)
+Block(-7,2,-4,PACKED_ICE)
+Block(-7,2,-3,PACKED_ICE)
+Block(-7,2,-2,PACKED_ICE)
+Block(-7,3,-5,PACKED_ICE)
+Block(-7,3,-4,PACKED_ICE)
+Block(-7,3,-3,PACKED_ICE)
+Block(-7,4,-4,PACKED_ICE)
+Block(-6,0,-5,PACKED_ICE)
+Block(-6,0,-4,PACKED_ICE)
+Block(-6,0,-3,PACKED_ICE)
+Block(-6,1,-5,PACKED_ICE)
+Block(-6,1,-4,PACKED_ICE)
+Block(-6,1,-3,PACKED_ICE)
+Block(-6,1,-2,PACKED_ICE)
+Block(-6,2,-5,PACKED_ICE)
+Block(-6,2,-4,PACKED_ICE)
+Block(-6,2,-3,PACKED_ICE)
+Block(-6,2,-2,PACKED_ICE)
+Block(-6,2,-1,PACKED_ICE)
+Block(-6,3,-5,PACKED_ICE)
+Block(-6,3,-4,PACKED_ICE)
+Block(-6,3,-3,PACKED_ICE)
+Block(-6,3,-2,PACKED_ICE)
+Block(-6,4,-5,PACKED_ICE)
+Block(-6,4,-4,PACKED_ICE)
+Block(-6,4,-3,PACKED_ICE)
+Block(-5,0,-5,PACKED_ICE)
+Block(-5,0,-4,PACKED_ICE)
+Block(-5,0,-3,PACKED_ICE)
+Block(-5,0,-2,PACKED_ICE)
+Block(-5,0,-1,PACKED_ICE)
+Block(-5,1,-6,PACKED_ICE)
+Block(-5,1,-5,PACKED_ICE)
+Block(-5,1,-4,PACKED_ICE)
+Block(-5,1,-3,PACKED_ICE)
+Block(-5,1,-2,PACKED_ICE)
+Block(-5,1,-1,PACKED_ICE)
+Block(-5,2,-6,PACKED_ICE)
+Block(-5,2,-5,PACKED_ICE)
+Block(-5,2,-4,PACKED_ICE)
+Block(-5,2,-3,PACKED_ICE)
+Block(-5,2,-2,PACKED_ICE)
+Block(-5,2,-1,PACKED_ICE)
+Block(-5,2,0,PACKED_ICE)
+Block(-5,3,-6,PACKED_ICE)
+Block(-5,3,-5,PACKED_ICE)
+Block(-5,3,-4,PACKED_ICE)
+Block(-5,3,-3,PACKED_ICE)
+Block(-5,3,-2,PACKED_ICE)
+Block(-5,3,-1,PACKED_ICE)
+Block(-5,4,-5,PACKED_ICE)
+Block(-5,4,-4,PACKED_ICE)
+Block(-5,4,-3,PACKED_ICE)
+Block(-5,4,-2,PACKED_ICE)
+Block(-5,4,-1,PACKED_ICE)
+Block(-4,0,-5,PACKED_ICE)
+Block(-4,0,-4,PACKED_ICE)
+Block(-4,0,-3,PACKED_ICE)
+Block(-4,0,-2,PACKED_ICE)
+Block(-4,0,-1,PACKED_ICE)
+Block(-4,1,-5,PACKED_ICE)
+Block(-4,1,-4,PACKED_ICE)
+Block(-4,1,-3,PACKED_ICE)
+Block(-4,1,-2,PACKED_ICE)
+Block(-4,1,-1,PACKED_ICE)
+Block(-4,1,0,PACKED_ICE)
+Block(-4,2,-5,PACKED_ICE)
+Block(-4,2,-4,PACKED_ICE)
+Block(-4,2,-3,PACKED_ICE)
+Block(-4,2,-2,PACKED_ICE)
+Block(-4,2,-1,PACKED_ICE)
+Block(-4,2,0,PACKED_ICE)
+Block(-4,2,1,PACKED_ICE)
+Block(-4,3,-5,PACKED_ICE)
+Block(-4,3,-4,PACKED_ICE)
+Block(-4,3,-3,PACKED_ICE)
+Block(-4,3,-2,PACKED_ICE)
+Block(-4,3,-1,PACKED_ICE)
+Block(-4,3,0,PACKED_ICE)
+Block(-4,4,-5,PACKED_ICE)
+Block(-4,4,-4,PACKED_ICE)
+Block(-4,4,-3,PACKED_ICE)
+Block(-4,4,-2,PACKED_ICE)
+Block(-4,4,-1,PACKED_ICE)
+Block(-3,0,-5,PACKED_ICE)
+Block(-3,0,-4,PACKED_ICE)
+Block(-3,0,-3,PACKED_ICE)
+Block(-3,0,-2,PACKED_ICE)
+Block(-3,0,-1,PACKED_ICE)
+Block(-3,0,0,PACKED_ICE)
+Block(-3,1,-5,PACKED_ICE)
+Block(-3,1,-4,PACKED_ICE)
+Block(-3,1,-3,PACKED_ICE)
+Block(-3,1,-2,PACKED_ICE)
+Block(-3,1,-1,PACKED_ICE)
+Block(-3,1,0,PACKED_ICE)
+Block(-3,1,1,PACKED_ICE)
+Block(-3,2,-5,PACKED_ICE)
+Block(-3,2,-4,PACKED_ICE)
+Block(-3,2,-3,PACKED_ICE)
+Block(-3,2,-2,PACKED_ICE)
+Block(-3,2,-1,PACKED_ICE)
+Block(-3,2,0,PACKED_ICE)
+Block(-3,2,1,PACKED_ICE)
+Block(-3,3,-5,PACKED_ICE)
+Block(-3,3,-4,PACKED_ICE)
+Block(-3,3,-3,PACKED_ICE)
+Block(-3,3,-2,PACKED_ICE)
+Block(-3,3,-1,PACKED_ICE)
+Block(-3,3,0,PACKED_ICE)
+Block(-3,3,1,PACKED_ICE)
+Block(-3,4,-6,PACKED_ICE)
+Block(-3,4,-5,PACKED_ICE)
+Block(-3,4,-4,PACKED_ICE)
+Block(-3,4,-3,PACKED_ICE)
+Block(-3,4,-2,PACKED_ICE)
+Block(-3,4,-1,PACKED_ICE)
+Block(-3,4,0,PACKED_ICE)
+Block(-2,0,-6,PACKED_ICE)
+Block(-2,0,-5,PACKED_ICE)
+Block(-2,0,-4,PACKED_ICE)
+Block(-2,0,-3,PACKED_ICE)
+Block(-2,0,-2,PACKED_ICE)
+Block(-2,0,-1,PACKED_ICE)
+Block(-2,1,-6,PACKED_ICE)
+Block(-2,1,-5,PACKED_ICE)
+Block(-2,1,-4,PACKED_ICE)
+Block(-2,1,-3,PACKED_ICE)
+Block(-2,1,-2,PACKED_ICE)
+Block(-2,1,-1,PACKED_ICE)
+Block(-2,1,0,PACKED_ICE)
+Block(-2,2,-6,PACKED_ICE)
+Block(-2,2,-5,PACKED_ICE)
+Block(-2,2,-4,PACKED_ICE)
+Block(-2,2,-3,PACKED_ICE)
+Block(-2,2,-2,PACKED_ICE)
+Block(-2,2,-1,PACKED_ICE)
+Block(-2,2,0,PACKED_ICE)
+Block(-2,3,-6,PACKED_ICE)
+Block(-2,3,-5,PACKED_ICE)
+Block(-2,3,-4,PACKED_ICE)
+Block(-2,3,-3,PACKED_ICE)
+Block(-2,3,-2,PACKED_ICE)
+Block(-2,3,-1,PACKED_ICE)
+Block(-2,3,0,PACKED_ICE)
+Block(-2,4,-6,PACKED_ICE)
+Block(-2,4,-5,PACKED_ICE)
+Block(-2,4,-4,PACKED_ICE)
+Block(-2,4,-3,PACKED_ICE)
+Block(-2,4,-2,PACKED_ICE)
+Block(-2,4,-1,PACKED_ICE)
+Block(-1,0,-6,PACKED_ICE)
+Block(-1,0,-5,PACKED_ICE)
+Block(-1,0,-4,PACKED_ICE)
+Block(-1,0,-3,PACKED_ICE)
+Block(-1,0,-2,PACKED_ICE)
+Block(-1,0,-1,PACKED_ICE)
+Block(-1,1,-6,PACKED_ICE)
+Block(-1,1,-5,PACKED_ICE)
+Block(-1,1,-4,PACKED_ICE)
+Block(-1,1,-3,PACKED_ICE)
+Block(-1,1,-2,PACKED_ICE)
+Block(-1,1,-1,PACKED_ICE)
+Block(-1,1,0,PACKED_ICE)
+Block(-1,2,-6,PACKED_ICE)
+Block(-1,2,-5,PACKED_ICE)
+Block(-1,2,-4,PACKED_ICE)
+Block(-1,2,-3,PACKED_ICE)
+Block(-1,2,-2,PACKED_ICE)
+Block(-1,2,-1,PACKED_ICE)
+Block(-1,2,0,PACKED_ICE)
+Block(-1,3,-6,PACKED_ICE)
+Block(-1,3,-5,PACKED_ICE)
+Block(-1,3,-4,PACKED_ICE)
+Block(-1,3,-3,PACKED_ICE)
+Block(-1,3,-2,PACKED_ICE)
+Block(-1,3,-1,PACKED_ICE)
+Block(-1,3,0,PACKED_ICE)
+Block(-1,4,-6,PACKED_ICE)
+Block(-1,4,-5,PACKED_ICE)
+Block(-1,4,-4,PACKED_ICE)
+Block(-1,4,-3,PACKED_ICE)
+Block(-1,4,-2,PACKED_ICE)
+Block(-1,4,-1,PACKED_ICE)
+Block(0,0,-6,PACKED_ICE)
+Block(0,0,-5,PACKED_ICE)
+Block(0,0,-4,PACKED_ICE)
+Block(0,0,-3,PACKED_ICE)
+Block(0,0,-2,PACKED_ICE)
+Block(0,0,-1,PACKED_ICE)
+Block(0,1,-6,PACKED_ICE)
+Block(0,1,-5,PACKED_ICE)
+Block(0,1,-4,PACKED_ICE)
+Block(0,1,-3,PACKED_ICE)
+Block(0,1,-2,PACKED_ICE)
+Block(0,1,-1,PACKED_ICE)
+Block(0,1,0,PACKED_ICE)
+Block(0,2,-7,PACKED_ICE)
+Block(0,2,-6,PACKED_ICE)
+Block(0,2,-5,PACKED_ICE)
+Block(0,2,-4,PACKED_ICE)
+Block(0,2,-3,PACKED_ICE)
+Block(0,2,-2,PACKED_ICE)
+Block(0,2,-1,PACKED_ICE)
+Block(0,2,0,PACKED_ICE)
+Block(0,3,-6,PACKED_ICE)
+Block(0,3,-5,PACKED_ICE)
+Block(0,3,-4,PACKED_ICE)
+Block(0,3,-3,PACKED_ICE)
+Block(0,3,-2,PACKED_ICE)
+Block(0,4,-5,PACKED_ICE)
+Block(0,4,-4,PACKED_ICE)
+Block(0,4,-3,PACKED_ICE)
+Block(0,4,-2,PACKED_ICE)
+Block(1,0,-6,PACKED_ICE)
+Block(1,0,-5,PACKED_ICE)
+Block(1,0,-4,PACKED_ICE)
+Block(1,0,-3,PACKED_ICE)
+Block(1,0,-2,PACKED_ICE)
+Block(1,0,-1,PACKED_ICE)
+Block(1,1,-6,PACKED_ICE)
+Block(1,1,-5,PACKED_ICE)
+Block(1,1,-4,PACKED_ICE)
+Block(1,1,-3,PACKED_ICE)
+Block(1,1,-2,PACKED_ICE)
+Block(1,1,-1,PACKED_ICE)
+Block(1,2,-7,PACKED_ICE)
+Block(1,2,-6,PACKED_ICE)
+Block(1,2,-5,PACKED_ICE)
+Block(1,2,-4,PACKED_ICE)
+Block(1,2,-3,PACKED_ICE)
+Block(1,2,-2,PACKED_ICE)
+Block(1,2,-1,PACKED_ICE)
+Block(1,3,-6,PACKED_ICE)
+Block(1,3,-5,PACKED_ICE)
+Block(1,3,-4,PACKED_ICE)
+Block(1,3,-3,PACKED_ICE)
+Block(1,3,-2,PACKED_ICE)
+Block(1,4,-5,PACKED_ICE)
+Block(1,4,-4,PACKED_ICE)
+Block(1,4,-3,PACKED_ICE)
+Block(2,0,-5,PACKED_ICE)
+Block(2,0,-4,PACKED_ICE)
+Block(2,0,-3,PACKED_ICE)
+Block(2,0,-2,PACKED_ICE)
+Block(2,0,-1,PACKED_ICE)
+Block(2,1,-6,PACKED_ICE)
+Block(2,1,-5,PACKED_ICE)
+Block(2,1,-4,PACKED_ICE)
+Block(2,1,-3,PACKED_ICE)
+Block(2,1,-2,PACKED_ICE)
+Block(2,1,-1,PACKED_ICE)
+Block(2,2,-6,PACKED_ICE)
+Block(2,2,-5,PACKED_ICE)
+Block(2,2,-4,PACKED_ICE)
+Block(2,2,-3,PACKED_ICE)
+Block(2,2,-2,PACKED_ICE)
+Block(2,2,-1,PACKED_ICE)
+Block(2,3,-5,PACKED_ICE)
+Block(2,3,-4,PACKED_ICE)
+Block(2,3,-3,PACKED_ICE)
+Block(2,4,-4,PACKED_ICE)
+Block(3,0,-4,PACKED_ICE)
+Block(3,0,-3,PACKED_ICE)
+Block(3,0,-2,PACKED_ICE)
+Block(3,1,-5,PACKED_ICE)
+Block(3,1,-4,PACKED_ICE)
+Block(3,1,-3,PACKED_ICE)
+Block(3,1,-2,PACKED_ICE)
+Block(3,1,-1,PACKED_ICE)
+Block(3,2,-6,PACKED_ICE)
+Block(3,2,-5,PACKED_ICE)
+Block(3,2,-4,PACKED_ICE)
+Block(3,2,-3,PACKED_ICE)
+Block(3,2,-2,PACKED_ICE)
+Block(3,3,-4,PACKED_ICE)
+Block(3,3,-3,PACKED_ICE)
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                            BO3 checks                           | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             Branches                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             Entities                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                            Particles                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             Spawners                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             ModData                             | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+

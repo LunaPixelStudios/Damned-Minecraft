@@ -1,0 +1,1238 @@
+----------------------------------------------
+Mod name, Registry name, Entity class name, ID
+----------------------------------------------
+Abnormals Core, abnormals_core:boat, com.minecraftabnormals.abnormals_core.common.entity.AbnormalsBoatEntity, 1004
+Alex's Mobs, alexsmobs:alligator_snapping_turtle, com.github.alexthe666.alexsmobs.entity.EntityAlligatorSnappingTurtle, 737
+Alex's Mobs, alexsmobs:bald_eagle, com.github.alexthe666.alexsmobs.entity.EntityBaldEagle, 759
+Alex's Mobs, alexsmobs:blobfish, com.github.alexthe666.alexsmobs.entity.EntityBlobfish, 727
+Alex's Mobs, alexsmobs:bone_serpent, com.github.alexthe666.alexsmobs.entity.EntityBoneSerpent, 701
+Alex's Mobs, alexsmobs:bone_serpent_part, com.github.alexthe666.alexsmobs.entity.EntityBoneSerpentPart, 702
+Alex's Mobs, alexsmobs:cachalot_echo, com.github.alexthe666.alexsmobs.entity.EntityCachalotEcho, 755
+Alex's Mobs, alexsmobs:cachalot_whale, com.github.alexthe666.alexsmobs.entity.EntityCachalotWhale, 754
+Alex's Mobs, alexsmobs:capuchin_monkey, com.github.alexthe666.alexsmobs.entity.EntityCapuchinMonkey, 718
+Alex's Mobs, alexsmobs:centipede_body, com.github.alexthe666.alexsmobs.entity.EntityCentipedeBody, 721
+Alex's Mobs, alexsmobs:centipede_head, com.github.alexthe666.alexsmobs.entity.EntityCentipedeHead, 720
+Alex's Mobs, alexsmobs:centipede_tail, com.github.alexthe666.alexsmobs.entity.EntityCentipedeTail, 722
+Alex's Mobs, alexsmobs:cockroach, com.github.alexthe666.alexsmobs.entity.EntityCockroach, 729
+Alex's Mobs, alexsmobs:cockroach_egg, com.github.alexthe666.alexsmobs.entity.EntityCockroachEgg, 730
+Alex's Mobs, alexsmobs:crimson_mosquito, com.github.alexthe666.alexsmobs.entity.EntityCrimsonMosquito, 710
+Alex's Mobs, alexsmobs:crocodile, com.github.alexthe666.alexsmobs.entity.EntityCrocodile, 704
+Alex's Mobs, alexsmobs:crow, com.github.alexthe666.alexsmobs.entity.EntityCrow, 736
+Alex's Mobs, alexsmobs:dropbear, com.github.alexthe666.alexsmobs.entity.EntityDropBear, 751
+Alex's Mobs, alexsmobs:elephant, com.github.alexthe666.alexsmobs.entity.EntityElephant, 732
+Alex's Mobs, alexsmobs:emu, com.github.alexthe666.alexsmobs.entity.EntityEmu, 748
+Alex's Mobs, alexsmobs:emu_egg, com.github.alexthe666.alexsmobs.entity.EntityEmuEgg, 749
+Alex's Mobs, alexsmobs:endergrade, com.github.alexthe666.alexsmobs.entity.EntityEndergrade, 713
+Alex's Mobs, alexsmobs:enderiophage, com.github.alexthe666.alexsmobs.entity.EntityEnderiophage, 757
+Alex's Mobs, alexsmobs:enderiophage_rocket, com.github.alexthe666.alexsmobs.entity.EntityEnderiophageRocket, 758
+Alex's Mobs, alexsmobs:fly, com.github.alexthe666.alexsmobs.entity.EntityFly, 705
+Alex's Mobs, alexsmobs:frilled_shark, com.github.alexthe666.alexsmobs.entity.EntityFrilledShark, 766
+Alex's Mobs, alexsmobs:gazelle, com.github.alexthe666.alexsmobs.entity.EntityGazelle, 703
+Alex's Mobs, alexsmobs:gorilla, com.github.alexthe666.alexsmobs.entity.EntityGorilla, 709
+Alex's Mobs, alexsmobs:grizzly_bear, com.github.alexthe666.alexsmobs.entity.EntityGrizzlyBear, 699
+Alex's Mobs, alexsmobs:gust, com.github.alexthe666.alexsmobs.entity.EntityGust, 742
+Alex's Mobs, alexsmobs:guster, com.github.alexthe666.alexsmobs.entity.EntityGuster, 740
+Alex's Mobs, alexsmobs:hammerhead_shark, com.github.alexthe666.alexsmobs.entity.EntityHammerheadShark, 714
+Alex's Mobs, alexsmobs:hemolymph, com.github.alexthe666.alexsmobs.entity.EntityHemolymph, 744
+Alex's Mobs, alexsmobs:hummingbird, com.github.alexthe666.alexsmobs.entity.EntityHummingbird, 706
+Alex's Mobs, alexsmobs:kangaroo, com.github.alexthe666.alexsmobs.entity.EntityKangaroo, 753
+Alex's Mobs, alexsmobs:komodo_dragon, com.github.alexthe666.alexsmobs.entity.EntityKomodoDragon, 717
+Alex's Mobs, alexsmobs:leafcutter_ant, com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt, 756
+Alex's Mobs, alexsmobs:lobster, com.github.alexthe666.alexsmobs.entity.EntityLobster, 716
+Alex's Mobs, alexsmobs:mantis_shrimp, com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp, 739
+Alex's Mobs, alexsmobs:mimic_octopus, com.github.alexthe666.alexsmobs.entity.EntityMimicOctopus, 767
+Alex's Mobs, alexsmobs:mimicube, com.github.alexthe666.alexsmobs.entity.EntityMimicube, 725
+Alex's Mobs, alexsmobs:moose, com.github.alexthe666.alexsmobs.entity.EntityMoose, 724
+Alex's Mobs, alexsmobs:mosquito_spit, com.github.alexthe666.alexsmobs.entity.EntityMosquitoSpit, 711
+Alex's Mobs, alexsmobs:mungus, com.github.alexthe666.alexsmobs.entity.EntityMungus, 738
+Alex's Mobs, alexsmobs:orca, com.github.alexthe666.alexsmobs.entity.EntityOrca, 707
+Alex's Mobs, alexsmobs:platypus, com.github.alexthe666.alexsmobs.entity.EntityPlatypus, 750
+Alex's Mobs, alexsmobs:raccoon, com.github.alexthe666.alexsmobs.entity.EntityRaccoon, 726
+Alex's Mobs, alexsmobs:rattlesnake, com.github.alexthe666.alexsmobs.entity.EntityRattlesnake, 712
+Alex's Mobs, alexsmobs:roadrunner, com.github.alexthe666.alexsmobs.entity.EntityRoadrunner, 700
+Alex's Mobs, alexsmobs:sand_shot, com.github.alexthe666.alexsmobs.entity.EntitySandShot, 741
+Alex's Mobs, alexsmobs:seagull, com.github.alexthe666.alexsmobs.entity.EntitySeagull, 768
+Alex's Mobs, alexsmobs:seal, com.github.alexthe666.alexsmobs.entity.EntitySeal, 728
+Alex's Mobs, alexsmobs:shark_tooth_arrow, com.github.alexthe666.alexsmobs.entity.EntitySharkToothArrow, 715
+Alex's Mobs, alexsmobs:shoebill, com.github.alexthe666.alexsmobs.entity.EntityShoebill, 731
+Alex's Mobs, alexsmobs:snow_leopard, com.github.alexthe666.alexsmobs.entity.EntitySnowLeopard, 734
+Alex's Mobs, alexsmobs:soul_vulture, com.github.alexthe666.alexsmobs.entity.EntitySoulVulture, 733
+Alex's Mobs, alexsmobs:spectre, com.github.alexthe666.alexsmobs.entity.EntitySpectre, 735
+Alex's Mobs, alexsmobs:straddleboard, com.github.alexthe666.alexsmobs.entity.EntityStraddleboard, 747
+Alex's Mobs, alexsmobs:straddler, com.github.alexthe666.alexsmobs.entity.EntityStraddler, 745
+Alex's Mobs, alexsmobs:stradpole, com.github.alexthe666.alexsmobs.entity.EntityStradpole, 746
+Alex's Mobs, alexsmobs:sunbird, com.github.alexthe666.alexsmobs.entity.EntitySunbird, 708
+Alex's Mobs, alexsmobs:tarantula_hawk, com.github.alexthe666.alexsmobs.entity.EntityTarantulaHawk, 761
+Alex's Mobs, alexsmobs:tasmanian_devil, com.github.alexthe666.alexsmobs.entity.EntityTasmanianDevil, 752
+Alex's Mobs, alexsmobs:tiger, com.github.alexthe666.alexsmobs.entity.EntityTiger, 760
+Alex's Mobs, alexsmobs:tossed_item, com.github.alexthe666.alexsmobs.entity.EntityTossedItem, 719
+Alex's Mobs, alexsmobs:void_portal, com.github.alexthe666.alexsmobs.entity.EntityVoidPortal, 765
+Alex's Mobs, alexsmobs:void_worm, com.github.alexthe666.alexsmobs.entity.EntityVoidWorm, 762
+Alex's Mobs, alexsmobs:void_worm_part, com.github.alexthe666.alexsmobs.entity.EntityVoidWormPart, 763
+Alex's Mobs, alexsmobs:void_worm_shot, com.github.alexthe666.alexsmobs.entity.EntityVoidWormShot, 764
+Alex's Mobs, alexsmobs:warped_mosco, com.github.alexthe666.alexsmobs.entity.EntityWarpedMosco, 743
+Alex's Mobs, alexsmobs:warped_toad, com.github.alexthe666.alexsmobs.entity.EntityWarpedToad, 723
+Apotheosis, apotheosis:bh_arrow_entity, shadows.apotheosis.village.fletching.arrows.BroadheadArrowEntity, 124
+Apotheosis, apotheosis:ex_arrow_entity, shadows.apotheosis.village.fletching.arrows.ExplosiveArrowEntity, 125
+Apotheosis, apotheosis:mn_arrow_entity, shadows.apotheosis.village.fletching.arrows.MiningArrowEntity, 126
+Apotheosis, apotheosis:ob_arrow_entity, shadows.apotheosis.village.fletching.arrows.ObsidianArrowEntity, 123
+Aquaculture 2, aquaculture:acacia_fish_mount, com.teammetallurgy.aquaculture.entity.FishMountEntity, 602
+Aquaculture 2, aquaculture:arapaima, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 625
+Aquaculture 2, aquaculture:arrau_turtle, com.teammetallurgy.aquaculture.entity.TurtleLandEntity, 596
+Aquaculture 2, aquaculture:atlantic_cod, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 604
+Aquaculture 2, aquaculture:atlantic_halibut, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 607
+Aquaculture 2, aquaculture:atlantic_herring, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 608
+Aquaculture 2, aquaculture:bayad, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 612
+Aquaculture 2, aquaculture:birch_fish_mount, com.teammetallurgy.aquaculture.entity.FishMountEntity, 600
+Aquaculture 2, aquaculture:blackfish, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 605
+Aquaculture 2, aquaculture:bluegill, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 617
+Aquaculture 2, aquaculture:bobber, ?, 592
+Aquaculture 2, aquaculture:boulti, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 613
+Aquaculture 2, aquaculture:box_turtle, com.teammetallurgy.aquaculture.entity.TurtleLandEntity, 595
+Aquaculture 2, aquaculture:brown_shrooma, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 628
+Aquaculture 2, aquaculture:brown_trout, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 618
+Aquaculture 2, aquaculture:capitaine, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 614
+Aquaculture 2, aquaculture:carp, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 619
+Aquaculture 2, aquaculture:catfish, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 620
+Aquaculture 2, aquaculture:dark_oak_fish_mount, com.teammetallurgy.aquaculture.entity.FishMountEntity, 603
+Aquaculture 2, aquaculture:gar, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 621
+Aquaculture 2, aquaculture:jellyfish, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 630
+Aquaculture 2, aquaculture:jungle_fish_mount, com.teammetallurgy.aquaculture.entity.FishMountEntity, 601
+Aquaculture 2, aquaculture:minnow, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 622
+Aquaculture 2, aquaculture:muskellunge, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 623
+Aquaculture 2, aquaculture:oak_fish_mount, com.teammetallurgy.aquaculture.entity.FishMountEntity, 598
+Aquaculture 2, aquaculture:pacific_halibut, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 606
+Aquaculture 2, aquaculture:perch, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 624
+Aquaculture 2, aquaculture:pink_salmon, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 609
+Aquaculture 2, aquaculture:piranha, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 626
+Aquaculture 2, aquaculture:pollock, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 610
+Aquaculture 2, aquaculture:rainbow_trout, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 611
+Aquaculture 2, aquaculture:red_grouper, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 631
+Aquaculture 2, aquaculture:red_shrooma, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 629
+Aquaculture 2, aquaculture:smallmouth_bass, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 616
+Aquaculture 2, aquaculture:spectral_water_arrow, com.teammetallurgy.aquaculture.entity.SpectralWaterArrowEntity, 594
+Aquaculture 2, aquaculture:spruce_fish_mount, com.teammetallurgy.aquaculture.entity.FishMountEntity, 599
+Aquaculture 2, aquaculture:starshell_turtle, com.teammetallurgy.aquaculture.entity.TurtleLandEntity, 597
+Aquaculture 2, aquaculture:synodontis, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 615
+Aquaculture 2, aquaculture:tambaqui, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 627
+Aquaculture 2, aquaculture:tuna, com.teammetallurgy.aquaculture.entity.AquaFishEntity, 632
+Aquaculture 2, aquaculture:water_arrow, com.teammetallurgy.aquaculture.entity.WaterArrowEntity, 593
+Artifacts, artifacts:mimic, artifacts.common.entity.MimicEntity, 1021
+Atum 2, atum:arrow_double, com.teammetallurgy.atum.entity.projectile.arrow.ArrowDoubleEntity, 502
+Atum 2, atum:arrow_explosive, com.teammetallurgy.atum.entity.projectile.arrow.ArrowExplosiveEntity, 503
+Atum 2, atum:arrow_fire, com.teammetallurgy.atum.entity.projectile.arrow.ArrowFireEntity, 504
+Atum 2, atum:arrow_poison, com.teammetallurgy.atum.entity.projectile.arrow.ArrowPoisonEntity, 505
+Atum 2, atum:arrow_quickdraw, com.teammetallurgy.atum.entity.projectile.arrow.ArrowQuickdrawEntity, 506
+Atum 2, atum:arrow_rain, com.teammetallurgy.atum.entity.projectile.arrow.ArrowRainEntity, 507
+Atum 2, atum:arrow_slowness, com.teammetallurgy.atum.entity.projectile.arrow.ArrowSlownessEntity, 508
+Atum 2, atum:arrow_straight, com.teammetallurgy.atum.entity.projectile.arrow.ArrowStraightEntity, 509
+Atum 2, atum:assassin, com.teammetallurgy.atum.entity.bandit.AssassinEntity, 476
+Atum 2, atum:bandit_warlord, com.teammetallurgy.atum.entity.bandit.WarlordEntity, 496
+Atum 2, atum:barbarian, com.teammetallurgy.atum.entity.bandit.BarbarianEntity, 477
+Atum 2, atum:bonestorm, com.teammetallurgy.atum.entity.undead.BonestormEntity, 478
+Atum 2, atum:brigand, com.teammetallurgy.atum.entity.bandit.BrigandEntity, 479
+Atum 2, atum:camel, com.teammetallurgy.atum.entity.animal.CamelEntity, 480
+Atum 2, atum:camel_spit, com.teammetallurgy.atum.entity.projectile.CamelSpitEntity, 500
+Atum 2, atum:desert_rabbit, com.teammetallurgy.atum.entity.animal.DesertRabbitEntity, 481
+Atum 2, atum:desert_wolf, com.teammetallurgy.atum.entity.animal.DesertWolfEntity, 482
+Atum 2, atum:forsaken, com.teammetallurgy.atum.entity.undead.ForsakenEntity, 483
+Atum 2, atum:mummy, com.teammetallurgy.atum.entity.undead.MummyEntity, 484
+Atum 2, atum:nomad, com.teammetallurgy.atum.entity.bandit.NomadEntity, 485
+Atum 2, atum:pharaoh, com.teammetallurgy.atum.entity.undead.PharaohEntity, 486
+Atum 2, atum:pharaoh_orb, com.teammetallurgy.atum.entity.projectile.PharaohOrbEntity, 510
+Atum 2, atum:quail, com.teammetallurgy.atum.entity.animal.QuailEntity, 487
+Atum 2, atum:quail_egg, com.teammetallurgy.atum.entity.projectile.QuailEggEntity, 511
+Atum 2, atum:scarab, com.teammetallurgy.atum.entity.animal.ScarabEntity, 488
+Atum 2, atum:sergeant, com.teammetallurgy.atum.entity.bandit.SergeantEntity, 489
+Atum 2, atum:serval, com.teammetallurgy.atum.entity.animal.ServalEntity, 490
+Atum 2, atum:small_bone, com.teammetallurgy.atum.entity.projectile.SmallBoneEntity, 501
+Atum 2, atum:stoneguard, com.teammetallurgy.atum.entity.stone.StoneguardEntity, 491
+Atum 2, atum:stoneguard_friendly, com.teammetallurgy.atum.entity.stone.StoneguardEntity, 492
+Atum 2, atum:stonewarden, com.teammetallurgy.atum.entity.stone.StonewardenEntity, 493
+Atum 2, atum:stonewarden_friendly, com.teammetallurgy.atum.entity.stone.StonewardenEntity, 494
+Atum 2, atum:tarantula, com.teammetallurgy.atum.entity.animal.TarantulaEntity, 495
+Atum 2, atum:tefnuts_call, com.teammetallurgy.atum.entity.projectile.arrow.TefnutsCallEntity, 512
+Atum 2, atum:villager_female, com.teammetallurgy.atum.entity.villager.AtumVillagerEntity, 499
+Atum 2, atum:villager_male, com.teammetallurgy.atum.entity.villager.AtumVillagerEntity, 498
+Atum 2, atum:wraith, com.teammetallurgy.atum.entity.undead.WraithEntity, 497
+BetterEnd Forge, betterendforge:cubozoa, mod.beethoven92.betterendforge.common.entity.CubozoaEntity, 141
+BetterEnd Forge, betterendforge:dragonfly, mod.beethoven92.betterendforge.common.entity.DragonflyEntity, 138
+BetterEnd Forge, betterendforge:end_fish, mod.beethoven92.betterendforge.common.entity.EndFishEntity, 137
+BetterEnd Forge, betterendforge:end_slime, mod.beethoven92.betterendforge.common.entity.EndSlimeEntity, 140
+BetterEnd Forge, betterendforge:shadow_walker, mod.beethoven92.betterendforge.common.entity.ShadowWalkerEntity, 139
+BetterEnd Forge, betterendforge:silk_moth, mod.beethoven92.betterendforge.common.entity.SilkMothEntity, 142
+Biomes O' Plenty, biomesoplenty:boat, biomesoplenty.common.entity.item.BoatEntityBOP, 151
+Brass Amber BattleTowers, ba_bt:core_golem, com.BrassAmber.ba_bt.entity.hostile.golem.BTGolemEntity, 1083
+Brass Amber BattleTowers, ba_bt:core_monolith, com.BrassAmber.ba_bt.entity.block.MonolithEntity, 1091
+Brass Amber BattleTowers, ba_bt:destroy_tower, com.BrassAmber.ba_bt.entity.DestroyTowerEntity, 1094
+Brass Amber BattleTowers, ba_bt:end_golem, com.BrassAmber.ba_bt.entity.hostile.golem.EndGolemEntity, 1084
+Brass Amber BattleTowers, ba_bt:end_monolith, com.BrassAmber.ba_bt.entity.block.MonolithEntity, 1092
+Brass Amber BattleTowers, ba_bt:explosion_physics, com.BrassAmber.ba_bt.entity.ExplosionPhysicsEntity, 1095
+Brass Amber BattleTowers, ba_bt:land_golem, com.BrassAmber.ba_bt.entity.hostile.golem.BTGolemEntity, 1080
+Brass Amber BattleTowers, ba_bt:land_monolith, com.BrassAmber.ba_bt.entity.block.MonolithEntity, 1088
+Brass Amber BattleTowers, ba_bt:nether_golem, com.BrassAmber.ba_bt.entity.hostile.golem.BTGolemEntity, 1082
+Brass Amber BattleTowers, ba_bt:nether_monolith, com.BrassAmber.ba_bt.entity.block.MonolithEntity, 1090
+Brass Amber BattleTowers, ba_bt:ocean_golem, com.BrassAmber.ba_bt.entity.hostile.golem.OceanGolemEntity, 1081
+Brass Amber BattleTowers, ba_bt:ocean_monolith, com.BrassAmber.ba_bt.entity.block.MonolithEntity, 1089
+Brass Amber BattleTowers, ba_bt:silver_skeleton, com.BrassAmber.ba_bt.entity.hostile.SilverSkeletonEntity, 1087
+Brass Amber BattleTowers, ba_bt:sky_golem, com.BrassAmber.ba_bt.entity.hostile.golem.SkyGolemEntity, 1085
+Brass Amber BattleTowers, ba_bt:sky_minion, com.BrassAmber.ba_bt.entity.hostile.SkyMinionEntity, 1086
+Brass Amber BattleTowers, ba_bt:sky_monolith, com.BrassAmber.ba_bt.entity.block.MonolithEntity, 1093
+Cataclysm Mod, cataclysm:ender_golem, L_Ender.cataclysm.entity.Ender_Golem_Entity, 843
+Cataclysm Mod, cataclysm:ender_guardian, L_Ender.cataclysm.entity.Ender_Guardian_Entity, 844
+Cataclysm Mod, cataclysm:ender_guardian_bullet, L_Ender.cataclysm.entity.projectile.Ender_Guardian_Bullet_Entity, 849
+Cataclysm Mod, cataclysm:endermaptera, L_Ender.cataclysm.entity.Endermaptera_Entity, 851
+Cataclysm Mod, cataclysm:ignis, L_Ender.cataclysm.entity.Ignis_Entity, 848
+Cataclysm Mod, cataclysm:lava_bomb, L_Ender.cataclysm.entity.projectile.Lava_Bomb_Entity, 846
+Cataclysm Mod, cataclysm:nameless_sorcerer, L_Ender.cataclysm.entity.Nameless_Sorcerer_Entity, 847
+Cataclysm Mod, cataclysm:netherite_monstrosity, L_Ender.cataclysm.entity.Netherite_Monstrosity_Entity, 845
+Cataclysm Mod, cataclysm:void_rune, L_Ender.cataclysm.entity.projectile.Void_Rune_Entity, 850
+Cataclysm Mod, cataclysm:void_scatter_arrow, L_Ender.cataclysm.entity.projectile.Void_Scatter_Arrow_Entity, 852
+Cataclysm Mod, cataclysm:void_shard, L_Ender.cataclysm.entity.projectile.Void_Shard_Entity, 853
+Caves and Cliffs Backport, cavesandcliffs:axolotl, com.blackgear.cavesandcliffs.common.entity.AxolotlEntity, 153
+Caves and Cliffs Backport, cavesandcliffs:falling_block, com.blackgear.cavesandcliffs.common.entity.CCBFallingBlockEntity, 152
+Caves and Cliffs Backport, cavesandcliffs:glow_item_frame, com.blackgear.cavesandcliffs.common.entity.GlowItemFrameEntity, 156
+Caves and Cliffs Backport, cavesandcliffs:glow_squid, com.blackgear.cavesandcliffs.common.entity.GlowSquidEntity, 154
+Caves and Cliffs Backport, cavesandcliffs:goat, com.blackgear.cavesandcliffs.common.entity.GoatEntity, 155
+Corpse, corpse:corpse, de.maxhenkel.corpse.entities.CorpseEntity, 149
+Craft and Hunt, craftandhunt:iron_summon, com.aavri.craftandhunt.entity.IronSummonEntity, 435
+Craft and Hunt, craftandhunt:wolf_summon, com.aavri.craftandhunt.entity.WolfSummonEntity, 436
+Create, create:contraption, com.simibubi.create.content.contraptions.components.structureMovement.OrientedContraptionEntity, 1016
+Create, create:crafting_blueprint, com.simibubi.create.content.curiosities.tools.BlueprintEntity, 1015
+Create, create:gantry_contraption, com.simibubi.create.content.contraptions.components.structureMovement.gantry.GantryContraptionEntity, 1018
+Create, create:potato_projectile, com.simibubi.create.content.curiosities.weapons.PotatoProjectileEntity, 1019
+Create, create:seat, com.simibubi.create.content.contraptions.components.actors.SeatEntity, 1020
+Create, create:stationary_contraption, com.simibubi.create.content.contraptions.components.structureMovement.ControlledContraptionEntity, 1017
+Create, create:super_glue, com.simibubi.create.content.contraptions.components.structureMovement.glue.SuperGlueEntity, 1014
+Danny's Expansion, dannys_expansion:aquatic_bullet, com.bottomtextdanny.dannys_expansion.common.Entities.bullet.AquaticBulletEntity, 1222
+Danny's Expansion, dannys_expansion:arid_abomination, com.bottomtextdanny.dannys_expansion.common.Entities.living.AridAbominationEntity, 1180
+Danny's Expansion, dannys_expansion:barren_orb, com.bottomtextdanny.dannys_expansion.common.Entities.spell.BarrenOrbEntity, 1203
+Danny's Expansion, dannys_expansion:black_scorpion, com.bottomtextdanny.dannys_expansion.common.Entities.living.BlackScorpionEntity, 1181
+Danny's Expansion, dannys_expansion:blue_slime, com.bottomtextdanny.dannys_expansion.common.Entities.living.slime.BlueSlimeEntity, 1177
+Danny's Expansion, dannys_expansion:bullet, com.bottomtextdanny.dannys_expansion.common.Entities.bullet.BulletEntity, 1223
+Danny's Expansion, dannys_expansion:child_rammer, com.bottomtextdanny.dannys_expansion.common.Entities.living.animal.rammer.ChildRammerEntity, 1176
+Danny's Expansion, dannys_expansion:cursed_fire, com.bottomtextdanny.dannys_expansion.common.Entities.spell.CursedFireEntity, 1204
+Danny's Expansion, dannys_expansion:cursed_skull, com.bottomtextdanny.dannys_expansion.common.Entities.living.floating.CursedSkullEntity, 1182
+Danny's Expansion, dannys_expansion:desertic_fang, com.bottomtextdanny.dannys_expansion.common.Entities.spell.DeserticFangEntity, 1205
+Danny's Expansion, dannys_expansion:desolated, com.bottomtextdanny.dannys_expansion.common.Entities.living.DesolatedEntity, 1183
+Danny's Expansion, dannys_expansion:ender_arrow, com.bottomtextdanny.dannys_expansion.common.Entities.spell.EnderArrowEntity, 1206
+Danny's Expansion, dannys_expansion:ender_beast_archer, com.bottomtextdanny.dannys_expansion.common.Entities.living.enderbeast.EnderBeastArcherEntity, 1184
+Danny's Expansion, dannys_expansion:ender_beast_lancer, com.bottomtextdanny.dannys_expansion.common.Entities.living.enderbeast.EnderBeastLancerEntity, 1185
+Danny's Expansion, dannys_expansion:frozen_ghoul, com.bottomtextdanny.dannys_expansion.common.Entities.living.FrozenGhoulEntity, 1186
+Danny's Expansion, dannys_expansion:frozen_slime, com.bottomtextdanny.dannys_expansion.common.Entities.living.slime.FrozenSlimeEntity, 1187
+Danny's Expansion, dannys_expansion:ghoul, com.bottomtextdanny.dannys_expansion.common.Entities.living.GhoulEntity, 1189
+Danny's Expansion, dannys_expansion:golem_drone, com.bottomtextdanny.dannys_expansion.common.Entities.spell.GolemDroneEntity, 1207
+Danny's Expansion, dannys_expansion:grand_rammer, com.bottomtextdanny.dannys_expansion.common.Entities.living.animal.rammer.GrandRammerEntity, 1178
+Danny's Expansion, dannys_expansion:ice_arrow, com.bottomtextdanny.dannys_expansion.common.Entities.projectile.arrow.IceArrowEntity, 1224
+Danny's Expansion, dannys_expansion:ice_bullet, com.bottomtextdanny.dannys_expansion.common.Entities.spell.IceBulletEntity, 1208
+Danny's Expansion, dannys_expansion:ice_elemental, com.bottomtextdanny.dannys_expansion.common.Entities.living.floating.IceElementalEntity, 1190
+Danny's Expansion, dannys_expansion:jungle_golem, com.bottomtextdanny.dannys_expansion.common.Entities.living.JungleGolemEntity, 1191
+Danny's Expansion, dannys_expansion:jungle_slime, com.bottomtextdanny.dannys_expansion.common.Entities.living.slime.JungleSlimeEntity, 1192
+Danny's Expansion, dannys_expansion:kite, com.bottomtextdanny.dannys_expansion.common.Entities.kite.KiteEntity, 1209
+Danny's Expansion, dannys_expansion:kite_knot, com.bottomtextdanny.dannys_expansion.common.Entities.kite.KiteKnotEntity, 1210
+Danny's Expansion, dannys_expansion:klifour, com.bottomtextdanny.dannys_expansion.common.Entities.living.klifour.KlifourEntity, 1193
+Danny's Expansion, dannys_expansion:klifour_spit, com.bottomtextdanny.dannys_expansion.common.Entities.spell.KlifourSpitEntity, 1211
+Danny's Expansion, dannys_expansion:magma_gulper, com.bottomtextdanny.dannys_expansion.common.Entities.living.floating.MagmaGulperEntity, 1194
+Danny's Expansion, dannys_expansion:magma_slime, com.bottomtextdanny.dannys_expansion.common.Entities.living.slime.MagmaSlimeEntity, 1188
+Danny's Expansion, dannys_expansion:mummy, com.bottomtextdanny.dannys_expansion.common.Entities.living.MummyEntity, 1195
+Danny's Expansion, dannys_expansion:mummy_soul, com.bottomtextdanny.dannys_expansion.common.Entities.spell.MummySoulEntity, 1212
+Danny's Expansion, dannys_expansion:mundane_slime, com.bottomtextdanny.dannys_expansion.common.Entities.living.slime.MundaneSlimeEntity, 1196
+Danny's Expansion, dannys_expansion:nyctoid, com.bottomtextdanny.dannys_expansion.common.Entities.living.NyctoidEntity, 1197
+Danny's Expansion, dannys_expansion:plasma_projectile, com.bottomtextdanny.dannys_expansion.common.Entities.spell.PlasmaProjectileEntity, 1213
+Danny's Expansion, dannys_expansion:possessed_armor, com.bottomtextdanny.dannys_expansion.common.Entities.living.PossessedArmorEntity, 1198
+Danny's Expansion, dannys_expansion:rammer, com.bottomtextdanny.dannys_expansion.common.Entities.living.animal.rammer.RammerEntity, 1179
+Danny's Expansion, dannys_expansion:sand_scarab, com.bottomtextdanny.dannys_expansion.common.Entities.living.SandScarabEntity, 1199
+Danny's Expansion, dannys_expansion:sand_scarab_egg, com.bottomtextdanny.dannys_expansion.common.Entities.spell.SandScarabEggEntity, 1214
+Danny's Expansion, dannys_expansion:snaith, com.bottomtextdanny.dannys_expansion.common.Entities.living.SnaithEntity, 1200
+Danny's Expansion, dannys_expansion:special_kite, com.bottomtextdanny.dannys_expansion.common.Entities.kite.SpecialKiteEntity, 1215
+Danny's Expansion, dannys_expansion:spore, com.bottomtextdanny.dannys_expansion.common.Entities.projectile.SporeEntity, 1216
+Danny's Expansion, dannys_expansion:spore_bomb, com.bottomtextdanny.dannys_expansion.common.Entities.spell.SporeBombEntity, 1217
+Danny's Expansion, dannys_expansion:spore_cloud, com.bottomtextdanny.dannys_expansion.common.Entities.spell.SporeCloudEntity, 1218
+Danny's Expansion, dannys_expansion:spore_slime, com.bottomtextdanny.dannys_expansion.common.Entities.living.slime.SporeSlimeEntity, 1201
+Danny's Expansion, dannys_expansion:sporer, com.bottomtextdanny.dannys_expansion.common.Entities.living.SporerEntity, 1202
+Danny's Expansion, dannys_expansion:test_dummy, com.bottomtextdanny.dannys_expansion.common.Entities.TestDummyEntity, 1219
+Danny's Expansion, dannys_expansion:venom, com.bottomtextdanny.dannys_expansion.common.Entities.spell.VenomEntity, 1220
+Danny's Expansion, dannys_expansion:vomit, com.bottomtextdanny.dannys_expansion.common.Entities.projectile.VomitEntity, 1221
+Doom Mod, doom:arachnotron, mod.azure.doom.entity.tierheavy.ArachnotronEntity, 901
+Doom Mod, doom:arachnotroneternal, mod.azure.doom.entity.tierheavy.ArachnotronEntity, 929
+Doom Mod, doom:arch_maykr, mod.azure.doom.entity.tierboss.ArchMakyrEntity, 943
+Doom Mod, doom:archvile, mod.azure.doom.entity.tiersuperheavy.ArchvileEntity, 897
+Doom Mod, doom:archvile_firing, mod.azure.doom.entity.projectiles.entity.DoomFireEntity, 877
+Doom Mod, doom:archvileeternal, mod.azure.doom.entity.tiersuperheavy.ArchvileEntity, 931
+Doom Mod, doom:argent_bolt, mod.azure.doom.entity.projectiles.ArgentBoltEntity, 883
+Doom Mod, doom:armoredbaron, mod.azure.doom.entity.tiersuperheavy.ArmoredBaronEntity, 936
+Doom Mod, doom:barenblast, mod.azure.doom.entity.projectiles.entity.BarenBlastEntity, 889
+Doom Mod, doom:baron, mod.azure.doom.entity.tiersuperheavy.BaronEntity, 898
+Doom Mod, doom:baron2016, mod.azure.doom.entity.tiersuperheavy.BaronEntity, 934
+Doom Mod, doom:barrel, mod.azure.doom.entity.projectiles.BarrelEntity, 879
+Doom Mod, doom:bfg_cell, mod.azure.doom.entity.projectiles.BFGEntity, 886
+Doom Mod, doom:blood_maykr, mod.azure.doom.entity.tierheavy.BloodMaykrEntity, 939
+Doom Mod, doom:bloodbolt_mob, mod.azure.doom.entity.projectiles.entity.BloodBoltEntity, 882
+Doom Mod, doom:bullets, mod.azure.doom.entity.projectiles.BulletEntity, 890
+Doom Mod, doom:cacodemon, mod.azure.doom.entity.tierheavy.CacodemonEntity, 896
+Doom Mod, doom:chain_blade, mod.azure.doom.entity.projectiles.entity.ChainBladeEntity, 878
+Doom Mod, doom:chaingun_mob, mod.azure.doom.entity.projectiles.entity.ChaingunMobEntity, 927
+Doom Mod, doom:chaingunbullets, mod.azure.doom.entity.projectiles.ChaingunBulletEntity, 891
+Doom Mod, doom:chaingunner, mod.azure.doom.entity.tierfodder.ChaingunnerEntity, 906
+Doom Mod, doom:cueball, mod.azure.doom.entity.tierambient.CueBallEntity, 921
+Doom Mod, doom:cyberdemon, mod.azure.doom.entity.tiersuperheavy.CyberdemonEntity, 913
+Doom Mod, doom:cyberdemon2016, mod.azure.doom.entity.tiersuperheavy.Cyberdemon2016Entity, 914
+Doom Mod, doom:doom_hunter, mod.azure.doom.entity.tiersuperheavy.DoomHunterEntity, 932
+Doom Mod, doom:dreadknight, mod.azure.doom.entity.tierheavy.Hellknight2016Entity, 912
+Doom Mod, doom:dronebolt_mob, mod.azure.doom.entity.projectiles.entity.DroneBoltEntity, 881
+Doom Mod, doom:energy_cell, mod.azure.doom.entity.projectiles.EnergyCellEntity, 885
+Doom Mod, doom:energy_cell_mob, mod.azure.doom.entity.projectiles.entity.EnergyCellMobEntity, 925
+Doom Mod, doom:firebronebaron, mod.azure.doom.entity.tiersuperheavy.FireBaronEntity, 935
+Doom Mod, doom:gargoyle, mod.azure.doom.entity.tierfodder.GargoyleEntity, 928
+Doom Mod, doom:gladiator, mod.azure.doom.entity.tiersuperheavy.GladiatorEntity, 946
+Doom Mod, doom:gore_nest, mod.azure.doom.entity.tierambient.GoreNestEntity, 918
+Doom Mod, doom:hellknight, mod.azure.doom.entity.tierheavy.HellknightEntity, 910
+Doom Mod, doom:hellknight2016, mod.azure.doom.entity.tierheavy.Hellknight2016Entity, 911
+Doom Mod, doom:iconofsin, mod.azure.doom.entity.tierboss.IconofsinEntity, 924
+Doom Mod, doom:imp, mod.azure.doom.entity.tierfodder.ImpEntity, 892
+Doom Mod, doom:imp2016, mod.azure.doom.entity.tierfodder.Imp2016Entity, 904
+Doom Mod, doom:lost_soul, mod.azure.doom.entity.tierfodder.LostSoulEntity, 888
+Doom Mod, doom:mancubus, mod.azure.doom.entity.tierheavy.MancubusEntity, 899
+Doom Mod, doom:marauder, mod.azure.doom.entity.tiersuperheavy.MarauderEntity, 907
+Doom Mod, doom:maykr_drone, mod.azure.doom.entity.tierfodder.MaykrDroneEntity, 937
+Doom Mod, doom:mechazombie, mod.azure.doom.entity.tierfodder.MechaZombieEntity, 922
+Doom Mod, doom:motherdemon, mod.azure.doom.entity.tierboss.MotherDemonEntity, 940
+Doom Mod, doom:nightmare_imp, mod.azure.doom.entity.tierfodder.NightmareImpEntity, 893
+Doom Mod, doom:painelemental, mod.azure.doom.entity.tierheavy.PainEntity, 909
+Doom Mod, doom:pinky, mod.azure.doom.entity.tierheavy.PinkyEntity, 894
+Doom Mod, doom:pinky2016, mod.azure.doom.entity.tierheavy.Pinky2016, 930
+Doom Mod, doom:possessed_scientist, mod.azure.doom.entity.tierfodder.PossessedScientistEntity, 919
+Doom Mod, doom:possessed_soldier, mod.azure.doom.entity.tierfodder.PossessedSoldierEntity, 917
+Doom Mod, doom:possessed_worker, mod.azure.doom.entity.tierfodder.PossessedScientistEntity, 920
+Doom Mod, doom:prowler, mod.azure.doom.entity.tierheavy.ProwlerEntity, 923
+Doom Mod, doom:revenant, mod.azure.doom.entity.tierheavy.RevenantEntity, 903
+Doom Mod, doom:revenant2016, mod.azure.doom.entity.tierheavy.Revenant2016Entity, 945
+Doom Mod, doom:rocket, mod.azure.doom.entity.projectiles.RocketEntity, 887
+Doom Mod, doom:rocket_mob, mod.azure.doom.entity.projectiles.entity.RocketMobEntity, 926
+Doom Mod, doom:shotgun_shell, mod.azure.doom.entity.projectiles.ShotgunShellEntity, 880
+Doom Mod, doom:shotgunguy, mod.azure.doom.entity.tierfodder.ShotgunguyEntity, 908
+Doom Mod, doom:spectre, mod.azure.doom.entity.tierheavy.SpectreEntity, 895
+Doom Mod, doom:spidermastermind, mod.azure.doom.entity.tierboss.SpiderMastermindEntity, 900
+Doom Mod, doom:spidermastermind2016, mod.azure.doom.entity.tierboss.SpiderMastermind2016Entity, 938
+Doom Mod, doom:stone_imp, mod.azure.doom.entity.tierfodder.ImpStoneEntity, 905
+Doom Mod, doom:summoner, mod.azure.doom.entity.tiersuperheavy.SummonerEntity, 944
+Doom Mod, doom:tentacle, mod.azure.doom.entity.tierambient.TentacleEntity, 941
+Doom Mod, doom:turret, mod.azure.doom.entity.tierambient.TurretEntity, 942
+Doom Mod, doom:tyrant, mod.azure.doom.entity.tiersuperheavy.Cyberdemon2016Entity, 915
+Doom Mod, doom:unmaykr_bolt, mod.azure.doom.entity.projectiles.UnmaykrBoltEntity, 884
+Doom Mod, doom:unwilling, mod.azure.doom.entity.tierfodder.UnwillingEntity, 916
+Doom Mod, doom:whiplash, mod.azure.doom.entity.tierheavy.WhiplashEntity, 933
+Doom Mod, doom:zombieman, mod.azure.doom.entity.tierfodder.ZombiemanEntity, 902
+Dungeons Gear, dungeons_gear:ice_cloud, com.infamous.dungeons_gear.entities.IceCloudEntity, 404
+Dungeons Mobs, dungeons_mobs:armored_drowned, com.infamous.dungeons_mobs.entities.water.ArmoredDrownedEntity, 994
+Dungeons Mobs, dungeons_mobs:armored_mountaineer, com.infamous.dungeons_mobs.entities.illagers.ArmoredMountaineerEntity, 966
+Dungeons Mobs, dungeons_mobs:armored_piglin, com.infamous.dungeons_mobs.entities.piglin.ArmoredPiglinEntity, 987
+Dungeons Mobs, dungeons_mobs:armored_pillager, com.infamous.dungeons_mobs.entities.illagers.ArmoredPillagerEntity, 956
+Dungeons Mobs, dungeons_mobs:armored_skeleton, com.infamous.dungeons_mobs.entities.undead.ArmoredSkeletonEntity, 950
+Dungeons Mobs, dungeons_mobs:armored_sunken_skeleton, com.infamous.dungeons_mobs.entities.water.ArmoredSunkenSkeletonEntity, 996
+Dungeons Mobs, dungeons_mobs:armored_vindicator, com.infamous.dungeons_mobs.entities.illagers.ArmoredVindicatorEntity, 955
+Dungeons Mobs, dungeons_mobs:armored_zombie, com.infamous.dungeons_mobs.entities.undead.ArmoredZombieEntity, 947
+Dungeons Mobs, dungeons_mobs:blastling, com.infamous.dungeons_mobs.entities.ender.BlastlingEntity, 1001
+Dungeons Mobs, dungeons_mobs:blue_nethershroom, com.infamous.dungeons_mobs.entities.projectiles.BlueNethershroomEntity, 980
+Dungeons Mobs, dungeons_mobs:cobweb_projectile, com.infamous.dungeons_mobs.entities.projectiles.CobwebProjectileEntity, 979
+Dungeons Mobs, dungeons_mobs:cobweb_trap, com.infamous.dungeons_mobs.entities.projectiles.CobwebTrapEntity, 981
+Dungeons Mobs, dungeons_mobs:conjured_slime, com.infamous.dungeons_mobs.entities.slime.ConjuredSlimeEntity, 969
+Dungeons Mobs, dungeons_mobs:drowned_necromancer, com.infamous.dungeons_mobs.entities.water.DrownedNecromancerEntity, 995
+Dungeons Mobs, dungeons_mobs:enchanter, com.infamous.dungeons_mobs.entities.illagers.EnchanterEntity, 961
+Dungeons Mobs, dungeons_mobs:endersent, com.infamous.dungeons_mobs.entities.ender.EndersentEntity, 1000
+Dungeons Mobs, dungeons_mobs:frozen_zombie, com.infamous.dungeons_mobs.entities.undead.FrozenZombieEntity, 949
+Dungeons Mobs, dungeons_mobs:fungus_thrower, com.infamous.dungeons_mobs.entities.piglin.FungusThrowerEntity, 989
+Dungeons Mobs, dungeons_mobs:geomancer, com.infamous.dungeons_mobs.entities.illagers.GeomancerEntity, 959
+Dungeons Mobs, dungeons_mobs:geomancer_bomb, com.infamous.dungeons_mobs.entities.summonables.GeomancerBombEntity, 983
+Dungeons Mobs, dungeons_mobs:geomancer_wall, com.infamous.dungeons_mobs.entities.summonables.GeomancerWallEntity, 982
+Dungeons Mobs, dungeons_mobs:ice_cloud, com.infamous.dungeons_mobs.entities.summonables.IceCloudEntity, 985
+Dungeons Mobs, dungeons_mobs:iceologer, com.infamous.dungeons_mobs.entities.illagers.IceologerEntity, 958
+Dungeons Mobs, dungeons_mobs:icy_creeper, com.infamous.dungeons_mobs.entities.creepers.IcyCreeperEntity, 967
+Dungeons Mobs, dungeons_mobs:illusioner, com.infamous.dungeons_mobs.entities.illagers.DungeonsIllusionerEntity, 963
+Dungeons Mobs, dungeons_mobs:illusioner_clone, com.infamous.dungeons_mobs.entities.illagers.IllusionerCloneEntity, 964
+Dungeons Mobs, dungeons_mobs:jungle_zombie, com.infamous.dungeons_mobs.entities.undead.JungleZombieEntity, 948
+Dungeons Mobs, dungeons_mobs:laser_orb, com.infamous.dungeons_mobs.entities.projectiles.LaserOrbEntity, 998
+Dungeons Mobs, dungeons_mobs:leapleaf, com.infamous.dungeons_mobs.entities.jungle.LeapleafEntity, 973
+Dungeons Mobs, dungeons_mobs:mossy_skeleton, com.infamous.dungeons_mobs.entities.undead.MossySkeletonEntity, 951
+Dungeons Mobs, dungeons_mobs:mountaineer, com.infamous.dungeons_mobs.entities.illagers.MountaineerEntity, 965
+Dungeons Mobs, dungeons_mobs:necromancer, com.infamous.dungeons_mobs.entities.undead.NecromancerEntity, 954
+Dungeons Mobs, dungeons_mobs:poison_anemone, com.infamous.dungeons_mobs.entities.water.PoisonAnemoneEntity, 993
+Dungeons Mobs, dungeons_mobs:poison_quill_vine, com.infamous.dungeons_mobs.entities.jungle.PoisonQuillVineEntity, 975
+Dungeons Mobs, dungeons_mobs:quick_growing_anemone, com.infamous.dungeons_mobs.entities.water.QuickGrowingAnemoneEntity, 992
+Dungeons Mobs, dungeons_mobs:quick_growing_vine, com.infamous.dungeons_mobs.entities.jungle.QuickGrowingVineEntity, 974
+Dungeons Mobs, dungeons_mobs:redstone_cube, com.infamous.dungeons_mobs.entities.redstone.RedstoneCubeEntity, 970
+Dungeons Mobs, dungeons_mobs:redstone_golem, com.infamous.dungeons_mobs.entities.redstone.RedstoneGolemEntity, 971
+Dungeons Mobs, dungeons_mobs:redstone_mine, com.infamous.dungeons_mobs.entities.redstone.RedstoneMineEntity, 984
+Dungeons Mobs, dungeons_mobs:royal_guard, com.infamous.dungeons_mobs.entities.illagers.RoyalGuardEntity, 957
+Dungeons Mobs, dungeons_mobs:skeleton_horseman, com.infamous.dungeons_mobs.entities.undead.horseman.SkeletonHorsemanEntity, 953
+Dungeons Mobs, dungeons_mobs:skeleton_vanguard, com.infamous.dungeons_mobs.entities.undead.SkeletonVanguardEntity, 952
+Dungeons Mobs, dungeons_mobs:slimeball, com.infamous.dungeons_mobs.entities.projectiles.SlimeballEntity, 978
+Dungeons Mobs, dungeons_mobs:snareling, com.infamous.dungeons_mobs.entities.ender.SnarelingEntity, 1003
+Dungeons Mobs, dungeons_mobs:squall_golem, com.infamous.dungeons_mobs.entities.golem.SquallGolemEntity, 976
+Dungeons Mobs, dungeons_mobs:sunken_skeleton, com.infamous.dungeons_mobs.entities.water.SunkenSkeletonEntity, 997
+Dungeons Mobs, dungeons_mobs:tornado, com.infamous.dungeons_mobs.entities.summonables.TornadoEntity, 986
+Dungeons Mobs, dungeons_mobs:trident_fume, com.infamous.dungeons_mobs.entities.projectiles.TridentFumeEntity, 999
+Dungeons Mobs, dungeons_mobs:vindicator_chef, com.infamous.dungeons_mobs.entities.illagers.VindicatorChefEntity, 962
+Dungeons Mobs, dungeons_mobs:watchling, com.infamous.dungeons_mobs.entities.ender.WatchlingEntity, 1002
+Dungeons Mobs, dungeons_mobs:wavewhisperer, com.infamous.dungeons_mobs.entities.water.WavewhispererEntity, 991
+Dungeons Mobs, dungeons_mobs:whisperer, com.infamous.dungeons_mobs.entities.jungle.WhispererEntity, 972
+Dungeons Mobs, dungeons_mobs:windcaller, com.infamous.dungeons_mobs.entities.illagers.WindcallerEntity, 960
+Dungeons Mobs, dungeons_mobs:wraith, com.infamous.dungeons_mobs.entities.undead.WraithEntity, 968
+Dungeons Mobs, dungeons_mobs:wraith_fireball, com.infamous.dungeons_mobs.entities.projectiles.WraithFireballEntity, 977
+Dungeons Mobs, dungeons_mobs:zombified_armored_piglin, com.infamous.dungeons_mobs.entities.piglin.ZombifiedArmoredPiglinEntity, 988
+Dungeons Mobs, dungeons_mobs:zombified_fungus_thrower, com.infamous.dungeons_mobs.entities.piglin.ZombifiedFungusThrowerEntity, 990
+Enigmatic Legacy, enigmaticlegacy:enigmatic_potion_entity, com.integral.enigmaticlegacy.entities.EnigmaticPotionEntity, 856
+Enigmatic Legacy, enigmaticlegacy:permanent_item_entity, com.integral.enigmaticlegacy.entities.PermanentItemEntity, 855
+Enigmatic Legacy, enigmaticlegacy:ultimate_wither_skull_entity, com.integral.enigmaticlegacy.entities.UltimateWitherSkullEntity, 857
+Fire N' Blood, firenblood:acolyte, com.Polarice3.FireNBlood.entities.neutral.AcolyteEntity, 1054
+Fire N' Blood, firenblood:anathema, com.Polarice3.FireNBlood.entities.hostile.tailless.masters.TaillessAnathemaEntity, 1037
+Fire N' Blood, firenblood:apostle, com.Polarice3.FireNBlood.entities.hostile.cultists.ApostleEntity, 1058
+Fire N' Blood, firenblood:blackbull, com.Polarice3.FireNBlood.entities.hostile.tailless.BlackBullEntity, 1031
+Fire N' Blood, firenblood:brewer, com.Polarice3.FireNBlood.entities.neutral.protectors.BrewerEntity, 1049
+Fire N' Blood, firenblood:bullet, com.Polarice3.FireNBlood.entities.hostile.tailless.BulletEntity, 1032
+Fire N' Blood, firenblood:caller, com.Polarice3.FireNBlood.entities.hostile.tailless.CallerEntity, 1039
+Fire N' Blood, firenblood:channeller, com.Polarice3.FireNBlood.entities.hostile.cultists.ChannellerEntity, 1055
+Fire N' Blood, firenblood:fakeseat, com.Polarice3.FireNBlood.entities.utilities.FakeSeatEntity, 1078
+Fire N' Blood, firenblood:fanatic, com.Polarice3.FireNBlood.entities.hostile.cultists.FanaticEntity, 1056
+Fire N' Blood, firenblood:friendly_scorch, com.Polarice3.FireNBlood.entities.ally.FriendlyScorchEntity, 1069
+Fire N' Blood, firenblood:friendly_vex, com.Polarice3.FireNBlood.entities.ally.FriendlyVexEntity, 1068
+Fire N' Blood, firenblood:friendtank, com.Polarice3.FireNBlood.entities.ally.FriendlyTankEntity, 1035
+Fire N' Blood, firenblood:hexer, com.Polarice3.FireNBlood.entities.neutral.protectors.HexerEntity, 1050
+Fire N' Blood, firenblood:irk, com.Polarice3.FireNBlood.entities.hostile.IrkEntity, 1074
+Fire N' Blood, firenblood:lightningtrap, com.Polarice3.FireNBlood.entities.utilities.LightningTrapEntity, 1079
+Fire N' Blood, firenblood:minotaur, com.Polarice3.FireNBlood.entities.hostile.tailless.masters.MinotaurEntity, 1033
+Fire N' Blood, firenblood:mirage, com.Polarice3.FireNBlood.entities.neutral.protectors.MirageEntity, 1051
+Fire N' Blood, firenblood:mutatedchicken, com.Polarice3.FireNBlood.entities.neutral.MutatedChickenEntity, 1062
+Fire N' Blood, firenblood:mutatedcow, com.Polarice3.FireNBlood.entities.neutral.MutatedCowEntity, 1061
+Fire N' Blood, firenblood:mutatedpig, com.Polarice3.FireNBlood.entities.neutral.MutatedPigEntity, 1064
+Fire N' Blood, firenblood:mutatedrabbit, com.Polarice3.FireNBlood.entities.neutral.MutatedRabbitEntity, 1065
+Fire N' Blood, firenblood:mutatedsheep, com.Polarice3.FireNBlood.entities.neutral.MutatedSheepEntity, 1063
+Fire N' Blood, firenblood:neophyte, com.Polarice3.FireNBlood.entities.hostile.NeophyteEntity, 1053
+Fire N' Blood, firenblood:nethernal, com.Polarice3.FireNBlood.entities.hostile.NethernalEntity, 1076
+Fire N' Blood, firenblood:parasite, com.Polarice3.FireNBlood.entities.hostile.ParasiteEntity, 1067
+Fire N' Blood, firenblood:penance, com.Polarice3.FireNBlood.entities.bosses.PenanceEntity, 1077
+Fire N' Blood, firenblood:protector, com.Polarice3.FireNBlood.entities.neutral.protectors.ProtectorEntity, 1048
+Fire N' Blood, firenblood:redemptor, com.Polarice3.FireNBlood.entities.neutral.protectors.RedemptorEntity, 1047
+Fire N' Blood, firenblood:royalbullet, com.Polarice3.FireNBlood.entities.hostile.tailless.RoyalBulletEntity, 1038
+Fire N' Blood, firenblood:sacredfish, com.Polarice3.FireNBlood.entities.neutral.SacredFishEntity, 1066
+Fire N' Blood, firenblood:savager, com.Polarice3.FireNBlood.entities.neutral.protectors.SavagerEntity, 1052
+Fire N' Blood, firenblood:scorch, com.Polarice3.FireNBlood.entities.hostile.ScorchEntity, 1075
+Fire N' Blood, firenblood:scorchball, com.Polarice3.FireNBlood.entities.projectiles.NetherBallEntity, 1045
+Fire N' Blood, firenblood:skeleton_minion, com.Polarice3.FireNBlood.entities.ally.SkeletonMinionEntity, 1071
+Fire N' Blood, firenblood:skeletonvillagerminion, com.Polarice3.FireNBlood.entities.hostile.cultists.SkeletonVillagerMinionEntity, 1060
+Fire N' Blood, firenblood:slowbomb, com.Polarice3.FireNBlood.entities.hostile.tailless.SlowBombEntity, 1044
+Fire N' Blood, firenblood:soulfireball, com.Polarice3.FireNBlood.entities.projectiles.SoulFireballEntity, 1040
+Fire N' Blood, firenblood:soulskull, com.Polarice3.FireNBlood.entities.projectiles.SoulSkullEntity, 1046
+Fire N' Blood, firenblood:spear, com.Polarice3.FireNBlood.entities.projectiles.SpearEntity, 1042
+Fire N' Blood, firenblood:spiderling_minion, com.Polarice3.FireNBlood.entities.ally.SpiderlingMinionEntity, 1072
+Fire N' Blood, firenblood:taillessdruid, com.Polarice3.FireNBlood.entities.hostile.tailless.TaillessDruidEntity, 1029
+Fire N' Blood, firenblood:taillesshorror, com.Polarice3.FireNBlood.entities.hostile.tailless.TaillessHorrorEntity, 1030
+Fire N' Blood, firenblood:taillessprophet, com.Polarice3.FireNBlood.entities.hostile.tailless.masters.TaillessProphetEntity, 1036
+Fire N' Blood, firenblood:taillesswretch, com.Polarice3.FireNBlood.entities.hostile.tailless.TaillessWretchEntity, 1028
+Fire N' Blood, firenblood:tank, com.Polarice3.FireNBlood.entities.hostile.TankEntity, 1034
+Fire N' Blood, firenblood:vizier, com.Polarice3.FireNBlood.entities.bosses.VizierEntity, 1073
+Fire N' Blood, firenblood:warped_spear, com.Polarice3.FireNBlood.entities.projectiles.WarpedSpearEntity, 1041
+Fire N' Blood, firenblood:witchbomb, com.Polarice3.FireNBlood.entities.projectiles.WitchBombEntity, 1043
+Fire N' Blood, firenblood:zealot, com.Polarice3.FireNBlood.entities.hostile.cultists.ZealotEntity, 1057
+Fire N' Blood, firenblood:zombie_minion, com.Polarice3.FireNBlood.entities.ally.ZombieMinionEntity, 1070
+Fire N' Blood, firenblood:zombievillagerminion, com.Polarice3.FireNBlood.entities.hostile.cultists.ZombieVillagerMinionEntity, 1059
+Forbidden & Arcanus, forbidden_arcanus:boom_arrow, com.stal111.forbidden_arcanus.entity.projectile.BoomArrowEntity, 1228
+Forbidden & Arcanus, forbidden_arcanus:chorus_pearl, com.stal111.forbidden_arcanus.entity.projectile.ChorusPearlEntity, 1225
+Forbidden & Arcanus, forbidden_arcanus:crimson_lightning_bolt, com.stal111.forbidden_arcanus.entity.CrimsonLightningBoltEntity, 1231
+Forbidden & Arcanus, forbidden_arcanus:draco_arcanus_arrow, com.stal111.forbidden_arcanus.entity.projectile.DracoArcanusArrowEntity, 1229
+Forbidden & Arcanus, forbidden_arcanus:energy_ball, com.stal111.forbidden_arcanus.entity.projectile.EnergyBallEntity, 1227
+Forbidden & Arcanus, forbidden_arcanus:pixie, com.stal111.forbidden_arcanus.entity.PixieEntity, 1230
+Forbidden & Arcanus, forbidden_arcanus:seed_bullet, com.stal111.forbidden_arcanus.entity.projectile.SeedBulletEntity, 1226
+Greek Fantasy, greekfantasy:ara, greekfantasy.entity.AraEntity, 523
+Greek Fantasy, greekfantasy:arachne, greekfantasy.entity.ArachneEntity, 524
+Greek Fantasy, greekfantasy:arion, greekfantasy.entity.ArionEntity, 525
+Greek Fantasy, greekfantasy:baby_spider, greekfantasy.entity.BabySpiderEntity, 526
+Greek Fantasy, greekfantasy:bronze_bull, greekfantasy.entity.BronzeBullEntity, 527
+Greek Fantasy, greekfantasy:centaur, greekfantasy.entity.CentaurEntity, 528
+Greek Fantasy, greekfantasy:cerastes, greekfantasy.entity.CerastesEntity, 529
+Greek Fantasy, greekfantasy:cerberus, greekfantasy.entity.CerberusEntity, 530
+Greek Fantasy, greekfantasy:charybdis, greekfantasy.entity.CharybdisEntity, 531
+Greek Fantasy, greekfantasy:circe, greekfantasy.entity.CirceEntity, 532
+Greek Fantasy, greekfantasy:cretan_minotaur, greekfantasy.entity.CretanMinotaurEntity, 533
+Greek Fantasy, greekfantasy:curse, greekfantasy.entity.misc.CurseEntity, 566
+Greek Fantasy, greekfantasy:cyclopes, greekfantasy.entity.CyclopesEntity, 535
+Greek Fantasy, greekfantasy:cyprian, greekfantasy.entity.CyprianEntity, 534
+Greek Fantasy, greekfantasy:discus, greekfantasy.entity.misc.DiscusEntity, 567
+Greek Fantasy, greekfantasy:dragon_tooth, greekfantasy.entity.misc.DragonToothEntity, 568
+Greek Fantasy, greekfantasy:drakaina, greekfantasy.entity.DrakainaEntity, 536
+Greek Fantasy, greekfantasy:dryad, greekfantasy.entity.DryadEntity, 537
+Greek Fantasy, greekfantasy:elpis, greekfantasy.entity.ElpisEntity, 538
+Greek Fantasy, greekfantasy:empusa, greekfantasy.entity.EmpusaEntity, 539
+Greek Fantasy, greekfantasy:fury, greekfantasy.entity.FuryEntity, 540
+Greek Fantasy, greekfantasy:geryon, greekfantasy.entity.GeryonEntity, 541
+Greek Fantasy, greekfantasy:giant_boar, greekfantasy.entity.GiantBoarEntity, 542
+Greek Fantasy, greekfantasy:gigante, greekfantasy.entity.GiganteEntity, 543
+Greek Fantasy, greekfantasy:golden_ram, greekfantasy.entity.GoldenRamEntity, 544
+Greek Fantasy, greekfantasy:gorgon, greekfantasy.entity.GorgonEntity, 545
+Greek Fantasy, greekfantasy:greek_fire, greekfantasy.entity.misc.GreekFireEntity, 569
+Greek Fantasy, greekfantasy:harpy, greekfantasy.entity.HarpyEntity, 546
+Greek Fantasy, greekfantasy:healing_spell, greekfantasy.entity.misc.HealingSpellEntity, 570
+Greek Fantasy, greekfantasy:hydra, greekfantasy.entity.HydraEntity, 547
+Greek Fantasy, greekfantasy:hydra_head, greekfantasy.entity.HydraHeadEntity, 548
+Greek Fantasy, greekfantasy:lampad, greekfantasy.entity.LampadEntity, 549
+Greek Fantasy, greekfantasy:mad_cow, greekfantasy.entity.MadCowEntity, 550
+Greek Fantasy, greekfantasy:makhai, greekfantasy.entity.MakhaiEntity, 551
+Greek Fantasy, greekfantasy:minotaur, greekfantasy.entity.MinotaurEntity, 552
+Greek Fantasy, greekfantasy:naiad, greekfantasy.entity.NaiadEntity, 554
+Greek Fantasy, greekfantasy:nemean_lion, greekfantasy.entity.NemeanLionEntity, 553
+Greek Fantasy, greekfantasy:orthus, greekfantasy.entity.OrthusEntity, 555
+Greek Fantasy, greekfantasy:orthus_head_item, greekfantasy.entity.misc.OrthusHeadItemEntity, 571
+Greek Fantasy, greekfantasy:pegasus, greekfantasy.entity.PegasusEntity, 556
+Greek Fantasy, greekfantasy:poison_spit, greekfantasy.entity.misc.PoisonSpitEntity, 572
+Greek Fantasy, greekfantasy:python, greekfantasy.entity.PythonEntity, 557
+Greek Fantasy, greekfantasy:satyr, greekfantasy.entity.SatyrEntity, 558
+Greek Fantasy, greekfantasy:shade, greekfantasy.entity.ShadeEntity, 559
+Greek Fantasy, greekfantasy:siren, greekfantasy.entity.SirenEntity, 560
+Greek Fantasy, greekfantasy:sparti, greekfantasy.entity.SpartiEntity, 561
+Greek Fantasy, greekfantasy:spear, greekfantasy.entity.misc.SpearEntity, 565
+Greek Fantasy, greekfantasy:swine_spell, greekfantasy.entity.misc.SwineSpellEntity, 573
+Greek Fantasy, greekfantasy:talos, greekfantasy.entity.TalosEntity, 562
+Greek Fantasy, greekfantasy:unicorn, greekfantasy.entity.UnicornEntity, 563
+Greek Fantasy, greekfantasy:web_ball, greekfantasy.entity.misc.WebBallEntity, 574
+Greek Fantasy, greekfantasy:whirl, greekfantasy.entity.WhirlEntity, 564
+Hats, hats:hat, me.ichun.mods.hats.common.entity.EntityHat, 684
+Hexerei, hexerei:broom, net.joefoxe.hexerei.client.renderer.entity.custom.BroomEntity, 637
+Hexerei, hexerei:buff_zombie, net.joefoxe.hexerei.client.renderer.entity.custom.BuffZombieEntity, 635
+Hexerei, hexerei:crow, ?, 638
+Hexerei, hexerei:pigeon, net.joefoxe.hexerei.client.renderer.entity.custom.PigeonEntity, 636
+Ice and Fire, iceandfire:amphithere, com.github.alexthe666.iceandfire.entity.EntityAmphithere, 804
+Ice and Fire, iceandfire:amphithere_arrow, com.github.alexthe666.iceandfire.entity.EntityAmphithereArrow, 805
+Ice and Fire, iceandfire:chain_tie, com.github.alexthe666.iceandfire.entity.EntityChainTie, 809
+Ice and Fire, iceandfire:cockatrice, com.github.alexthe666.iceandfire.entity.EntityCockatrice, 792
+Ice and Fire, iceandfire:cockatrice_egg, com.github.alexthe666.iceandfire.entity.EntityCockatriceEgg, 793
+Ice and Fire, iceandfire:cyclops, com.github.alexthe666.iceandfire.entity.EntityCyclops, 787
+Ice and Fire, iceandfire:cylcops_multipart, com.github.alexthe666.iceandfire.entity.EntityCyclopsEye, 772
+Ice and Fire, iceandfire:deathworm, com.github.alexthe666.iceandfire.entity.EntityDeathWorm, 790
+Ice and Fire, iceandfire:deathworm_egg, com.github.alexthe666.iceandfire.entity.EntityDeathWormEgg, 791
+Ice and Fire, iceandfire:dragon_arrow, com.github.alexthe666.iceandfire.entity.EntityDragonArrow, 774
+Ice and Fire, iceandfire:dragon_egg, com.github.alexthe666.iceandfire.entity.EntityDragonEgg, 773
+Ice and Fire, iceandfire:dragon_multipart, com.github.alexthe666.iceandfire.entity.EntityDragonPart, 769
+Ice and Fire, iceandfire:dragon_skull, com.github.alexthe666.iceandfire.entity.EntityDragonSkull, 775
+Ice and Fire, iceandfire:dread_beast, com.github.alexthe666.iceandfire.entity.EntityDreadBeast, 816
+Ice and Fire, iceandfire:dread_ghoul, com.github.alexthe666.iceandfire.entity.EntityDreadGhoul, 815
+Ice and Fire, iceandfire:dread_horse, com.github.alexthe666.iceandfire.entity.EntityDreadHorse, 821
+Ice and Fire, iceandfire:dread_knight, com.github.alexthe666.iceandfire.entity.EntityDreadKnight, 820
+Ice and Fire, iceandfire:dread_lich, com.github.alexthe666.iceandfire.entity.EntityDreadLich, 818
+Ice and Fire, iceandfire:dread_lich_skull, com.github.alexthe666.iceandfire.entity.EntityDreadLichSkull, 819
+Ice and Fire, iceandfire:dread_scuttler, com.github.alexthe666.iceandfire.entity.EntityDreadScuttler, 817
+Ice and Fire, iceandfire:dread_thrall, com.github.alexthe666.iceandfire.entity.EntityDreadThrall, 814
+Ice and Fire, iceandfire:fire_dragon, com.github.alexthe666.iceandfire.entity.EntityFireDragon, 776
+Ice and Fire, iceandfire:fire_dragon_charge, com.github.alexthe666.iceandfire.entity.EntityDragonFireCharge, 779
+Ice and Fire, iceandfire:ghost, com.github.alexthe666.iceandfire.entity.EntityGhost, 825
+Ice and Fire, iceandfire:ghost_sword, com.github.alexthe666.iceandfire.entity.EntityGhostSword, 826
+Ice and Fire, iceandfire:gorgon, com.github.alexthe666.iceandfire.entity.EntityGorgon, 785
+Ice and Fire, iceandfire:hippocampus, com.github.alexthe666.iceandfire.entity.EntityHippocampus, 789
+Ice and Fire, iceandfire:hippogryph, com.github.alexthe666.iceandfire.entity.EntityHippogryph, 783
+Ice and Fire, iceandfire:hippogryph_egg, com.github.alexthe666.iceandfire.entity.EntityHippogryphEgg, 782
+Ice and Fire, iceandfire:hydra, com.github.alexthe666.iceandfire.entity.EntityHydra, 822
+Ice and Fire, iceandfire:hydra_arrow, com.github.alexthe666.iceandfire.entity.EntityHydraArrow, 824
+Ice and Fire, iceandfire:hydra_breath, com.github.alexthe666.iceandfire.entity.EntityHydraBreath, 823
+Ice and Fire, iceandfire:hydra_multipart, com.github.alexthe666.iceandfire.entity.EntityHydraHead, 771
+Ice and Fire, iceandfire:ice_dragon, com.github.alexthe666.iceandfire.entity.EntityIceDragon, 777
+Ice and Fire, iceandfire:ice_dragon_charge, com.github.alexthe666.iceandfire.entity.EntityDragonIceCharge, 780
+Ice and Fire, iceandfire:lightning_dragon, com.github.alexthe666.iceandfire.entity.EntityLightningDragon, 778
+Ice and Fire, iceandfire:lightning_dragon_charge, com.github.alexthe666.iceandfire.entity.EntityDragonLightningCharge, 781
+Ice and Fire, iceandfire:mob_skull, com.github.alexthe666.iceandfire.entity.EntityMobSkull, 813
+Ice and Fire, iceandfire:multipart, com.github.alexthe666.iceandfire.entity.EntitSlowPart, 770
+Ice and Fire, iceandfire:myrmex_egg, com.github.alexthe666.iceandfire.entity.EntityMyrmexEgg, 803
+Ice and Fire, iceandfire:myrmex_queen, com.github.alexthe666.iceandfire.entity.EntityMyrmexQueen, 802
+Ice and Fire, iceandfire:myrmex_royal, com.github.alexthe666.iceandfire.entity.EntityMyrmexRoyal, 801
+Ice and Fire, iceandfire:myrmex_sentinel, com.github.alexthe666.iceandfire.entity.EntityMyrmexSentinel, 800
+Ice and Fire, iceandfire:myrmex_soldier, com.github.alexthe666.iceandfire.entity.EntityMyrmexSoldier, 799
+Ice and Fire, iceandfire:myrmex_swarmer, com.github.alexthe666.iceandfire.entity.EntityMyrmexSwarmer, 811
+Ice and Fire, iceandfire:myrmex_worker, com.github.alexthe666.iceandfire.entity.EntityMyrmexWorker, 798
+Ice and Fire, iceandfire:pixie, com.github.alexthe666.iceandfire.entity.EntityPixie, 786
+Ice and Fire, iceandfire:pixie_charge, com.github.alexthe666.iceandfire.entity.EntityPixieCharge, 810
+Ice and Fire, iceandfire:sea_serpent, com.github.alexthe666.iceandfire.entity.EntitySeaSerpent, 806
+Ice and Fire, iceandfire:sea_serpent_arrow, com.github.alexthe666.iceandfire.entity.EntitySeaSerpentArrow, 808
+Ice and Fire, iceandfire:sea_serpent_bubbles, com.github.alexthe666.iceandfire.entity.EntitySeaSerpentBubbles, 807
+Ice and Fire, iceandfire:siren, com.github.alexthe666.iceandfire.entity.EntitySiren, 788
+Ice and Fire, iceandfire:stone_statue, com.github.alexthe666.iceandfire.entity.EntityStoneStatue, 784
+Ice and Fire, iceandfire:stymphalian_arrow, com.github.alexthe666.iceandfire.entity.EntityStymphalianArrow, 796
+Ice and Fire, iceandfire:stymphalian_bird, com.github.alexthe666.iceandfire.entity.EntityStymphalianBird, 794
+Ice and Fire, iceandfire:stymphalian_feather, com.github.alexthe666.iceandfire.entity.EntityStymphalianFeather, 795
+Ice and Fire, iceandfire:tide_trident, com.github.alexthe666.iceandfire.entity.EntityTideTrident, 812
+Ice and Fire, iceandfire:troll, com.github.alexthe666.iceandfire.entity.EntityTroll, 797
+Infernal Expansion, infernalexp:ascus_bomb, org.infernalstudios.infernalexp.entities.AscusBombEntity, 117
+Infernal Expansion, infernalexp:basalt_giant, org.infernalstudios.infernalexp.entities.BasaltGiantEntity, 112
+Infernal Expansion, infernalexp:blackstone_dwarf, org.infernalstudios.infernalexp.entities.BlackstoneDwarfEntity, 113
+Infernal Expansion, infernalexp:blindsight, org.infernalstudios.infernalexp.entities.BlindsightEntity, 115
+Infernal Expansion, infernalexp:embody, org.infernalstudios.infernalexp.entities.EmbodyEntity, 111
+Infernal Expansion, infernalexp:glowsilk_moth, org.infernalstudios.infernalexp.entities.GlowsilkMothEntity, 116
+Infernal Expansion, infernalexp:glowsquito, org.infernalstudios.infernalexp.entities.GlowsquitoEntity, 114
+Infernal Expansion, infernalexp:infernal_painting, org.infernalstudios.infernalexp.entities.InfernalPaintingEntity, 120
+Infernal Expansion, infernalexp:shroomloin, org.infernalstudios.infernalexp.entities.ShroomloinEntity, 109
+Infernal Expansion, infernalexp:throwable_brick, org.infernalstudios.infernalexp.entities.ThrowableBrickEntity, 121
+Infernal Expansion, infernalexp:throwable_fire_charge, org.infernalstudios.infernalexp.entities.ThrowableFireChargeEntity, 119
+Infernal Expansion, infernalexp:throwable_magma_cream, org.infernalstudios.infernalexp.entities.ThrowableMagmaCreamEntity, 118
+Infernal Expansion, infernalexp:throwable_nether_brick, org.infernalstudios.infernalexp.entities.ThrowableNetherBrickEntity, 122
+Infernal Expansion, infernalexp:voline, org.infernalstudios.infernalexp.entities.VolineEntity, 108
+Infernal Expansion, infernalexp:warpbeetle, org.infernalstudios.infernalexp.entities.WarpbeetleEntity, 110
+Kaleido, kaleido:seat, ?, 590
+Lycanites Mobs, lycanitesmobs:abaia, com.lycanitesmobs.core.entity.creature.EntityAbaia, 277
+Lycanites Mobs, lycanitesmobs:abtu, com.lycanitesmobs.core.entity.creature.EntityAbtu, 195
+Lycanites Mobs, lycanitesmobs:acidglob, com.lycanitesmobs.core.entity.CustomProjectileEntity, 286
+Lycanites Mobs, lycanitesmobs:acidsplash, com.lycanitesmobs.core.entity.CustomProjectileEntity, 284
+Lycanites Mobs, lycanitesmobs:aegis, com.lycanitesmobs.core.entity.creature.EntityAegis, 234
+Lycanites Mobs, lycanitesmobs:aetherwave, com.lycanitesmobs.core.entity.CustomProjectileModelEntity, 281
+Lycanites Mobs, lycanitesmobs:afrit, com.lycanitesmobs.core.entity.creature.EntityAfrit, 201
+Lycanites Mobs, lycanitesmobs:aglebemu, com.lycanitesmobs.core.entity.creature.EntityAglebemu, 182
+Lycanites Mobs, lycanitesmobs:amalgalich, com.lycanitesmobs.core.entity.creature.EntityAmalgalich, 176
+Lycanites Mobs, lycanitesmobs:apollyon, com.lycanitesmobs.core.entity.creature.EntityApollyon, 263
+Lycanites Mobs, lycanitesmobs:aquapulse, com.lycanitesmobs.core.entity.CustomProjectileEntity, 307
+Lycanites Mobs, lycanitesmobs:arcanelaser, com.lycanitesmobs.core.entity.CustomProjectileEntity, 287
+Lycanites Mobs, lycanitesmobs:arcanelaserstorm, com.lycanitesmobs.core.entity.CustomProjectileEntity, 303
+Lycanites Mobs, lycanitesmobs:argus, com.lycanitesmobs.core.entity.creature.EntityArgus, 274
+Lycanites Mobs, lycanitesmobs:arisaur, com.lycanitesmobs.core.entity.creature.EntityArisaur, 158
+Lycanites Mobs, lycanitesmobs:arix, com.lycanitesmobs.core.entity.creature.EntityArix, 166
+Lycanites Mobs, lycanitesmobs:asmodeus, com.lycanitesmobs.core.entity.creature.EntityAsmodeus, 185
+Lycanites Mobs, lycanitesmobs:aspid, com.lycanitesmobs.core.entity.creature.EntityAspid, 223
+Lycanites Mobs, lycanitesmobs:astaroth, com.lycanitesmobs.core.entity.creature.EntityAstaroth, 178
+Lycanites Mobs, lycanitesmobs:balayang, com.lycanitesmobs.core.entity.creature.EntityBalayang, 278
+Lycanites Mobs, lycanitesmobs:banshee, com.lycanitesmobs.core.entity.creature.EntityBanshee, 231
+Lycanites Mobs, lycanitesmobs:barghest, com.lycanitesmobs.core.entity.creature.EntityBarghest, 162
+Lycanites Mobs, lycanitesmobs:behemophet, com.lycanitesmobs.core.entity.creature.EntityBehemophet, 209
+Lycanites Mobs, lycanitesmobs:belphegor, com.lycanitesmobs.core.entity.creature.EntityBelphegor, 273
+Lycanites Mobs, lycanitesmobs:blizzard, com.lycanitesmobs.core.entity.CustomProjectileEntity, 301
+Lycanites Mobs, lycanitesmobs:bloodleech, com.lycanitesmobs.core.entity.CustomProjectileEntity, 288
+Lycanites Mobs, lycanitesmobs:bobeko, com.lycanitesmobs.core.entity.creature.EntityBobeko, 179
+Lycanites Mobs, lycanitesmobs:boulderblast, com.lycanitesmobs.core.entity.CustomProjectileEntity, 308
+Lycanites Mobs, lycanitesmobs:brucha, com.lycanitesmobs.core.entity.creature.EntityBrucha, 270
+Lycanites Mobs, lycanitesmobs:calpod, com.lycanitesmobs.core.entity.creature.EntityCalpod, 249
+Lycanites Mobs, lycanitesmobs:cephignis, com.lycanitesmobs.core.entity.creature.EntityCephignis, 255
+Lycanites Mobs, lycanitesmobs:chaosorb, com.lycanitesmobs.core.entity.CustomProjectileModelEntity, 305
+Lycanites Mobs, lycanitesmobs:cherufe, com.lycanitesmobs.core.entity.creature.EntityCherufe, 229
+Lycanites Mobs, lycanitesmobs:chupacabra, com.lycanitesmobs.core.entity.creature.EntityChupacabra, 165
+Lycanites Mobs, lycanitesmobs:cinder, com.lycanitesmobs.core.entity.creature.EntityCinder, 227
+Lycanites Mobs, lycanitesmobs:clink, com.lycanitesmobs.core.entity.creature.EntityClink, 211
+Lycanites Mobs, lycanitesmobs:cockatrice, com.lycanitesmobs.core.entity.creature.EntityCockatrice, 261
+Lycanites Mobs, lycanitesmobs:conba, com.lycanitesmobs.core.entity.creature.EntityConba, 266
+Lycanites Mobs, lycanitesmobs:concapede, com.lycanitesmobs.core.entity.creature.EntityConcapedeHead, 172
+Lycanites Mobs, lycanitesmobs:concapedesegment, com.lycanitesmobs.core.entity.creature.EntityConcapedeSegment, 250
+Lycanites Mobs, lycanitesmobs:crusk, com.lycanitesmobs.core.entity.creature.EntityCrusk, 171
+Lycanites Mobs, lycanitesmobs:cryptkeeper, com.lycanitesmobs.core.entity.creature.EntityCryptkeeper, 194
+Lycanites Mobs, lycanitesmobs:crystalshard, com.lycanitesmobs.core.entity.CustomProjectileModelEntity, 316
+Lycanites Mobs, lycanitesmobs:darkling, com.lycanitesmobs.core.entity.creature.EntityDarkling, 240
+Lycanites Mobs, lycanitesmobs:dawon, com.lycanitesmobs.core.entity.creature.EntityDawon, 198
+Lycanites Mobs, lycanitesmobs:demonicblast, com.lycanitesmobs.core.entity.CustomProjectileEntity, 293
+Lycanites Mobs, lycanitesmobs:demonicspark, com.lycanitesmobs.core.entity.CustomProjectileEntity, 279
+Lycanites Mobs, lycanitesmobs:devilgatling, com.lycanitesmobs.core.entity.projectile.EntityDevilGatling, 331
+Lycanites Mobs, lycanitesmobs:devilstar, com.lycanitesmobs.core.entity.CustomProjectileEntity, 285
+Lycanites Mobs, lycanitesmobs:doomfireball, com.lycanitesmobs.core.entity.CustomProjectileEntity, 304
+Lycanites Mobs, lycanitesmobs:eechetik, com.lycanitesmobs.core.entity.creature.EntityEechetik, 169
+Lycanites Mobs, lycanitesmobs:ember, com.lycanitesmobs.core.entity.CustomProjectileEntity, 300
+Lycanites Mobs, lycanitesmobs:ent, com.lycanitesmobs.core.entity.creature.EntityEnt, 267
+Lycanites Mobs, lycanitesmobs:epion, com.lycanitesmobs.core.entity.creature.EntityEpion, 241
+Lycanites Mobs, lycanitesmobs:erepede, com.lycanitesmobs.core.entity.creature.EntityErepede, 236
+Lycanites Mobs, lycanitesmobs:ettin, com.lycanitesmobs.core.entity.creature.EntityEttin, 197
+Lycanites Mobs, lycanitesmobs:eyewig, com.lycanitesmobs.core.entity.creature.EntityEyewig, 183
+Lycanites Mobs, lycanitesmobs:faebolt, com.lycanitesmobs.core.entity.CustomProjectileEntity, 297
+Lycanites Mobs, lycanitesmobs:fear, com.lycanitesmobs.core.entity.FearEntity, 175
+Lycanites Mobs, lycanitesmobs:feradon, com.lycanitesmobs.core.entity.creature.EntityFeradon, 257
+Lycanites Mobs, lycanitesmobs:frostbolt, com.lycanitesmobs.core.entity.CustomProjectileEntity, 313
+Lycanites Mobs, lycanitesmobs:frostweaver, com.lycanitesmobs.core.entity.creature.EntityFrostweaver, 271
+Lycanites Mobs, lycanitesmobs:frostweb, com.lycanitesmobs.core.entity.CustomProjectileEntity, 298
+Lycanites Mobs, lycanitesmobs:geist, com.lycanitesmobs.core.entity.creature.EntityGeist, 181
+Lycanites Mobs, lycanitesmobs:geken, com.lycanitesmobs.core.entity.creature.EntityGeken, 207
+Lycanites Mobs, lycanitesmobs:geonach, com.lycanitesmobs.core.entity.creature.EntityGeonach, 205
+Lycanites Mobs, lycanitesmobs:ghoul, com.lycanitesmobs.core.entity.creature.EntityGhoul, 174
+Lycanites Mobs, lycanitesmobs:gnekk, com.lycanitesmobs.core.entity.creature.EntityGnekk, 260
+Lycanites Mobs, lycanitesmobs:gorgomite, com.lycanitesmobs.core.entity.creature.EntityGorgomite, 188
+Lycanites Mobs, lycanitesmobs:grell, com.lycanitesmobs.core.entity.creature.EntityGrell, 187
+Lycanites Mobs, lycanitesmobs:grigori, com.lycanitesmobs.core.entity.creature.EntityGrigori, 259
+Lycanites Mobs, lycanitesmobs:grue, com.lycanitesmobs.core.entity.creature.EntityGrue, 219
+Lycanites Mobs, lycanitesmobs:hellfireball, com.lycanitesmobs.core.entity.CustomProjectileEntity, 295
+Lycanites Mobs, lycanitesmobs:hellfirebarrier, com.lycanitesmobs.core.entity.projectile.EntityHellfireBarrier, 321
+Lycanites Mobs, lycanitesmobs:hellfirebarrierpart, com.lycanitesmobs.core.entity.projectile.EntityHellfireBarrierPart, 329
+Lycanites Mobs, lycanitesmobs:hellfireorb, com.lycanitesmobs.core.entity.projectile.EntityHellfireOrb, 326
+Lycanites Mobs, lycanitesmobs:hellfirewall, com.lycanitesmobs.core.entity.projectile.EntityHellfireWall, 320
+Lycanites Mobs, lycanitesmobs:hellfirewave, com.lycanitesmobs.core.entity.projectile.EntityHellfireWave, 328
+Lycanites Mobs, lycanitesmobs:hellfirewavepart, com.lycanitesmobs.core.entity.projectile.EntityHellfireWavePart, 319
+Lycanites Mobs, lycanitesmobs:helllaser, com.lycanitesmobs.core.entity.projectile.EntityHellLaser, 318
+Lycanites Mobs, lycanitesmobs:helllaserend, com.lycanitesmobs.core.entity.projectile.EntityHellLaserEnd, 324
+Lycanites Mobs, lycanitesmobs:hellshield, com.lycanitesmobs.core.entity.projectile.EntityHellShield, 330
+Lycanites Mobs, lycanitesmobs:herma, com.lycanitesmobs.core.entity.creature.EntityHerma, 214
+Lycanites Mobs, lycanitesmobs:icefireball, com.lycanitesmobs.core.entity.CustomProjectileEntity, 296
+Lycanites Mobs, lycanitesmobs:ignibus, com.lycanitesmobs.core.entity.creature.EntityIgnibus, 272
+Lycanites Mobs, lycanitesmobs:ika, com.lycanitesmobs.core.entity.creature.EntityIka, 213
+Lycanites Mobs, lycanitesmobs:ioray, com.lycanitesmobs.core.entity.creature.EntityIoray, 242
+Lycanites Mobs, lycanitesmobs:jabberwock, com.lycanitesmobs.core.entity.creature.EntityJabberwock, 203
+Lycanites Mobs, lycanitesmobs:jengu, com.lycanitesmobs.core.entity.creature.EntityJengu, 243
+Lycanites Mobs, lycanitesmobs:jouste, com.lycanitesmobs.core.entity.creature.EntityJouste, 202
+Lycanites Mobs, lycanitesmobs:joustealpha, com.lycanitesmobs.core.entity.creature.EntityJousteAlpha, 228
+Lycanites Mobs, lycanitesmobs:kathoga, com.lycanitesmobs.core.entity.creature.EntityKathoga, 233
+Lycanites Mobs, lycanitesmobs:khalk, com.lycanitesmobs.core.entity.creature.EntityKhalk, 184
+Lycanites Mobs, lycanitesmobs:kobold, com.lycanitesmobs.core.entity.creature.EntityKobold, 163
+Lycanites Mobs, lycanitesmobs:krake, com.lycanitesmobs.core.entity.creature.EntityKrake, 235
+Lycanites Mobs, lycanitesmobs:lacedon, com.lycanitesmobs.core.entity.creature.EntityLacedon, 161
+Lycanites Mobs, lycanitesmobs:laserend, com.lycanitesmobs.core.entity.LaserEndProjectileEntity, 323
+Lycanites Mobs, lycanitesmobs:lifedrain, com.lycanitesmobs.core.entity.CustomProjectileEntity, 315
+Lycanites Mobs, lycanitesmobs:lightball, com.lycanitesmobs.core.entity.CustomProjectileModelEntity, 311
+Lycanites Mobs, lycanitesmobs:lobdarklings, com.lycanitesmobs.core.entity.CustomProjectileModelEntity, 309
+Lycanites Mobs, lycanitesmobs:lycosa, com.lycanitesmobs.core.entity.creature.EntityLycosa, 265
+Lycanites Mobs, lycanitesmobs:magma, com.lycanitesmobs.core.entity.CustomProjectileEntity, 283
+Lycanites Mobs, lycanitesmobs:maka, com.lycanitesmobs.core.entity.creature.EntityMaka, 256
+Lycanites Mobs, lycanitesmobs:makaalpha, com.lycanitesmobs.core.entity.creature.EntityMakaAlpha, 164
+Lycanites Mobs, lycanitesmobs:malwrath, com.lycanitesmobs.core.entity.creature.EntityMalwrath, 230
+Lycanites Mobs, lycanitesmobs:maug, com.lycanitesmobs.core.entity.creature.EntityMaug, 170
+Lycanites Mobs, lycanitesmobs:morock, com.lycanitesmobs.core.entity.creature.EntityMorock, 199
+Lycanites Mobs, lycanitesmobs:mudshot, com.lycanitesmobs.core.entity.CustomProjectileEntity, 291
+Lycanites Mobs, lycanitesmobs:naxiris, com.lycanitesmobs.core.entity.creature.EntityNaxiris, 275
+Lycanites Mobs, lycanitesmobs:necrovore, com.lycanitesmobs.core.entity.creature.EntityNecrovore, 254
+Lycanites Mobs, lycanitesmobs:ningen, com.lycanitesmobs.core.entity.creature.EntityNingen, 268
+Lycanites Mobs, lycanitesmobs:nymph, com.lycanitesmobs.core.entity.creature.EntityNymph, 189
+Lycanites Mobs, lycanitesmobs:ostimien, com.lycanitesmobs.core.entity.creature.EntityOstimien, 262
+Lycanites Mobs, lycanitesmobs:pixen, com.lycanitesmobs.core.entity.creature.EntityPixen, 252
+Lycanites Mobs, lycanitesmobs:poisonray, com.lycanitesmobs.core.entity.CustomProjectileEntity, 306
+Lycanites Mobs, lycanitesmobs:poop, com.lycanitesmobs.core.entity.CustomProjectileEntity, 292
+Lycanites Mobs, lycanitesmobs:primeember, com.lycanitesmobs.core.entity.CustomProjectileEntity, 290
+Lycanites Mobs, lycanitesmobs:quetzodracl, com.lycanitesmobs.core.entity.creature.EntityQuetzodracl, 221
+Lycanites Mobs, lycanitesmobs:quill, com.lycanitesmobs.core.entity.CustomProjectileEntity, 302
+Lycanites Mobs, lycanitesmobs:rahovart, com.lycanitesmobs.core.entity.creature.EntityRahovart, 269
+Lycanites Mobs, lycanitesmobs:raidra, com.lycanitesmobs.core.entity.creature.EntityRaidra, 177
+Lycanites Mobs, lycanitesmobs:raiko, com.lycanitesmobs.core.entity.creature.EntityRaiko, 218
+Lycanites Mobs, lycanitesmobs:rapidfire, com.lycanitesmobs.core.entity.RapidFireProjectileEntity, 325
+Lycanites Mobs, lycanitesmobs:reaper, com.lycanitesmobs.core.entity.creature.EntityReaper, 217
+Lycanites Mobs, lycanitesmobs:reiver, com.lycanitesmobs.core.entity.creature.EntityReiver, 159
+Lycanites Mobs, lycanitesmobs:remobra, com.lycanitesmobs.core.entity.creature.EntityRemobra, 251
+Lycanites Mobs, lycanitesmobs:roa, com.lycanitesmobs.core.entity.creature.EntityRoa, 245
+Lycanites Mobs, lycanitesmobs:roc, com.lycanitesmobs.core.entity.creature.EntityRoc, 246
+Lycanites Mobs, lycanitesmobs:salamander, com.lycanitesmobs.core.entity.creature.EntitySalamander, 247
+Lycanites Mobs, lycanitesmobs:scorchfireball, com.lycanitesmobs.core.entity.CustomProjectileEntity, 282
+Lycanites Mobs, lycanitesmobs:serpix, com.lycanitesmobs.core.entity.creature.EntitySerpix, 190
+Lycanites Mobs, lycanitesmobs:shade, com.lycanitesmobs.core.entity.creature.EntityShade, 232
+Lycanites Mobs, lycanitesmobs:shadowfirebarrier, com.lycanitesmobs.core.entity.projectile.EntityShadowfireBarrier, 322
+Lycanites Mobs, lycanitesmobs:shambler, com.lycanitesmobs.core.entity.creature.EntityShambler, 200
+Lycanites Mobs, lycanitesmobs:silex, com.lycanitesmobs.core.entity.creature.EntitySilex, 220
+Lycanites Mobs, lycanitesmobs:skylus, com.lycanitesmobs.core.entity.creature.EntitySkylus, 167
+Lycanites Mobs, lycanitesmobs:spectralbolt, com.lycanitesmobs.core.entity.CustomProjectileEntity, 314
+Lycanites Mobs, lycanitesmobs:spectre, com.lycanitesmobs.core.entity.creature.EntitySpectre, 191
+Lycanites Mobs, lycanitesmobs:spriggan, com.lycanitesmobs.core.entity.creature.EntitySpriggan, 157
+Lycanites Mobs, lycanitesmobs:stryder, com.lycanitesmobs.core.entity.creature.EntityStryder, 210
+Lycanites Mobs, lycanitesmobs:summoningportal, com.lycanitesmobs.core.entity.PortalEntity, 327
+Lycanites Mobs, lycanitesmobs:summoningseed, com.lycanitesmobs.core.entity.CustomProjectileEntity, 312
+Lycanites Mobs, lycanitesmobs:sutiramu, com.lycanitesmobs.core.entity.creature.EntitySutiramu, 226
+Lycanites Mobs, lycanitesmobs:sylph, com.lycanitesmobs.core.entity.creature.EntitySylph, 237
+Lycanites Mobs, lycanitesmobs:thresher, com.lycanitesmobs.core.entity.creature.EntityThresher, 180
+Lycanites Mobs, lycanitesmobs:throwingscythe, com.lycanitesmobs.core.entity.CustomProjectileEntity, 299
+Lycanites Mobs, lycanitesmobs:tpumpkyn, com.lycanitesmobs.core.entity.creature.EntityTpumpkyn, 276
+Lycanites Mobs, lycanitesmobs:treant, com.lycanitesmobs.core.entity.creature.EntityTreant, 216
+Lycanites Mobs, lycanitesmobs:tremor, com.lycanitesmobs.core.entity.creature.EntityTremor, 204
+Lycanites Mobs, lycanitesmobs:tricksterflare, com.lycanitesmobs.core.entity.CustomProjectileEntity, 280
+Lycanites Mobs, lycanitesmobs:triffid, com.lycanitesmobs.core.entity.creature.EntityTriffid, 253
+Lycanites Mobs, lycanitesmobs:trite, com.lycanitesmobs.core.entity.creature.EntityTrite, 244
+Lycanites Mobs, lycanitesmobs:troll, com.lycanitesmobs.core.entity.creature.EntityTroll, 206
+Lycanites Mobs, lycanitesmobs:tundra, com.lycanitesmobs.core.entity.CustomProjectileEntity, 310
+Lycanites Mobs, lycanitesmobs:umibas, com.lycanitesmobs.core.entity.creature.EntityUmibas, 212
+Lycanites Mobs, lycanitesmobs:uvaraptor, com.lycanitesmobs.core.entity.creature.EntityUvaraptor, 173
+Lycanites Mobs, lycanitesmobs:vapula, com.lycanitesmobs.core.entity.creature.EntityVapula, 215
+Lycanites Mobs, lycanitesmobs:venomshot, com.lycanitesmobs.core.entity.CustomProjectileEntity, 294
+Lycanites Mobs, lycanitesmobs:ventoraptor, com.lycanitesmobs.core.entity.creature.EntityVentoraptor, 248
+Lycanites Mobs, lycanitesmobs:vespid, com.lycanitesmobs.core.entity.creature.EntityVespid, 192
+Lycanites Mobs, lycanitesmobs:vespidqueen, com.lycanitesmobs.core.entity.creature.EntityVespidQueen, 160
+Lycanites Mobs, lycanitesmobs:volcan, com.lycanitesmobs.core.entity.creature.EntityVolcan, 238
+Lycanites Mobs, lycanitesmobs:vorach, com.lycanitesmobs.core.entity.creature.EntityVorach, 225
+Lycanites Mobs, lycanitesmobs:warg, com.lycanitesmobs.core.entity.creature.EntityWarg, 193
+Lycanites Mobs, lycanitesmobs:waterjet, com.lycanitesmobs.core.entity.CustomProjectileEntity, 317
+Lycanites Mobs, lycanitesmobs:wendigo, com.lycanitesmobs.core.entity.creature.EntityWendigo, 168
+Lycanites Mobs, lycanitesmobs:whirlwind, com.lycanitesmobs.core.entity.CustomProjectileEntity, 289
+Lycanites Mobs, lycanitesmobs:wildkin, com.lycanitesmobs.core.entity.creature.EntityWildkin, 222
+Lycanites Mobs, lycanitesmobs:wisp, com.lycanitesmobs.core.entity.creature.EntityWisp, 224
+Lycanites Mobs, lycanitesmobs:wraamon, com.lycanitesmobs.core.entity.creature.EntityWraamon, 264
+Lycanites Mobs, lycanitesmobs:wraith, com.lycanitesmobs.core.entity.creature.EntityWraith, 208
+Lycanites Mobs, lycanitesmobs:xaphan, com.lycanitesmobs.core.entity.creature.EntityXaphan, 258
+Lycanites Mobs, lycanitesmobs:yale, com.lycanitesmobs.core.entity.creature.EntityYale, 239
+Lycanites Mobs, lycanitesmobs:zephyr, com.lycanitesmobs.core.entity.creature.EntityZephyr, 196
+Lycanites Mobs, lycanitesmobs:zoataur, com.lycanitesmobs.core.entity.creature.EntityZoataur, 186
+Mine and Slash, mmorpg:spell_arrow, com.robertx22.age_of_exile.database.data.spells.entities.SimpleArrowEntity, 438
+Mine and Slash, mmorpg:spell_block_entity, com.robertx22.age_of_exile.database.data.spells.entities.StationaryFallingBlockEntity, 439
+Mine and Slash, mmorpg:spell_projectile, com.robertx22.age_of_exile.database.data.spells.entities.SimpleProjectileEntity, 437
+Mine and Slash, mmorpg:spell_trident, com.robertx22.age_of_exile.database.data.spells.entities.SimpleTridentEntity, 440
+Minecraft, minecraft:area_effect_cloud, net.minecraft.entity.AreaEffectCloudEntity, 0
+Minecraft, minecraft:armor_stand, net.minecraft.entity.item.ArmorStandEntity, 1
+Minecraft, minecraft:arrow, net.minecraft.entity.projectile.ArrowEntity, 2
+Minecraft, minecraft:bat, net.minecraft.entity.passive.BatEntity, 3
+Minecraft, minecraft:bee, net.minecraft.entity.passive.BeeEntity, 4
+Minecraft, minecraft:blaze, net.minecraft.entity.monster.BlazeEntity, 5
+Minecraft, minecraft:boat, net.minecraft.entity.item.BoatEntity, 6
+Minecraft, minecraft:cat, net.minecraft.entity.passive.CatEntity, 7
+Minecraft, minecraft:cave_spider, net.minecraft.entity.monster.CaveSpiderEntity, 8
+Minecraft, minecraft:chest_minecart, net.minecraft.entity.item.minecart.ChestMinecartEntity, 46
+Minecraft, minecraft:chicken, net.minecraft.entity.passive.ChickenEntity, 9
+Minecraft, minecraft:cod, net.minecraft.entity.passive.fish.CodEntity, 10
+Minecraft, minecraft:command_block_minecart, net.minecraft.entity.item.minecart.CommandBlockMinecartEntity, 47
+Minecraft, minecraft:cow, net.minecraft.entity.passive.CowEntity, 11
+Minecraft, minecraft:creeper, net.minecraft.entity.monster.CreeperEntity, 12
+Minecraft, minecraft:dolphin, net.minecraft.entity.passive.DolphinEntity, 13
+Minecraft, minecraft:donkey, net.minecraft.entity.passive.horse.DonkeyEntity, 14
+Minecraft, minecraft:dragon_fireball, net.minecraft.entity.projectile.DragonFireballEntity, 15
+Minecraft, minecraft:drowned, net.minecraft.entity.monster.DrownedEntity, 16
+Minecraft, minecraft:egg, net.minecraft.entity.projectile.EggEntity, 84
+Minecraft, minecraft:elder_guardian, net.minecraft.entity.monster.ElderGuardianEntity, 17
+Minecraft, minecraft:end_crystal, net.minecraft.entity.item.EnderCrystalEntity, 18
+Minecraft, minecraft:ender_dragon, net.minecraft.entity.boss.dragon.EnderDragonEntity, 19
+Minecraft, minecraft:ender_pearl, net.minecraft.entity.item.EnderPearlEntity, 85
+Minecraft, minecraft:enderman, net.minecraft.entity.monster.EndermanEntity, 20
+Minecraft, minecraft:endermite, net.minecraft.entity.monster.EndermiteEntity, 21
+Minecraft, minecraft:evoker, net.minecraft.entity.monster.EvokerEntity, 22
+Minecraft, minecraft:evoker_fangs, net.minecraft.entity.projectile.EvokerFangsEntity, 23
+Minecraft, minecraft:experience_bottle, net.minecraft.entity.item.ExperienceBottleEntity, 86
+Minecraft, minecraft:experience_orb, net.minecraft.entity.item.ExperienceOrbEntity, 24
+Minecraft, minecraft:eye_of_ender, net.minecraft.entity.projectile.EyeOfEnderEntity, 25
+Minecraft, minecraft:falling_block, net.minecraft.entity.item.FallingBlockEntity, 26
+Minecraft, minecraft:fireball, net.minecraft.entity.projectile.FireballEntity, 39
+Minecraft, minecraft:firework_rocket, net.minecraft.entity.projectile.FireworkRocketEntity, 27
+Minecraft, minecraft:fishing_bobber, ?, 107
+Minecraft, minecraft:fox, net.minecraft.entity.passive.FoxEntity, 28
+Minecraft, minecraft:furnace_minecart, net.minecraft.entity.item.minecart.FurnaceMinecartEntity, 48
+Minecraft, minecraft:ghast, net.minecraft.entity.monster.GhastEntity, 29
+Minecraft, minecraft:giant, net.minecraft.entity.monster.GiantEntity, 30
+Minecraft, minecraft:guardian, net.minecraft.entity.monster.GuardianEntity, 31
+Minecraft, minecraft:hoglin, net.minecraft.entity.monster.HoglinEntity, 32
+Minecraft, minecraft:hopper_minecart, net.minecraft.entity.item.minecart.HopperMinecartEntity, 49
+Minecraft, minecraft:horse, net.minecraft.entity.passive.horse.HorseEntity, 33
+Minecraft, minecraft:husk, net.minecraft.entity.monster.HuskEntity, 34
+Minecraft, minecraft:illusioner, net.minecraft.entity.monster.IllusionerEntity, 35
+Minecraft, minecraft:iron_golem, net.minecraft.entity.passive.IronGolemEntity, 36
+Minecraft, minecraft:item, net.minecraft.entity.item.ItemEntity, 37
+Minecraft, minecraft:item_frame, net.minecraft.entity.item.ItemFrameEntity, 38
+Minecraft, minecraft:leash_knot, net.minecraft.entity.item.LeashKnotEntity, 40
+Minecraft, minecraft:lightning_bolt, net.minecraft.entity.effect.LightningBoltEntity, 41
+Minecraft, minecraft:llama, net.minecraft.entity.passive.horse.LlamaEntity, 42
+Minecraft, minecraft:llama_spit, net.minecraft.entity.projectile.LlamaSpitEntity, 43
+Minecraft, minecraft:magma_cube, net.minecraft.entity.monster.MagmaCubeEntity, 44
+Minecraft, minecraft:minecart, net.minecraft.entity.item.minecart.MinecartEntity, 45
+Minecraft, minecraft:mooshroom, net.minecraft.entity.passive.MooshroomEntity, 53
+Minecraft, minecraft:mule, net.minecraft.entity.passive.horse.MuleEntity, 52
+Minecraft, minecraft:ocelot, net.minecraft.entity.passive.OcelotEntity, 54
+Minecraft, minecraft:painting, net.minecraft.entity.item.PaintingEntity, 55
+Minecraft, minecraft:panda, net.minecraft.entity.passive.PandaEntity, 56
+Minecraft, minecraft:parrot, net.minecraft.entity.passive.ParrotEntity, 57
+Minecraft, minecraft:phantom, net.minecraft.entity.monster.PhantomEntity, 58
+Minecraft, minecraft:pig, net.minecraft.entity.passive.PigEntity, 59
+Minecraft, minecraft:piglin, net.minecraft.entity.monster.piglin.PiglinEntity, 60
+Minecraft, minecraft:piglin_brute, net.minecraft.entity.monster.piglin.PiglinBruteEntity, 61
+Minecraft, minecraft:pillager, net.minecraft.entity.monster.PillagerEntity, 62
+Minecraft, minecraft:player, ?, 106
+Minecraft, minecraft:polar_bear, net.minecraft.entity.passive.PolarBearEntity, 63
+Minecraft, minecraft:potion, net.minecraft.entity.projectile.PotionEntity, 87
+Minecraft, minecraft:pufferfish, net.minecraft.entity.passive.fish.PufferfishEntity, 65
+Minecraft, minecraft:rabbit, net.minecraft.entity.passive.RabbitEntity, 66
+Minecraft, minecraft:ravager, net.minecraft.entity.monster.RavagerEntity, 67
+Minecraft, minecraft:salmon, net.minecraft.entity.passive.fish.SalmonEntity, 68
+Minecraft, minecraft:sheep, net.minecraft.entity.passive.SheepEntity, 69
+Minecraft, minecraft:shulker, net.minecraft.entity.monster.ShulkerEntity, 70
+Minecraft, minecraft:shulker_bullet, net.minecraft.entity.projectile.ShulkerBulletEntity, 71
+Minecraft, minecraft:silverfish, net.minecraft.entity.monster.SilverfishEntity, 72
+Minecraft, minecraft:skeleton, net.minecraft.entity.monster.SkeletonEntity, 73
+Minecraft, minecraft:skeleton_horse, net.minecraft.entity.passive.horse.SkeletonHorseEntity, 74
+Minecraft, minecraft:slime, net.minecraft.entity.monster.SlimeEntity, 75
+Minecraft, minecraft:small_fireball, net.minecraft.entity.projectile.SmallFireballEntity, 76
+Minecraft, minecraft:snow_golem, net.minecraft.entity.passive.SnowGolemEntity, 77
+Minecraft, minecraft:snowball, net.minecraft.entity.projectile.SnowballEntity, 78
+Minecraft, minecraft:spawner_minecart, net.minecraft.entity.item.minecart.SpawnerMinecartEntity, 50
+Minecraft, minecraft:spectral_arrow, net.minecraft.entity.projectile.SpectralArrowEntity, 79
+Minecraft, minecraft:spider, net.minecraft.entity.monster.SpiderEntity, 80
+Minecraft, minecraft:squid, net.minecraft.entity.passive.SquidEntity, 81
+Minecraft, minecraft:stray, net.minecraft.entity.monster.StrayEntity, 82
+Minecraft, minecraft:strider, net.minecraft.entity.passive.StriderEntity, 83
+Minecraft, minecraft:tnt, net.minecraft.entity.item.TNTEntity, 64
+Minecraft, minecraft:tnt_minecart, net.minecraft.entity.item.minecart.TNTMinecartEntity, 51
+Minecraft, minecraft:trader_llama, net.minecraft.entity.passive.horse.TraderLlamaEntity, 89
+Minecraft, minecraft:trident, net.minecraft.entity.projectile.TridentEntity, 88
+Minecraft, minecraft:tropical_fish, net.minecraft.entity.passive.fish.TropicalFishEntity, 90
+Minecraft, minecraft:turtle, net.minecraft.entity.passive.TurtleEntity, 91
+Minecraft, minecraft:vex, net.minecraft.entity.monster.VexEntity, 92
+Minecraft, minecraft:villager, net.minecraft.entity.merchant.villager.VillagerEntity, 93
+Minecraft, minecraft:vindicator, net.minecraft.entity.monster.VindicatorEntity, 94
+Minecraft, minecraft:wandering_trader, net.minecraft.entity.merchant.villager.WanderingTraderEntity, 95
+Minecraft, minecraft:witch, net.minecraft.entity.monster.WitchEntity, 96
+Minecraft, minecraft:wither, net.minecraft.entity.boss.WitherEntity, 97
+Minecraft, minecraft:wither_skeleton, net.minecraft.entity.monster.WitherSkeletonEntity, 98
+Minecraft, minecraft:wither_skull, net.minecraft.entity.projectile.WitherSkullEntity, 99
+Minecraft, minecraft:wolf, net.minecraft.entity.passive.WolfEntity, 100
+Minecraft, minecraft:zoglin, net.minecraft.entity.monster.ZoglinEntity, 101
+Minecraft, minecraft:zombie, net.minecraft.entity.monster.ZombieEntity, 102
+Minecraft, minecraft:zombie_horse, net.minecraft.entity.passive.horse.ZombieHorseEntity, 103
+Minecraft, minecraft:zombie_villager, net.minecraft.entity.monster.ZombieVillagerEntity, 104
+Minecraft, minecraft:zombified_piglin, net.minecraft.entity.monster.ZombifiedPiglinEntity, 105
+Mowzie's Mobs, mowziesmobs:axe_attack, com.bobmowzie.mowziesmobs.server.entity.effects.EntityAxeAttack, 425
+Mowzie's Mobs, mowziesmobs:baby_foliaath, com.bobmowzie.mowziesmobs.server.entity.foliaath.EntityBabyFoliaath, 406
+Mowzie's Mobs, mowziesmobs:barako, com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarako, 414
+Mowzie's Mobs, mowziesmobs:barakoa_sunblocker, com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoaya, 413
+Mowzie's Mobs, mowziesmobs:barakoa_sunblocker_player, com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoayaToPlayer, 410
+Mowzie's Mobs, mowziesmobs:barakoan_barakoana, com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoanToBarakoana, 408
+Mowzie's Mobs, mowziesmobs:barakoan_player, com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoanToPlayer, 409
+Mowzie's Mobs, mowziesmobs:barakoana, com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoana, 412
+Mowzie's Mobs, mowziesmobs:barakoaya, com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoaVillager, 411
+Mowzie's Mobs, mowziesmobs:block_swapper, com.bobmowzie.mowziesmobs.server.entity.effects.EntityBlockSwapper, 433
+Mowzie's Mobs, mowziesmobs:boulder_huge, com.bobmowzie.mowziesmobs.server.entity.effects.EntityBoulder, 424
+Mowzie's Mobs, mowziesmobs:boulder_large, com.bobmowzie.mowziesmobs.server.entity.effects.EntityBoulder, 423
+Mowzie's Mobs, mowziesmobs:boulder_medium, com.bobmowzie.mowziesmobs.server.entity.effects.EntityBoulder, 422
+Mowzie's Mobs, mowziesmobs:boulder_small, com.bobmowzie.mowziesmobs.server.entity.effects.EntityBoulder, 421
+Mowzie's Mobs, mowziesmobs:camera_shake, com.bobmowzie.mowziesmobs.server.entity.effects.EntityCameraShake, 434
+Mowzie's Mobs, mowziesmobs:dart, com.bobmowzie.mowziesmobs.server.entity.EntityDart, 429
+Mowzie's Mobs, mowziesmobs:falling_block, com.bobmowzie.mowziesmobs.server.entity.effects.EntityFallingBlock, 432
+Mowzie's Mobs, mowziesmobs:ferrous_wroughtnaut, com.bobmowzie.mowziesmobs.server.entity.wroughtnaut.EntityWroughtnaut, 407
+Mowzie's Mobs, mowziesmobs:foliaath, com.bobmowzie.mowziesmobs.server.entity.foliaath.EntityFoliaath, 405
+Mowzie's Mobs, mowziesmobs:frostmaw, com.bobmowzie.mowziesmobs.server.entity.frostmaw.EntityFrostmaw, 415
+Mowzie's Mobs, mowziesmobs:frozen_controller, com.bobmowzie.mowziesmobs.server.entity.frostmaw.EntityFrozenController, 428
+Mowzie's Mobs, mowziesmobs:grottol, com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol, 416
+Mowzie's Mobs, mowziesmobs:ice_ball, com.bobmowzie.mowziesmobs.server.entity.effects.EntityIceBall, 427
+Mowzie's Mobs, mowziesmobs:ice_breath, com.bobmowzie.mowziesmobs.server.entity.effects.EntityIceBreath, 426
+Mowzie's Mobs, mowziesmobs:lantern, com.bobmowzie.mowziesmobs.server.entity.lantern.EntityLantern, 417
+Mowzie's Mobs, mowziesmobs:naga, com.bobmowzie.mowziesmobs.server.entity.naga.EntityNaga, 418
+Mowzie's Mobs, mowziesmobs:poison_ball, com.bobmowzie.mowziesmobs.server.entity.effects.EntityPoisonBall, 430
+Mowzie's Mobs, mowziesmobs:solar_beam, com.bobmowzie.mowziesmobs.server.entity.effects.EntitySolarBeam, 420
+Mowzie's Mobs, mowziesmobs:sunstrike, com.bobmowzie.mowziesmobs.server.entity.effects.EntitySunstrike, 419
+Mowzie's Mobs, mowziesmobs:super_nova, com.bobmowzie.mowziesmobs.server.entity.effects.EntitySuperNova, 431
+MrCrayfish's Furniture Mod, cfm:seat, com.mrcrayfish.furniture.entity.SeatEntity, 403
+Mutant Beasts, mutantbeasts:body_part, chumbanotz.mutantbeasts.entity.BodyPartEntity, 834
+Mutant Beasts, mutantbeasts:chemical_x, chumbanotz.mutantbeasts.entity.projectile.ChemicalXEntity, 835
+Mutant Beasts, mutantbeasts:creeper_minion, chumbanotz.mutantbeasts.entity.CreeperMinionEntity, 832
+Mutant Beasts, mutantbeasts:creeper_minion_egg, chumbanotz.mutantbeasts.entity.CreeperMinionEggEntity, 836
+Mutant Beasts, mutantbeasts:endersoul_clone, chumbanotz.mutantbeasts.entity.EndersoulCloneEntity, 837
+Mutant Beasts, mutantbeasts:endersoul_fragment, chumbanotz.mutantbeasts.entity.EndersoulFragmentEntity, 838
+Mutant Beasts, mutantbeasts:mutant_arrow, chumbanotz.mutantbeasts.entity.projectile.MutantArrowEntity, 839
+Mutant Beasts, mutantbeasts:mutant_creeper, chumbanotz.mutantbeasts.entity.mutant.MutantCreeperEntity, 830
+Mutant Beasts, mutantbeasts:mutant_enderman, chumbanotz.mutantbeasts.entity.mutant.MutantEndermanEntity, 827
+Mutant Beasts, mutantbeasts:mutant_skeleton, chumbanotz.mutantbeasts.entity.mutant.MutantSkeletonEntity, 833
+Mutant Beasts, mutantbeasts:mutant_snow_golem, chumbanotz.mutantbeasts.entity.mutant.MutantSnowGolemEntity, 829
+Mutant Beasts, mutantbeasts:mutant_zombie, chumbanotz.mutantbeasts.entity.mutant.MutantZombieEntity, 831
+Mutant Beasts, mutantbeasts:skull_spirit, chumbanotz.mutantbeasts.entity.SkullSpiritEntity, 840
+Mutant Beasts, mutantbeasts:spider_pig, chumbanotz.mutantbeasts.entity.mutant.SpiderPigEntity, 828
+Mutant Beasts, mutantbeasts:throwable_block, chumbanotz.mutantbeasts.entity.projectile.ThrowableBlockEntity, 841
+Mutant More, mutantmore:blaze_rod, com.alexander.mutantmore.entities.BlazeRodEntity, 398
+Mutant More, mutantmore:mutant_blaze, com.alexander.mutantmore.entities.MutantBlazeEntity, 393
+Mutant More, mutantmore:mutant_hoglin, com.alexander.mutantmore.entities.MutantHoglinEntity, 395
+Mutant More, mutantmore:mutant_husk, com.alexander.mutantmore.entities.MutantHuskEntity, 391
+Mutant More, mutantmore:mutant_shulker, com.alexander.mutantmore.entities.MutantShulkerEntity, 396
+Mutant More, mutantmore:mutant_shulker_box, com.alexander.mutantmore.entities.MutantShulkerBoxEntity, 397
+Mutant More, mutantmore:mutant_wither_skeleton, com.alexander.mutantmore.entities.MutantWitherSkeletonEntity, 392
+Mutant More, mutantmore:rodling, com.alexander.mutantmore.entities.RodlingEntity, 394
+Mutant More, mutantmore:rodling_fireball, com.alexander.mutantmore.entities.RodlingFireballEntity, 400
+Mutant More, mutantmore:seismic_wave, com.alexander.mutantmore.entities.SeismicWaveEntity, 401
+Mutant More, mutantmore:thrown_block, com.alexander.mutantmore.entities.ThrownBlockEntity, 402
+Mutant More, mutantmore:wither_body_part, com.alexander.mutantmore.entities.WitherBodyPartEntity, 399
+Oh The Biomes You'll Go, byg:boat, corgiaoc.byg.common.entity.boat.BYGBoatEntity, 591
+Pandoras Creatures, pandoras_creatures:acidic_archvine, andrews.pandoras_creatures.entities.AcidicArchvineEntity, 517
+Pandoras Creatures, pandoras_creatures:arachnon, andrews.pandoras_creatures.entities.ArachnonEntity, 513
+Pandoras Creatures, pandoras_creatures:bufflon, andrews.pandoras_creatures.entities.BufflonEntity, 518
+Pandoras Creatures, pandoras_creatures:crab, andrews.pandoras_creatures.entities.CrabEntity, 515
+Pandoras Creatures, pandoras_creatures:end_troll, andrews.pandoras_creatures.entities.EndTrollEntity, 519
+Pandoras Creatures, pandoras_creatures:end_troll_bullet_damage, andrews.pandoras_creatures.entities.EndTrollBulletDamageEntity, 522
+Pandoras Creatures, pandoras_creatures:end_troll_bullet_poison, andrews.pandoras_creatures.entities.EndTrollBulletPoisonEntity, 520
+Pandoras Creatures, pandoras_creatures:end_troll_bullet_wither, andrews.pandoras_creatures.entities.EndTrollBulletWitherEntity, 521
+Pandoras Creatures, pandoras_creatures:hellhound, andrews.pandoras_creatures.entities.HellhoundEntity, 514
+Pandoras Creatures, pandoras_creatures:seahorse, andrews.pandoras_creatures.entities.SeahorseEntity, 516
+Project: War Dance, wardance:fear, jackiecrazy.wardance.entity.FearEntity, 576
+Project: War Dance, wardance:thrown_weapon, jackiecrazy.wardance.entity.ThrownWeaponEntity, 575
+Quark, quark:chest_passenger, vazkii.quark.content.management.entity.ChestPassengerEntity, 1164
+Quark, quark:colored_frame, vazkii.quark.content.building.entity.ColoredItemFrameEntity, 1161
+Quark, quark:crab, vazkii.quark.content.mobs.entity.CrabEntity, 1158
+Quark, quark:forgotten, vazkii.quark.content.mobs.entity.ForgottenEntity, 1173
+Quark, quark:foxhound, vazkii.quark.content.mobs.entity.FoxhoundEntity, 1169
+Quark, quark:frog, vazkii.quark.content.mobs.entity.FrogEntity, 1168
+Quark, quark:glass_frame, vazkii.quark.content.building.entity.GlassItemFrameEntity, 1160
+Quark, quark:gravisand, vazkii.quark.content.automation.entity.GravisandEntity, 1166
+Quark, quark:leash_knot_fake, vazkii.quark.content.building.entity.LeashKnot2Entity, 1172
+Quark, quark:pickarang, vazkii.quark.content.tools.entity.PickarangEntity, 1162
+Quark, quark:shiba, vazkii.quark.content.experimental.shiba.entity.ShibaEntity, 1171
+Quark, quark:skull_pike, vazkii.quark.content.tools.entity.SkullPikeEntity, 1159
+Quark, quark:soul_bead, vazkii.quark.content.mobs.entity.SoulBeadEntity, 1175
+Quark, quark:stoneling, vazkii.quark.content.mobs.entity.StonelingEntity, 1167
+Quark, quark:stool, vazkii.quark.content.building.entity.StoolEntity, 1157
+Quark, quark:toretoise, vazkii.quark.content.mobs.entity.ToretoiseEntity, 1170
+Quark, quark:totem, vazkii.quark.addons.oddities.entity.TotemOfHoldingEntity, 1163
+Quark, quark:wraith, vazkii.quark.content.mobs.entity.WraithEntity, 1174
+Quark, quark:wrapped, vazkii.quark.content.world.entity.WrappedEntity, 1165
+Realistic Horse Genetics, horse_colors:horse_felinoid, sekelsta.horse_colors.entity.HorseGeneticEntity, 854
+Small Ships Mod, smallships:brigg, com.talhanation.smallships.entities.BriggEntity, 872
+Small Ships Mod, smallships:cog, com.talhanation.smallships.entities.CogEntity, 867
+Small Ships Mod, smallships:dhow, com.talhanation.smallships.entities.DhowEntity, 873
+Small Ships Mod, smallships:drakkar, com.talhanation.smallships.entities.DrakkarEntity, 870
+Small Ships Mod, smallships:galley, com.talhanation.smallships.entities.GalleyEntity, 868
+Small Ships Mod, smallships:rowboat, com.talhanation.smallships.entities.RowBoatEntity, 871
+Small Ships Mod, smallships:war_galley, com.talhanation.smallships.entities.WarGalleyEntity, 869
+Sophisticated Backpacks, sophisticatedbackpacks:everlasting_backpack_item, net.p3pp3rf1y.sophisticatedbackpacks.upgrades.everlasting.EverlastingBackpackItemEntity, 842
+Spartan Weaponry, spartanweaponry:arrow, com.oblivioussp.spartanweaponry.entity.projectile.ArrowBaseEntity, 858
+Spartan Weaponry, spartanweaponry:arrow_explosive, com.oblivioussp.spartanweaponry.entity.projectile.ArrowExplosiveEntity, 859
+Spartan Weaponry, spartanweaponry:bolt, com.oblivioussp.spartanweaponry.entity.projectile.BoltEntity, 860
+Spartan Weaponry, spartanweaponry:bolt_spectral, com.oblivioussp.spartanweaponry.entity.projectile.BoltSpectralEntity, 861
+Spartan Weaponry, spartanweaponry:boomerang, com.oblivioussp.spartanweaponry.entity.projectile.BoomerangEntity, 865
+Spartan Weaponry, spartanweaponry:dynamite, com.oblivioussp.spartanweaponry.entity.projectile.DynamiteEntity, 866
+Spartan Weaponry, spartanweaponry:javelin, com.oblivioussp.spartanweaponry.entity.projectile.JavelinEntity, 864
+Spartan Weaponry, spartanweaponry:throwing_weapon, com.oblivioussp.spartanweaponry.entity.projectile.ThrowingWeaponEntity, 862
+Spartan Weaponry, spartanweaponry:tomahawk, com.oblivioussp.spartanweaponry.entity.projectile.TomahawkEntity, 863
+Supplementaries, supplementaries:amethyst_arrow, net.mehvahdjukaar.supplementaries.entities.AmethystArrowEntity, 133
+Supplementaries, supplementaries:amethyst_shard, net.mehvahdjukaar.supplementaries.entities.ShardProjectileEntity, 134
+Supplementaries, supplementaries:bomb, net.mehvahdjukaar.supplementaries.entities.BombEntity, 131
+Supplementaries, supplementaries:brick_projectile, net.mehvahdjukaar.supplementaries.entities.ThrowableBrickEntity, 130
+Supplementaries, supplementaries:firefly, net.mehvahdjukaar.supplementaries.entities.FireflyEntity, 129
+Supplementaries, supplementaries:flint_shard, net.mehvahdjukaar.supplementaries.entities.ShardProjectileEntity, 135
+Supplementaries, supplementaries:label, net.mehvahdjukaar.supplementaries.entities.LabelEntity, 128
+Supplementaries, supplementaries:red_merchant, net.mehvahdjukaar.supplementaries.entities.RedMerchantEntity, 127
+Supplementaries, supplementaries:rope_arrow, net.mehvahdjukaar.supplementaries.entities.RopeArrowEntity, 132
+Supplementaries, supplementaries:slingshot_projectile, net.mehvahdjukaar.supplementaries.entities.SlingshotProjectileEntity, 136
+Taterzens, taterzens:npc, org.samo_lego.taterzens.npc.TaterzenNPC, 150
+Tetra, tetra:extractor_projectile, se.mickelus.tetra.blocks.forged.chthonic.ExtractorProjectileEntity, 634
+Tetra, tetra:thrown_modular_item, se.mickelus.tetra.items.modular.ThrownModularItemEntity, 633
+The Endergetic Expansion, endergetic:bolloom_balloon, com.minecraftabnormals.endergetic.common.entities.bolloom.BolloomBalloonEntity, 1009
+The Endergetic Expansion, endergetic:bolloom_fruit, com.minecraftabnormals.endergetic.common.entities.bolloom.BolloomFruitEntity, 1006
+The Endergetic Expansion, endergetic:bolloom_knot, com.minecraftabnormals.endergetic.common.entities.bolloom.BolloomKnotEntity, 1010
+The Endergetic Expansion, endergetic:boof_block, com.minecraftabnormals.endergetic.common.entities.BoofBlockEntity, 1007
+The Endergetic Expansion, endergetic:booflo, com.minecraftabnormals.endergetic.common.entities.booflo.BoofloEntity, 1013
+The Endergetic Expansion, endergetic:booflo_adolescent, com.minecraftabnormals.endergetic.common.entities.booflo.BoofloAdolescentEntity, 1012
+The Endergetic Expansion, endergetic:booflo_baby, com.minecraftabnormals.endergetic.common.entities.booflo.BoofloBabyEntity, 1011
+The Endergetic Expansion, endergetic:poise_cluster, com.minecraftabnormals.endergetic.common.entities.PoiseClusterEntity, 1005
+The Endergetic Expansion, endergetic:puff_bug, com.minecraftabnormals.endergetic.common.entities.puffbug.PuffBugEntity, 1008
+The Outer End, outer_end:chorus_squid, blueduck.outerend.entities.ChorusSquidEntity, 1027
+The Outer End, outer_end:entombed, blueduck.outerend.entities.EntombedEntity, 1026
+The Outer End, outer_end:himmelite, blueduck.outerend.entities.HimmeliteEntity, 1024
+The Outer End, outer_end:purpur_golem, blueduck.outerend.entities.PurpurGolemEntity, 1023
+The Outer End, outer_end:spectrafly, blueduck.outerend.entities.DragonflyEntity, 1022
+The Outer End, outer_end:stalker, blueduck.outerend.entities.StalkerEntity, 1025
+TheAbyss, theabyss:abylager, net.yezon.theabyss.entity.AbylagerEntity$CustomEntity, 377
+TheAbyss, theabyss:abyssal_lion, net.yezon.theabyss.entity.AbyssalLionEntity$CustomEntity, 365
+TheAbyss, theabyss:abyssal_moth, net.yezon.theabyss.entity.AbyssalMothEntity$CustomEntity, 390
+TheAbyss, theabyss:abyssaur, net.yezon.theabyss.entity.AbyssaurEntity$CustomEntity, 387
+TheAbyss, theabyss:brain_walker, net.yezon.theabyss.entity.BrainWalkerEntity$CustomEntity, 370
+TheAbyss, theabyss:crystal_golem, net.yezon.theabyss.entity.CrystalGolemEntity$CustomEntity, 347
+TheAbyss, theabyss:cyanide_boss, net.yezon.theabyss.entity.CyanideBossEntity$CustomEntity, 340
+TheAbyss, theabyss:deer, net.yezon.theabyss.entity.DeerEntity$CustomEntity, 341
+TheAbyss, theabyss:dimensional_crack, net.yezon.theabyss.entity.DimensionalCrackEntity$CustomEntity, 374
+TheAbyss, theabyss:elder, net.yezon.theabyss.entity.ElderEntity$CustomEntity, 359
+TheAbyss, theabyss:end_spider, net.yezon.theabyss.entity.EndSpiderEntity$CustomEntity, 356
+TheAbyss, theabyss:entitybulleteyelie_attack, net.yezon.theabyss.item.EyelieAttackItem$ArrowCustomEntity, 380
+TheAbyss, theabyss:entitybulletmutated_enderpearl, net.yezon.theabyss.item.MutatedEnderpearlItem$ArrowCustomEntity, 334
+TheAbyss, theabyss:entitybulletnight_hunter_abl_2, net.yezon.theabyss.item.NightHunterAbl2Item$ArrowCustomEntity, 379
+TheAbyss, theabyss:entitybulletphantom_attack, net.yezon.theabyss.item.PhantomAttackItem$ArrowCustomEntity, 381
+TheAbyss, theabyss:entitybulletring_of_black_strike_attack, net.yezon.theabyss.item.RingOfBlackStrikeAttackItem$ArrowCustomEntity, 386
+TheAbyss, theabyss:entitybulletring_of_fire_strike_attack, net.yezon.theabyss.item.RingOfFireStrikeAttackItem$ArrowCustomEntity, 385
+TheAbyss, theabyss:entitybulletshuriken, net.yezon.theabyss.item.ShurikenItem$ArrowCustomEntity, 332
+TheAbyss, theabyss:entitybulletshuriken_explosive, net.yezon.theabyss.item.ShurikenExplosiveItem$ArrowCustomEntity, 333
+TheAbyss, theabyss:entitybulletspectral_spawn, net.yezon.theabyss.item.SpectralSpawnItem$ArrowCustomEntity, 383
+TheAbyss, theabyss:fire_fly, net.yezon.theabyss.entity.FireFlyEntity$CustomEntity, 338
+TheAbyss, theabyss:frost_spider, net.yezon.theabyss.entity.FrostSpiderEntity$CustomEntity, 373
+TheAbyss, theabyss:glow_pug, net.yezon.theabyss.entity.GlowPugEntity$CustomEntity, 375
+TheAbyss, theabyss:guard, net.yezon.theabyss.entity.GuardEntity$CustomEntity, 352
+TheAbyss, theabyss:haunted_skeleton, net.yezon.theabyss.entity.HauntedSkeletonEntity$CustomEntity, 388
+TheAbyss, theabyss:hylia_fox, net.yezon.theabyss.entity.HyliaFoxEntity$CustomEntity, 346
+TheAbyss, theabyss:ice_knight, net.yezon.theabyss.entity.IceKnightEntity$CustomEntity, 339
+TheAbyss, theabyss:ice_skeleton, net.yezon.theabyss.entity.IceSkeletonEntity$CustomEntity, 384
+TheAbyss, theabyss:infceted_cow, net.yezon.theabyss.entity.InfcetedCowEntity$CustomEntity, 376
+TheAbyss, theabyss:infected_creeper, net.yezon.theabyss.entity.InfectedCreeperEntity$CustomEntity, 351
+TheAbyss, theabyss:infected_phantom, net.yezon.theabyss.entity.InfectedPhantomEntity$CustomEntity, 368
+TheAbyss, theabyss:infected_spider, net.yezon.theabyss.entity.InfectedSpiderEntity$CustomEntity, 350
+TheAbyss, theabyss:infected_wolf, net.yezon.theabyss.entity.InfectedWolfEntity$CustomEntity, 367
+TheAbyss, theabyss:infected_zombie, net.yezon.theabyss.entity.InfectedZombieEntity$CustomEntity, 354
+TheAbyss, theabyss:jungle_lurker, net.yezon.theabyss.entity.JungleLurkerEntity$CustomEntity, 360
+TheAbyss, theabyss:laro_fish, net.yezon.theabyss.entity.LaroFishEntity$CustomEntity, 343
+TheAbyss, theabyss:laro_fish_fly, net.yezon.theabyss.entity.LaroFishFlyEntity$CustomEntity, 342
+TheAbyss, theabyss:lizard, net.yezon.theabyss.entity.LizardEntity$CustomEntity, 358
+TheAbyss, theabyss:lokus, net.yezon.theabyss.entity.LokusEntity$CustomEntity, 372
+TheAbyss, theabyss:luro_fish, net.yezon.theabyss.entity.LuroFishEntity$CustomEntity, 344
+TheAbyss, theabyss:magical_deer, net.yezon.theabyss.entity.MagicalDeerEntity$CustomEntity, 366
+TheAbyss, theabyss:magician, net.yezon.theabyss.entity.MagicianEntity$CustomEntity, 348
+TheAbyss, theabyss:mud_zombie, net.yezon.theabyss.entity.MudZombieEntity$CustomEntity, 353
+TheAbyss, theabyss:night_blade_boss_clone, net.yezon.theabyss.entity.NightBladeBossCloneEntity$CustomEntity, 337
+TheAbyss, theabyss:night_hunter, net.yezon.theabyss.entity.NightHunterEntity$CustomEntity, 357
+TheAbyss, theabyss:nightblade_boss, net.yezon.theabyss.entity.NightbladeBossEntity$CustomEntity, 336
+TheAbyss, theabyss:player_body, net.yezon.theabyss.entity.PlayerBodyEntity$CustomEntity, 363
+TheAbyss, theabyss:powered_wolf, net.yezon.theabyss.entity.PoweredWolfEntity$CustomEntity, 369
+TheAbyss, theabyss:ralu_fish, net.yezon.theabyss.entity.RaluFishEntity$CustomEntity, 345
+TheAbyss, theabyss:raptor, net.yezon.theabyss.entity.RaptorEntity$CustomEntity, 355
+TheAbyss, theabyss:scorpion, net.yezon.theabyss.entity.ScorpionEntity$CustomEntity, 362
+TheAbyss, theabyss:seeker, net.yezon.theabyss.entity.SeekerEntity$CustomEntity, 378
+TheAbyss, theabyss:shattered_zombie, net.yezon.theabyss.entity.ShatteredZombieEntity$CustomEntity, 364
+TheAbyss, theabyss:slime_spider, net.yezon.theabyss.entity.SlimeSpiderEntity$CustomEntity, 361
+TheAbyss, theabyss:soul_guard, net.yezon.theabyss.entity.SoulGuardEntity$CustomEntity, 349
+TheAbyss, theabyss:spectral_entity, net.yezon.theabyss.entity.SpectralEntityEntity$CustomEntity, 382
+TheAbyss, theabyss:summoned_seeker, net.yezon.theabyss.entity.SummonedSeekerEntity$CustomEntity, 389
+TheAbyss, theabyss:the_roka, net.yezon.theabyss.entity.TheRokaEntity$CustomEntity, 335
+TheAbyss, theabyss:versa_whale, net.yezon.theabyss.entity.VersaWhaleEntity$CustomEntity, 371
+Tropicraft, tropicraft:ashen, net.tropicraft.core.common.entity.hostile.AshenEntity, 668
+Tropicraft, tropicraft:ashen_mask, net.tropicraft.core.common.entity.placeable.AshenMaskEntity, 667
+Tropicraft, tropicraft:bamboo_item_frame, net.tropicraft.core.common.entity.BambooItemFrame, 648
+Tropicraft, tropicraft:beach_float, net.tropicraft.core.common.entity.placeable.BeachFloatEntity, 644
+Tropicraft, tropicraft:brown_basilisk_lizard, net.tropicraft.core.common.entity.passive.basilisk.BasiliskLizardEntity, 677
+Tropicraft, tropicraft:chair, net.tropicraft.core.common.entity.placeable.ChairEntity, 643
+Tropicraft, tropicraft:cowktail, net.tropicraft.core.common.entity.passive.CowktailEntity, 673
+Tropicraft, tropicraft:cubera, net.tropicraft.core.common.entity.underdasea.CuberaEntity, 683
+Tropicraft, tropicraft:dolphin, net.tropicraft.core.common.entity.underdasea.TropicraftDolphinEntity, 652
+Tropicraft, tropicraft:eagle_ray, net.tropicraft.core.common.entity.underdasea.EagleRayEntity, 664
+Tropicraft, tropicraft:eih, net.tropicraft.core.common.entity.neutral.EIHEntity, 646
+Tropicraft, tropicraft:exploding_coconut, net.tropicraft.core.common.entity.projectile.ExplodingCoconutEntity, 669
+Tropicraft, tropicraft:failgull, net.tropicraft.core.common.entity.passive.FailgullEntity, 651
+Tropicraft, tropicraft:fiddler_crab, net.tropicraft.core.common.entity.passive.FiddlerCrabEntity, 680
+Tropicraft, tropicraft:green_basilisk_lizard, net.tropicraft.core.common.entity.passive.basilisk.BasiliskLizardEntity, 678
+Tropicraft, tropicraft:hammerhead, net.tropicraft.core.common.entity.underdasea.SharkEntity, 670
+Tropicraft, tropicraft:hummingbird, net.tropicraft.core.common.entity.passive.HummingbirdEntity, 679
+Tropicraft, tropicraft:iguana, net.tropicraft.core.common.entity.neutral.IguanaEntity, 641
+Tropicraft, tropicraft:jaguar, net.tropicraft.core.common.entity.neutral.JaguarEntity, 676
+Tropicraft, tropicraft:koa, net.tropicraft.core.common.entity.passive.EntityKoaHunter, 639
+Tropicraft, tropicraft:man_o_war, net.tropicraft.core.common.entity.underdasea.ManOWarEntity, 674
+Tropicraft, tropicraft:marlin, net.tropicraft.core.common.entity.underdasea.MarlinEntity, 650
+Tropicraft, tropicraft:piranha, net.tropicraft.core.common.entity.underdasea.PiranhaEntity, 662
+Tropicraft, tropicraft:poison_blot, net.tropicraft.core.common.entity.projectile.PoisonBlotEntity, 654
+Tropicraft, tropicraft:sardine, net.tropicraft.core.common.entity.underdasea.SardineEntity, 661
+Tropicraft, tropicraft:sea_urchin, net.tropicraft.core.common.entity.underdasea.SeaUrchinEntity, 656
+Tropicraft, tropicraft:sea_urchin_egg, net.tropicraft.core.common.entity.egg.SeaUrchinEggEntity, 657
+Tropicraft, tropicraft:seahorse, net.tropicraft.core.common.entity.underdasea.SeahorseEntity, 653
+Tropicraft, tropicraft:spider_monkey, net.tropicraft.core.common.entity.passive.monkey.SpiderMonkeyEntity, 681
+Tropicraft, tropicraft:starfish, net.tropicraft.core.common.entity.underdasea.StarfishEntity, 658
+Tropicraft, tropicraft:starfish_egg, net.tropicraft.core.common.entity.egg.StarfishEggEntity, 659
+Tropicraft, tropicraft:tapir, net.tropicraft.core.common.entity.passive.TapirEntity, 675
+Tropicraft, tropicraft:tree_frog, net.tropicraft.core.common.entity.neutral.TreeFrogEntity, 655
+Tropicraft, tropicraft:tropi_spider, net.tropicraft.core.common.entity.hostile.TropiSpiderEntity, 665
+Tropicraft, tropicraft:tropi_spider_egg, net.tropicraft.core.common.entity.egg.TropiSpiderEggEntity, 666
+Tropicraft, tropicraft:tropibee, net.tropicraft.core.common.entity.TropiBeeEntity, 672
+Tropicraft, tropicraft:tropical_fish, net.tropicraft.core.common.entity.underdasea.TropicraftTropicalFishEntity, 663
+Tropicraft, tropicraft:tropicreeper, net.tropicraft.core.common.entity.passive.TropiCreeperEntity, 640
+Tropicraft, tropicraft:tropiskelly, net.tropicraft.core.common.entity.hostile.TropiSkellyEntity, 645
+Tropicraft, tropicraft:turtle, net.tropicraft.core.common.entity.SeaTurtleEntity, 649
+Tropicraft, tropicraft:turtle_egg, net.tropicraft.core.common.entity.egg.SeaTurtleEggEntity, 671
+Tropicraft, tropicraft:umbrella, net.tropicraft.core.common.entity.placeable.UmbrellaEntity, 642
+Tropicraft, tropicraft:v_monkey, net.tropicraft.core.common.entity.neutral.VMonkeyEntity, 660
+Tropicraft, tropicraft:wall_item, net.tropicraft.core.common.entity.placeable.WallItemEntity, 647
+Tropicraft, tropicraft:white_lipped_peccary, net.tropicraft.core.common.entity.passive.WhiteLippedPeccaryEntity, 682
+Untamed Wilds, untamedwilds:aardvark, untamedwilds.entity.mammal.EntityAardvark, 448
+Untamed Wilds, untamedwilds:arowana, untamedwilds.entity.fish.EntityArowana, 471
+Untamed Wilds, untamedwilds:bear_black, untamedwilds.entity.mammal.bear.EntityBlackBear, 452
+Untamed Wilds, untamedwilds:bear_blind, untamedwilds.entity.mammal.bear.EntityBlindBear, 453
+Untamed Wilds, untamedwilds:bear_brown, untamedwilds.entity.mammal.bear.EntityBrownBear, 454
+Untamed Wilds, untamedwilds:bear_cave, untamedwilds.entity.mammal.bear.EntityCaveBear, 455
+Untamed Wilds, untamedwilds:bear_panda, untamedwilds.entity.mammal.bear.EntityGiantPanda, 456
+Untamed Wilds, untamedwilds:bear_polar, untamedwilds.entity.mammal.bear.EntityPolarBear, 457
+Untamed Wilds, untamedwilds:bear_spectacled, untamedwilds.entity.mammal.bear.EntitySpectacledBear, 458
+Untamed Wilds, untamedwilds:bear_sun, untamedwilds.entity.mammal.bear.EntitySunBear, 459
+Untamed Wilds, untamedwilds:bigcat_cave_lion, untamedwilds.entity.mammal.bigcat.EntityCaveLion, 466
+Untamed Wilds, untamedwilds:bigcat_jaguar, untamedwilds.entity.mammal.bigcat.EntityJaguar, 460
+Untamed Wilds, untamedwilds:bigcat_leopard, untamedwilds.entity.mammal.bigcat.EntityLeopard, 461
+Untamed Wilds, untamedwilds:bigcat_lion, untamedwilds.entity.mammal.bigcat.EntityLion, 462
+Untamed Wilds, untamedwilds:bigcat_marsupial_lion, untamedwilds.entity.mammal.bigcat.EntityMarsupialLion, 467
+Untamed Wilds, untamedwilds:bigcat_puma, untamedwilds.entity.mammal.bigcat.EntityPuma, 463
+Untamed Wilds, untamedwilds:bigcat_sabertooth, untamedwilds.entity.mammal.bigcat.EntitySabertooth, 468
+Untamed Wilds, untamedwilds:bigcat_snow_leopard, untamedwilds.entity.mammal.bigcat.EntitySnowLeopard, 464
+Untamed Wilds, untamedwilds:bigcat_tiger, untamedwilds.entity.mammal.bigcat.EntityTiger, 465
+Untamed Wilds, untamedwilds:boar, untamedwilds.entity.mammal.EntityBoar, 451
+Untamed Wilds, untamedwilds:football_fish, untamedwilds.entity.fish.EntityFootballFish, 473
+Untamed Wilds, untamedwilds:giant_clam, untamedwilds.entity.mollusk.EntityGiantClam, 446
+Untamed Wilds, untamedwilds:giant_salamander, untamedwilds.entity.amphibian.EntityGiantSalamander, 474
+Untamed Wilds, untamedwilds:hippo, untamedwilds.entity.mammal.EntityHippo, 447
+Untamed Wilds, untamedwilds:hyena, untamedwilds.entity.mammal.EntityHyena, 450
+Untamed Wilds, untamedwilds:large_snake, untamedwilds.entity.reptile.EntityAnaconda, 445
+Untamed Wilds, untamedwilds:newt, untamedwilds.entity.amphibian.EntityNewt, 475
+Untamed Wilds, untamedwilds:rhino, untamedwilds.entity.mammal.EntityRhino, 449
+Untamed Wilds, untamedwilds:shark, untamedwilds.entity.fish.EntityShark, 472
+Untamed Wilds, untamedwilds:snake, untamedwilds.entity.reptile.EntitySnake, 442
+Untamed Wilds, untamedwilds:softshell_turtle, untamedwilds.entity.reptile.EntitySoftshellTurtle, 443
+Untamed Wilds, untamedwilds:sunfish, untamedwilds.entity.fish.EntitySunfish, 469
+Untamed Wilds, untamedwilds:tarantula, untamedwilds.entity.arthropod.EntityTarantula, 441
+Untamed Wilds, untamedwilds:tortoise, untamedwilds.entity.reptile.EntityTortoise, 444
+Untamed Wilds, untamedwilds:trevally, untamedwilds.entity.fish.EntityTrevally, 470
+Wild Update Unofficial, wild_update_unofficial:boat_with_chest, net.mcreator.wildupdateunofficial.entity.BoatWithChestEntity$CustomEntity, 144
+Wild Update Unofficial, wild_update_unofficial:frog, net.mcreator.wildupdateunofficial.entity.FrogEntity$CustomEntity, 143
+Wild Update Unofficial, wild_update_unofficial:green_frog, net.mcreator.wildupdateunofficial.entity.GreenFrogEntity$CustomEntity, 147
+Wild Update Unofficial, wild_update_unofficial:tadpole, net.mcreator.wildupdateunofficial.entity.TadpoleEntity$CustomEntity, 146
+Wild Update Unofficial, wild_update_unofficial:tropical_frog, net.mcreator.wildupdateunofficial.entity.TropicalFrogEntity$CustomEntity, 148
+Wild Update Unofficial, wild_update_unofficial:warden, net.mcreator.wildupdateunofficial.entity.WardenEntity$CustomEntity, 145
+Wyrmroost, wyrmroost:alpine, com.github.wolfshotz.wyrmroost.entities.dragon.AlpineEntity, 694
+Wyrmroost, wyrmroost:butterfly_leviathan, com.github.wolfshotz.wyrmroost.entities.dragon.ButterflyLeviathanEntity, 689
+Wyrmroost, wyrmroost:canari_wyvern, com.github.wolfshotz.wyrmroost.entities.dragon.CanariWyvernEntity, 691
+Wyrmroost, wyrmroost:coin_dragon, com.github.wolfshotz.wyrmroost.entities.dragon.CoinDragonEntity, 693
+Wyrmroost, wyrmroost:dragon_egg, com.github.wolfshotz.wyrmroost.entities.dragonegg.DragonEggEntity, 695
+Wyrmroost, wyrmroost:dragon_fruit_drake, com.github.wolfshotz.wyrmroost.entities.dragon.DragonFruitDrakeEntity, 690
+Wyrmroost, wyrmroost:fire_breath, com.github.wolfshotz.wyrmroost.entities.projectile.breath.FireBreathEntity, 697
+Wyrmroost, wyrmroost:geode_tipped_arrow, com.github.wolfshotz.wyrmroost.entities.projectile.GeodeTippedArrowEntity, 696
+Wyrmroost, wyrmroost:lesser_desertwyrm, com.github.wolfshotz.wyrmroost.entities.dragon.LDWyrmEntity, 685
+Wyrmroost, wyrmroost:overworld_drake, com.github.wolfshotz.wyrmroost.entities.dragon.OWDrakeEntity, 686
+Wyrmroost, wyrmroost:roost_stalker, com.github.wolfshotz.wyrmroost.entities.dragon.RoostStalkerEntity, 688
+Wyrmroost, wyrmroost:royal_red, com.github.wolfshotz.wyrmroost.entities.dragon.RoyalRedEntity, 692
+Wyrmroost, wyrmroost:silver_glider, com.github.wolfshotz.wyrmroost.entities.dragon.SilverGliderEntity, 687
+Wyrmroost, wyrmroost:wind_gust, com.github.wolfshotz.wyrmroost.entities.projectile.WindGustEntity, 698
+goblins, goblins:archer_goblin, net.mcreator.goblins.entity.ArcherGoblinEntity$CustomEntity, 585
+goblins, goblins:bomber_goblin, net.mcreator.goblins.entity.BomberGoblinEntity$CustomEntity, 579
+goblins, goblins:entitybulletgoblin_bomb, net.mcreator.goblins.item.GoblinBombItem$ArrowCustomEntity, 580
+goblins, goblins:entitybulletgoblin_bow, net.mcreator.goblins.item.GoblinBowItem$ArrowCustomEntity, 589
+goblins, goblins:goblin_hunter, net.mcreator.goblins.entity.GoblinHunterEntity$CustomEntity, 587
+goblins, goblins:goblin_wondering, net.mcreator.goblins.entity.GoblinWonderingEntity$CustomEntity, 586
+goblins, goblins:lumberjack_goblin, net.mcreator.goblins.entity.LumberjackGoblinEntity$CustomEntity, 584
+goblins, goblins:miner_goblin, net.mcreator.goblins.entity.MinerGoblinEntity$CustomEntity, 583
+goblins, goblins:villager_goblin, net.mcreator.goblins.entity.VillagerGoblinEntity$CustomEntity, 578
+goblins, goblins:villager_goblin_2, net.mcreator.goblins.entity.VillagerGoblin2Entity$CustomEntity, 581
+goblins, goblins:warrior_goblin, net.mcreator.goblins.entity.WarriorGoblinEntity$CustomEntity, 582
+goblins, goblins:wild_goblin, net.mcreator.goblins.entity.WildGoblinEntity$CustomEntity, 577
+goblins, goblins:zombie_goblin, net.mcreator.goblins.entity.ZombieGoblinEntity$CustomEntity, 588
+ogres, ogres:ogre_vil_1, net.mcreator.ogres.entity.OgreVil1Entity$CustomEntity, 874
+ogres, ogres:ogre_vil_2, net.mcreator.ogres.entity.OgreVil2Entity$CustomEntity, 875
+ogres, ogres:ogre_vil_ran, net.mcreator.ogres.entity.OgreVilRanEntity$CustomEntity, 876
+trolls, trolls:troll_vil_spawn_1, net.mcreator.trolls.entity.TrollVilSpawn1Entity$CustomEntity, 1156
+trolls, trolls:troll_villager_1, net.mcreator.trolls.entity.TrollVillager1Entity$CustomEntity, 1151
+trolls, trolls:troll_villager_2, net.mcreator.trolls.entity.TrollVillager2Entity$CustomEntity, 1152
+trolls, trolls:troll_villager_3, net.mcreator.trolls.entity.TrollVillager3Entity$CustomEntity, 1153
+trolls, trolls:troll_warrior_1, net.mcreator.trolls.entity.TrollWarrior1Entity$CustomEntity, 1154
+trolls, trolls:troll_warrior_2, net.mcreator.trolls.entity.TrollWarrior2Entity$CustomEntity, 1155
+varietycreatures, varietycreatures:babyblaze, net.mcreator.varietycreatures.entity.BabyblazeEntity$CustomEntity, 1136
+varietycreatures, varietycreatures:basalt_blaze, net.mcreator.varietycreatures.entity.BasaltBlazeEntity$CustomEntity, 1135
+varietycreatures, varietycreatures:basalt_piglin, net.mcreator.varietycreatures.entity.BasaltPiglinEntity$CustomEntity, 1102
+varietycreatures, varietycreatures:basalt_strider, net.mcreator.varietycreatures.entity.BasaltStriderEntity$CustomEntity, 1126
+varietycreatures, varietycreatures:bighunger, net.mcreator.varietycreatures.entity.BighungerEntity$CustomEntity, 1137
+varietycreatures, varietycreatures:blaze_emperor, net.mcreator.varietycreatures.entity.BlazeEmperorEntity$CustomEntity, 1142
+varietycreatures, varietycreatures:blaze_knight, net.mcreator.varietycreatures.entity.BlazeKnightEntity$CustomEntity, 1140
+varietycreatures, varietycreatures:blueturtle, net.mcreator.varietycreatures.entity.BlueturtleEntity$CustomEntity, 1145
+varietycreatures, varietycreatures:cold_hunger, net.mcreator.varietycreatures.entity.ColdHungerEntity$CustomEntity, 1141
+varietycreatures, varietycreatures:coralturtle, net.mcreator.varietycreatures.entity.CoralturtleEntity$CustomEntity, 1144
+varietycreatures, varietycreatures:crimson_zombie, net.mcreator.varietycreatures.entity.CrimsonZombieEntity$CustomEntity, 1118
+varietycreatures, varietycreatures:crimsonbug_1, net.mcreator.varietycreatures.entity.Crimsonbug1Entity$CustomEntity, 1124
+varietycreatures, varietycreatures:crimsonreeper, net.mcreator.varietycreatures.entity.CrimsonreeperEntity$CustomEntity, 1112
+varietycreatures, varietycreatures:decapitated_zombie, net.mcreator.varietycreatures.entity.DecapitatedZombieEntity$CustomEntity, 1103
+varietycreatures, varietycreatures:decaying_creeper, net.mcreator.varietycreatures.entity.DecayingCreeperEntity$CustomEntity, 1099
+varietycreatures, varietycreatures:deser_enderman_2, net.mcreator.varietycreatures.entity.DeserEnderman2Entity$CustomEntity, 1122
+varietycreatures, varietycreatures:desert_enderman, net.mcreator.varietycreatures.entity.DesertEndermanEntity$CustomEntity, 1116
+varietycreatures, varietycreatures:desert_hunger, net.mcreator.varietycreatures.entity.DesertHungerEntity$CustomEntity, 1138
+varietycreatures, varietycreatures:drowned_enderman, net.mcreator.varietycreatures.entity.DrownedEndermanEntity$CustomEntity, 1120
+varietycreatures, varietycreatures:drowned_whisperer, net.mcreator.varietycreatures.entity.DrownedWhispererEntity$CustomEntity, 1128
+varietycreatures, varietycreatures:entitybulletovergrown_skeleton, net.mcreator.varietycreatures.entity.OvergrownSkeletonEntity$ArrowCustomEntity, 1105
+varietycreatures, varietycreatures:entitybulletsact_skel, net.mcreator.varietycreatures.entity.SactSkelEntity$ArrowCustomEntity, 1131
+varietycreatures, varietycreatures:entitybulletsoul_blaze, net.mcreator.varietycreatures.entity.SoulBlazeEntity$ArrowCustomEntity, 1134
+varietycreatures, varietycreatures:freezingcreeper, net.mcreator.varietycreatures.entity.FreezingcreeperEntity$CustomEntity, 1111
+varietycreatures, varietycreatures:frozenturtle, net.mcreator.varietycreatures.entity.FrozenturtleEntity$CustomEntity, 1147
+varietycreatures, varietycreatures:jellyfish_1, net.mcreator.varietycreatures.entity.Jellyfish1Entity$CustomEntity, 1148
+varietycreatures, varietycreatures:jellyfish_2, net.mcreator.varietycreatures.entity.Jellyfish2Entity$CustomEntity, 1149
+varietycreatures, varietycreatures:jellyfish_3, net.mcreator.varietycreatures.entity.Jellyfish3Entity$CustomEntity, 1150
+varietycreatures, varietycreatures:lurker_deep, net.mcreator.varietycreatures.entity.LurkerDeepEntity$CustomEntity, 1139
+varietycreatures, varietycreatures:moss_guard, net.mcreator.varietycreatures.entity.MossGuardEntity$CustomEntity, 1132
+varietycreatures, varietycreatures:mushroom_creeper, net.mcreator.varietycreatures.entity.MushroomCreeperEntity$CustomEntity, 1098
+varietycreatures, varietycreatures:overgrown_enderman, net.mcreator.varietycreatures.entity.OvergrownEndermanEntity$CustomEntity, 1119
+varietycreatures, varietycreatures:overgrown_plantson, net.mcreator.varietycreatures.entity.OvergrownPlantsonEntity$CustomEntity, 1129
+varietycreatures, varietycreatures:overgrown_skeleton, net.mcreator.varietycreatures.entity.OvergrownSkeletonEntity$CustomEntity, 1104
+varietycreatures, varietycreatures:overgrown_zombie, net.mcreator.varietycreatures.entity.OvergrownZombieEntity$CustomEntity, 1123
+varietycreatures, varietycreatures:overgrownedskel, net.mcreator.varietycreatures.entity.OvergrownedskelEntity$CustomEntity, 1115
+varietycreatures, varietycreatures:sact_skel, net.mcreator.varietycreatures.entity.SactSkelEntity$CustomEntity, 1130
+varietycreatures, varietycreatures:sand_creeper, net.mcreator.varietycreatures.entity.SandCreeperEntity$CustomEntity, 1097
+varietycreatures, varietycreatures:snappingturtle, net.mcreator.varietycreatures.entity.SnappingturtleEntity$CustomEntity, 1143
+varietycreatures, varietycreatures:snow_creeper, net.mcreator.varietycreatures.entity.SnowCreeperEntity$CustomEntity, 1096
+varietycreatures, varietycreatures:soul_blaze, net.mcreator.varietycreatures.entity.SoulBlazeEntity$CustomEntity, 1133
+varietycreatures, varietycreatures:soul_strider, net.mcreator.varietycreatures.entity.SoulStriderEntity$CustomEntity, 1127
+varietycreatures, varietycreatures:soulcreeper, net.mcreator.varietycreatures.entity.SoulcreeperEntity$CustomEntity, 1114
+varietycreatures, varietycreatures:soulsand_zombie, net.mcreator.varietycreatures.entity.SoulsandZombieEntity$CustomEntity, 1110
+varietycreatures, varietycreatures:superior_strider, net.mcreator.varietycreatures.entity.SuperiorStriderEntity$CustomEntity, 1121
+varietycreatures, varietycreatures:terrapagus, net.mcreator.varietycreatures.entity.TerrapagusEntity$CustomEntity, 1146
+varietycreatures, varietycreatures:undead_enderman, net.mcreator.varietycreatures.entity.UndeadEndermanEntity$CustomEntity, 1106
+varietycreatures, varietycreatures:undead_piglin, net.mcreator.varietycreatures.entity.UndeadPiglinEntity$CustomEntity, 1101
+varietycreatures, varietycreatures:warped_piglin, net.mcreator.varietycreatures.entity.WarpedPiglinEntity$CustomEntity, 1100
+varietycreatures, varietycreatures:warped_zombie, net.mcreator.varietycreatures.entity.WarpedZombieEntity$CustomEntity, 1117
+varietycreatures, varietycreatures:warpedbug_1, net.mcreator.varietycreatures.entity.Warpedbug1Entity$CustomEntity, 1125
+varietycreatures, varietycreatures:warpedcreeper, net.mcreator.varietycreatures.entity.WarpedcreeperEntity$CustomEntity, 1113
+varietycreatures, varietycreatures:zombieice_2, net.mcreator.varietycreatures.entity.Zombieice2Entity$CustomEntity, 1108
+varietycreatures, varietycreatures:zombieice_3, net.mcreator.varietycreatures.entity.Zombieice3Entity$CustomEntity, 1109
+varietycreatures, varietycreatures:zombieiced, net.mcreator.varietycreatures.entity.ZombieicedEntity$CustomEntity, 1107
+----------------------------------------------
+Mod name, Registry name, Entity class name, ID
+----------------------------------------------

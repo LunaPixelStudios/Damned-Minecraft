@@ -1,0 +1,14 @@
+-------------
+Registry name
+-------------
+cavesandcliffs:meadow_flower_provider
+cavesandcliffs:randomized_int_state_provider
+minecraft:forest_flower_provider
+minecraft:plain_flower_provider
+minecraft:rotated_block_provider
+minecraft:simple_state_provider
+minecraft:weighted_state_provider
+tropicraft:noise_from_tag
+-------------
+Registry name
+-------------

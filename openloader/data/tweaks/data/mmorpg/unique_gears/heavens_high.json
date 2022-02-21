@@ -1,0 +1,63 @@
+{
+  "id": "heavens_high",
+  "weight": 0,
+  "unique_stats": [
+    {
+      "min": 25.0,
+      "max": 50.0,
+      "stat": "chance_of_bleed",
+      "type": "flat"
+    },
+    {
+      "min": 10.0,
+      "max": 50.0,
+      "stat": "attack_speed",
+      "type": "flat"
+    },
+    {
+      "min": 10.0,
+      "max": 30.0,
+      "stat": "strength",
+      "type": "flat"
+    }
+  ],
+  "base_stats": [
+    {
+      "min": 0.33,
+      "max": 0.99,
+      "stat": "water_weapon_damage",
+      "type": "flat"
+    },
+    {
+      "min": 0.33,
+      "max": 0.99,
+      "stat": "fire_weapon_damage",
+      "type": "flat"
+    },
+    {
+      "min": 0.33,
+      "max": 0.99,
+      "stat": "earth_weapon_damage",
+      "type": "flat"
+    },
+    {
+      "min": 20.0,
+      "max": 70.0,
+      "stat": "critical_hit",
+      "type": "flat"
+    },
+    {
+      "min": 10.0,
+      "max": 65.0,
+      "stat": "inc_leech",
+      "type": "flat"
+    }
+  ],
+  "rarity": "runeword",
+  "set": "",
+  "replaces_name": true,
+  "base_gear": "sword",
+  "filters": {
+    "list": []
+  }
+}

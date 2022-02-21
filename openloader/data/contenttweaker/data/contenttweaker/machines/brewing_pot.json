@@ -1,0 +1,44 @@
+{
+    "name": "Brewing Pot",
+    "appearance": {
+        "block": "contenttweaker:machine/brewing_pot",
+        "shape": "farmersdelight:cooking_pot"
+    },
+    "components": [
+        {
+            "type": "custommachinery:fluid",
+            "id": "tank",
+            "capacity": 3000,
+            "filter": ["#minecraft:water"],
+            "whitelist": true
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "slot1"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "slot2"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "slot3"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "slot4"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "slot5"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "slot6"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "catalyst"
+        }
+    ]
+}

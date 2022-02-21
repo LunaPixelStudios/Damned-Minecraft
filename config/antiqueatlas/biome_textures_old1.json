@@ -1,0 +1,153 @@
+{
+  "version": 1,
+	"data": {
+		//Vanilla
+		"0": "WATER",
+		"1": "PLAINS",
+		"2": "DESERT",
+		"3": "MOUNTAINS",
+		"4": "FOREST",
+		"5": "PINES",
+		"6": "SWAMP",
+		"7": "WATER",
+		"8": "CAVE_WALLS",
+		"9": "SHORE",
+		"10": "ICE",
+		"11": "ICE",
+		"12": "SNOW",
+		"13": "SNOW_HILLS",
+		"14": "MUSHROOM",
+		"15": "SHORE",
+		"16": "SHORE",
+		"17": "V_DESERT_HILLS",
+		"18": "FOREST_HILLS",
+		"19": "PINES_HILLS",
+		"20": "MOUNTAINS",
+		"21": "JUNGLE",
+		"22": "JUNGLE_HILLS",
+		"23": "JUNGLE_EDGE",
+		"24": "WATER",
+		"25": "ROCK_SHORE",
+		"26": "SHORE",
+		"27": "BIRCH",
+		"28": "BIRCH_HILLS",
+		"29": "DENSE_FOREST",
+		"30": "SNOW_PINES",
+		"31": "SNOW_PINES_HILLS",
+		"32": "MEGA_TAIGA",
+		"33": "MEGA_TAIGA_HILLS",
+		"34": "MOUNTAINS_ALL",
+		"35": "SAVANNA",
+		"36": "PLATEAU_SAVANNA",
+		"37": "MESA",
+		"38": "PLATEAU_MESA_TREES",
+		"39": "PLATEAU_MESA",
+		//Note that these will change for
+		//the 1.13 minecraft update so be
+		//warned this is only for 1.12
+		//Biomes O' Plenty
+
+		"40": "DESERT", //Gravel Beach
+		"41": "JUNGLE", //White Beach
+		"42": "MOUNTAINS_SNOW_CAPS", //Alps
+		"43": "BOP_BAMBOO", //Bamboo Forest
+		"44": "BOP_BAYOU", //Bayou
+		"45": "BOP_BOG", //Bog
+		"46": "BOP_BOR_FOREST", //Boreal Forest
+		"47": "SAVANNA", //Brush Land
+		"48": "FOREST_HILLS", //Chaparral
+		"49": "BOP_CHERRY", //Cherry Blossom Grove
+		"50": "SNOW_HILLS", //Cold Desert
+		"51": "MEGA_TAIGA", //Coniferous Forest
+		"52": "BOP_CRAG", //Crag
+		"53": "BOP_DEAD_FOREST", //Dead Forest
+		"54": "SWAMP", //Dead Swamp
+		"55": "BOP_DECFOREST", //Eucalyptus Forest
+		"56": "BOP_FEN", //Fen
+		"57": "BOP_FLOWERFIELD", //Flower Field
+		"58": "PLAINS", //GrassLand
+		"59": "BOP_GROVE", //Grove
+		"60": "BOP_HIGHLAND", //Highland
+		"61": "PINES_HILLS", //Land Of Lakes
+		"62": "BOP_LAVFIELDS", //Lavender Fields
+		"63": "SAVANNA", //Lush Desert
+		"64": "BOP_LUSHSWAMP", //Lush Swamp
+		"65": "SWAMP", //Mangrove
+		"66": "BOP_MAPLE", //Maple Woods
+		"67": "BOP_MARSH", //Marsh
+		"68": "PLAINS", //Meadow
+		"69": "BOP_MOOR", //Moor
+		"70": "MOUNTAINS", //Mountain
+		"71": "BOP_MYSTICAL", //Mystic Grove
+		"72": "BOP_OMNIOUS", //Ominous Woods
+		"73": "FOREST", //Orchard
+		"74": "BOP_OUTBACK", //Outback
+		"75": "JUNGLE_CLIFFS", //OverGrown Cliffs
+		"76": "PLAINS", //Prairie
+		"77": "BOP_WASTELAND", //Quagmire
+		"78": "DENSE_FOREST", //Rainforest
+		"79": "MEGA_SPRUCE", //Redwood Forest
+		"80": "DENSE_FOREST", //Sacred Springs
+		"81": "BOP_SEASONAL", //Seasonal Forest
+		"82": "BOP_SHIELD", //Shield
+		"83": "BOP_SHRUBLAND", //Shrubland
+		"84": "SNOW_PINES_HILLS", //Snow Coniferous Forest
+		"85": "SNOW_PINES", //Snowy Forest
+		"86": "BOP_WASTELAND", //Steppe
+		"87": "FOREST", //Temperate Rainforest
+		"88": "BOP_TROPICS", //Tropical Rainforest
+		"89": "BOP_WASTELAND", //Tundra
+		"90": "BOP_WASTELAND", //Wasteland
+		"91": "BOP_WETLAND", //Wetland
+		"92": "FOREST", //Woodland
+		"93": "V_DESERT_HILLS", //Exeric Shrubland
+		"94": "MOUNTAINS", //Alps Foothills
+		"95": "SNOW_PINES_HILLS", //Mountain Foothills
+		"96": "ICE", //Glacier
+		"97": "JUNGLE", //Oasis
+		"98": "WATER", //Coral Reef
+		"99": "WATER", //Kelp Forest
+		"100": "FOREST", //Origin Island
+		"101": "BOP_TROPICS", //Tropical Island
+		"102": "BOP_VOLCANIC", //Volcanic Island
+		"103": "BOP_ORCHARD", //Flower Island
+		//"104": "Not Made", //Corrupted Sands
+		//"105": "Not Made", //Fungi Forest
+		//"106": "Not Made", //Phantasmagoric Inferno
+		//"107": "Not Made", //Polar Chasm
+		//"108": "Not Made", //Undergarden
+		//"109": "Not Made", //Visceral Heap
+
+		//Vannila
+		"127": "PLAINS",
+		"129": "SUNFLOWERS",
+		"130": "DESERT",
+		"131": "MOUNTAINS_SNOW_CAPS",
+		"132": "FOREST_FLOWERS",
+		"133": "PINES_HILLS",
+		"134": "SWAMP_HILLS",
+		"140": "ICE_SPIKES",
+		"149": "JUNGLE_CLIFFS",
+		"151": "JUNGLE_EDGE_HILLS",
+		"155": "BIRCH",
+		"156": "BIRCH_HILLS",
+		"157": "DENSE_FOREST_HILLS",
+		"158": "SNOW_PINES_HILLS",
+		"160": "MEGA_SPRUCE",
+		"161": "MEGA_SPRUCE_HILLS",
+		"162": "MOUNTAINS_SNOW_CAPS",
+		"163": "SAVANNA_CLIFFS",
+		"164": "PLATEAU_SAVANNA_M",
+		"165": "BRYCE",
+		"166": "PLATEAU_MESA_TREES_LOW",
+		"167": "PLATEAU_MESA_LOW",
+		//Thaumcraft (I believe)
+		"170": "FOREST",
+		"172": "DENSE_FOREST",
+		"176": "DESERT",
+		"189": "DENSE_FOREST",
+		"192": "TC_TAINT",
+		"193": "TC_MAGICAL",
+		"194": "TC_EEIRE"
+	}
+}

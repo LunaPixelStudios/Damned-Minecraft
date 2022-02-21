@@ -1,0 +1,195 @@
+
+[General]
+	#Totem Maximum Soul Count, Default: 10000
+	#Range: > 100
+	maxSouls = 10000
+	#Dark and Necro Robes repair themselves using Soul Energy, Default: true
+	soulrepair = true
+	#Totem of Souls will save the Player if full of Soul Energy, Default: true
+	totemundying = true
+	#Soul Eater Maximum Enchantment Level, Default: 3
+	#Range: 1 ~ 10
+	maxEnchant = 3
+	#Gives Players a Totem of Souls when first entering World, Default: false
+	startertotem = false
+	#How much Souls is consumed when crafting with Totem, Default: 20
+	#Range: > 0
+	craftsouls = 1
+	#Show numerical amount of Souls on the Soul Energy Bar, Default: false
+	shownum = false
+
+[Protectors]
+	#Hired Timer, Default: 24000
+	#Range: 0 ~ 72000
+	hiredtimer = 24000
+	#Dying Timer, Default: 12000
+	#Range: 0 ~ 72000
+	dyingtimer = 12000
+	#Heal Amount after being fed (Always put an F at the end of the value!), Default: 10.0F
+	healamount = 10.0
+
+["Soul Taken"]
+	#Undead Killed, Default: 5
+	#Range: > 0
+	undeadsouls = 5
+	#Anthropods Killed, Default: 5
+	#Range: > 0
+	anthropodsouls = 5
+	#Illagers, Witches, Cultists, Protectors Killed, Default: 25
+	#Range: > 0
+	illagersouls = 25
+	#Villagers Killed, Default: 50
+	#Range: > 0
+	villagersouls = 50
+	#Tailless Killed, Default: 45
+	#Range: > 0
+	taillesssouls = 45
+	#Non-Undead Piglin Killed, Default: 10
+	#Range: > 0
+	piglinsouls = 10
+	#Ender Dragon Killed, Default: 1000
+	#Range: > 0
+	enderdragonsouls = 1000
+	#Players Killed, Default: 100
+	#Range: > 0
+	playersouls = 100
+	#Others Killed, Default: 5
+	#Range: > 0
+	othersouls = 5
+
+["Spell Costs"]
+	#Vex Spell Cost, Default: 18
+	#Range: > 0
+	vexcost = 18
+	#Fang Spell Cost, Default: 8
+	#Range: > 0
+	fangcost = 8
+	#Roaring Spell Cost, Default: 10
+	#Range: > 0
+	bitecost = 10
+	#Necroturgy Spell Cost, Default: 5
+	#Range: > 0
+	zombiecost = 5
+	#Osseous Spell Cost, Default: 8
+	#Range: > 0
+	skeletoncost = 8
+	#Crippling Spell Cost, Default: 15
+	#Range: > 0
+	cripplecost = 15
+	#Spiderling Spell Cost per second, Default: 2
+	#Range: > 0
+	spiderlingcost = 2
+	#Brain Eater Spell Cost per second, Default: 5
+	#Range: > 0
+	braincost = 5
+	#How much Experience the above spell Cost per heal, Default: 10
+	#Range: 0 ~ 1000
+	brainxpcost = 10
+	#Teleport Spell Cost, Default: 5
+	#Range: > 0
+	teleportcost = 5
+	#Soul Skull Spell Cost, Default: 16
+	#Range: > 0
+	soulskullcost = 16
+	#Feasting Spell Cost, Default: 8
+	#Range: > 0
+	feastcost = 8
+	#Tempting Spell Cost, Default: 2
+	#Range: > 0
+	temptingcost = 2
+
+["Casting Time"]
+	#Time to cast Vex Spell, Default: 100
+	#Range: 0 ~ 72000
+	vextime = 100
+	#Time to cast Fang Spell, Default: 80
+	#Range: 0 ~ 72000
+	fangtime = 80
+	#Time to cast Roaring Spell, Default: 40
+	#Range: 0 ~ 72000
+	roartime = 40
+	#Time to cast Necroturgy Spell, Default: 60
+	#Range: 0 ~ 72000
+	zombietime = 60
+	#Time to cast Osseous Spell, Default: 60
+	#Range: 0 ~ 72000
+	skeletontime = 60
+	#Time to cast Crippling Spell, Default: 20
+	#Range: 0 ~ 72000
+	crippletime = 20
+	#Time to cast Spiderling Spell per second, Default: 10
+	#Range: 0 ~ 72000
+	spiderlingtime = 20
+	#Time to cast Brain Eater Spell per second, Default: 5
+	#Range: 0 ~ 72000
+	braineatertime = 20
+	#Time to cast Feasting Spell per second, Default: 20
+	#Range: 0 ~ 72000
+	feasttime = 20
+	#Time to cast Tempting Spell per second, Default: 20
+	#Range: 0 ~ 72000
+	temptingtime = 20
+
+["Summon Down Duration"]
+	#Vex Spell Cooldown, Default: 340
+	#Range: 0 ~ 72000
+	vexcooldown = 340
+	#Necroturgy Spell Cooldown, Default: 250
+	#Range: 0 ~ 72000
+	zombiecooldown = 250
+	#Osseous Spell Cooldown, Default: 280
+	#Range: 0 ~ 72000
+	skeletoncooldown = 280
+
+["Mob Spawning"]
+	#Hexer Spawning, Default: true
+	hexerspawn = true
+	#Cultists Spawning, Default: true
+	cultistsspawn = true
+	#Spawn Frequency for Cultists, Default: 12000
+	#Range: 0 ~ 72000
+	cultistsspawnfreq = 12000
+	#Maximum amount of Mutant Rabbits can spawn, Default: 16
+	#Range: 0 ~ 100
+	mrabbitmax = 16
+
+["Structure Generation"]
+	#Tavern Generates in the World, Default: true
+	taverngen = true
+	#Profaned Tower Generates in the World, Default: true
+	profanedtowergen = true
+	#Profaned Shrine Generates in the World, Default: true
+	profanedshrinegen = true
+	#Dark Manor Generates in the World, Default: true
+	darkmanorgen = true
+	#Portal Outpost Generates in the World, Default: true
+	portaloutpostgen = true
+	#Totems Generates in the World, Default: true
+	totemgen = true
+	#Cursed Graveyard Generates in the World, Default: true
+	cursedgraveyardgen = true
+
+[Misc]
+	#Viziers spawn Vexes instead of Irks, Default: false
+	vizierminion = false
+	#Amount of Souls needed to repair Wander Boots per second, Default: 20
+	#Range: > 1
+	maxSouls = 20
+	#Soul Skulls when shot from Staffs sets ground aflame, Default: false
+	soulskullfire = false
+	#Max Amount of mobs spawned around a Caller, Default: 60
+	#Range: > 1
+	callerspawnmax = 60
+
+[Spells]
+	#Whether Undead Minions can teleport to Players, Default: false
+	undeadteleport = false
+	#Whether Vex Minions can teleport to Players, Default: true
+	vexteleport = true
+	#Number of Vex Minions that can be spawn with a wand, without instantly dying, around the player, Default: 8
+	#Range: > 1
+	wandvexlimit = 8
+	#Number of Vex Minions that can be spawn with a staff, without instantly dying, around the player, Default: 16
+	#Range: > 1
+	staffvexlimit = 16
+

@@ -1,0 +1,46 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "craftandhunt:huntersguide": {
+      "viewedEntries": [
+        "craftandhunt:effect/effect_thief_blade",
+        "craftandhunt:offhand/offhand_piglin_armbrace",
+        "craftandhunt:effect/effect_inky_defense",
+        "craftandhunt:effect/effect_seed_cluster",
+        "craftandhunt:offhand/offhand_venom_sack"
+      ],
+      "bookmarks": [],
+      "history": [
+        "craftandhunt:offhand/offhand_venom_sack",
+        "craftandhunt:offhand/offhand_piglin_armbrace",
+        "craftandhunt:effect/effect_seed_cluster",
+        "craftandhunt:effect/effect_inky_defense",
+        "craftandhunt:effect/effect_thief_blade"
+      ],
+      "completedManualQuests": []
+    },
+    "marquot:forgotten_tale": {
+      "viewedEntries": [
+        "marquot:test/category_2_entry_1",
+        "marquot:test/category_5_entry_2"
+      ],
+      "bookmarks": [],
+      "history": [
+        "marquot:test/category_5_entry_2",
+        "marquot:test/category_2_entry_1"
+      ],
+      "completedManualQuests": []
+    },
+    "enigmaticlegacy:the_acknowledgment": {
+      "viewedEntries": [
+        "enigmaticlegacy:world/ancient_tomes"
+      ],
+      "bookmarks": [],
+      "history": [
+        "enigmaticlegacy:world/ancient_tomes"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

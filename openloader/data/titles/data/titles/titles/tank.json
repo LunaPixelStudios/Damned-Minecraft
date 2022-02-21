@@ -1,0 +1,8 @@
+{
+  "type": "loot",
+  "rarity": "common",
+  "display": {
+    "default": "the Tank",
+    "flavor": "You like taking damage, huh? Now you can show it off with pride!"
+  }
+}

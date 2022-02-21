@@ -1,0 +1,8 @@
+{
+  "type": "loot",
+  "rarity": "common",
+  "display": {
+    "default": "",
+    "flavor": "Do you feel lonely or do you just like sitting really far away?"
+  }
+}

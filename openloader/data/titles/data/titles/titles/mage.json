@@ -1,0 +1,8 @@
+{
+  "type": "loot",
+  "rarity": "common",
+  "display": {
+    "default": "the Mage",
+    "flavor": "Ritual casting is cooler."
+  }
+}

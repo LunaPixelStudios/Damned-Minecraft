@@ -1,0 +1,37 @@
+
+#General settings for the mod.
+[general]
+	#The base chance for a villager to drop a trade item.
+	#Range: -1.0 ~ 1.0
+	base-chance = 0.05
+	#Each level of the Looting enchantment will increase the base chance by this amount.
+	#Range: -1.0 ~ 1.0
+	looting-chance-increase = 0.015
+	#Increase the base chance by this amount if the villager is killed during a raid.
+	#Range: -1.0 ~ 1.0
+	raid-bonus-chance = 0.15
+	#Should only villagers killed by a player drop loot?
+	player-required = true
+	#Should villagers killed by fake players be excluded from getting additional loot?
+	exclude-fake-players = true
+	#Should villagers require a profession to drop additional loot?
+	require-profession = false
+	#Should villagers only drop additional loot when in a village?
+	only-in-villages = false
+	#Should villagers only drop additional loot when in a raid?
+	only-in-raids = false
+	#Should child villagers be lootable?
+	loot-children = false
+	#The chance that pillaging a villager will give the player the Bad Omen status effect.
+	#Range: 0.0 ~ 1.0
+	bad-omen-chance = 0.15
+
+	#How many loots should be spawned when a villager is pillaged?
+	[general.loot-amount]
+		#The minimum number of loot to drop.
+		#Range: 0 ~ 32767
+		minimum = 1
+		#The maximum number of loot to drop.
+		#Range: 0 ~ 32767
+		maximum = 3
+

@@ -1,0 +1,139 @@
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                            BO3 object                           | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Author: Unknown
+
+Description: No description given
+
+Version: 3
+
+SettingsMode: WriteWithoutComments
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                          Main settings                          | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Tree: true
+
+Frequency: 1
+
+Rarity: 1.0
+
+MaxSpawn: 0
+
+RotateRandomly: true
+
+SpawnHeight: randomY
+
+SpawnHeightOffset: 0
+
+SpawnHeightVariance: 0
+
+##############################
+# Height Limits for the BO3. #
+##############################
+
+MinHeight: 62
+
+MaxHeight: 62
+
+######################
+# Extrusion settings #
+######################
+
+ExtrudeMode: None
+
+ExtrudeThroughBlocks: minecraft:air
+
+MaxBranchDepth: 10
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                      Source block settings                      | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+SourceBlocks: minecraft:ice,minecraft:water
+
+MaxPercentageOutsideSourceBlock: 100
+
+OutsideSourceBlock: dontPlace
+
+DoReplaceBlocks: true
+
+IsOTGPlus: false
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                              Blocks                             | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+B(-4,0,-1,minecraft:packed_ice)
+B(-4,0,0,minecraft:packed_ice)
+B(-3,0,0,minecraft:packed_ice)
+B(-3,0,1,minecraft:packed_ice)
+B(-2,0,-2,minecraft:packed_ice)
+B(-2,0,-1,minecraft:packed_ice)
+B(-2,0,0,minecraft:packed_ice)
+B(-2,0,1,minecraft:packed_ice)
+B(-2,0,2,minecraft:packed_ice)
+B(-2,0,4,minecraft:packed_ice)
+B(-1,0,-3,minecraft:packed_ice)
+B(-1,0,-1,minecraft:packed_ice)
+B(-1,0,0,minecraft:packed_ice)
+B(-1,0,2,minecraft:packed_ice)
+B(-1,0,3,minecraft:packed_ice)
+B(0,0,-1,minecraft:packed_ice)
+B(0,0,0,minecraft:packed_ice)
+B(0,0,1,minecraft:packed_ice)
+B(0,0,2,minecraft:packed_ice)
+B(1,0,-1,minecraft:packed_ice)
+B(1,0,0,minecraft:packed_ice)
+B(1,0,1,minecraft:packed_ice)
+B(1,0,2,minecraft:packed_ice)
+B(2,0,-3,minecraft:packed_ice)
+B(2,0,-1,minecraft:packed_ice)
+B(2,0,0,minecraft:packed_ice)
+B(2,0,2,minecraft:packed_ice)
+B(2,0,3,minecraft:packed_ice)
+B(3,0,-2,minecraft:packed_ice)
+B(3,0,-1,minecraft:packed_ice)
+B(3,0,0,minecraft:packed_ice)
+B(3,0,1,minecraft:packed_ice)
+B(3,0,2,minecraft:packed_ice)
+B(3,0,4,minecraft:packed_ice)
+B(4,0,0,minecraft:packed_ice)
+B(4,0,1,minecraft:packed_ice)
+B(5,0,-1,minecraft:packed_ice)
+B(5,0,0,minecraft:packed_ice)
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                            BO3 checks                           | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             Branches                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             Entities                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+

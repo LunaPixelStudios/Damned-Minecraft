@@ -1,0 +1,390 @@
+To refresh this file, delete it and run /reload command again! Last updated: Nov 12, 2021 6:36:41 PM
+
+#forge:molten/lapis
+- emendatusenigmatica:molten_lapis
+
+#forge:molten/uranium
+- emendatusenigmatica:molten_uranium
+
+#forge:molten/invar
+- emendatusenigmatica:molten_invar
+
+#forge:molten/diamond
+- emendatusenigmatica:molten_diamond
+
+#forge:molten/coal
+- emendatusenigmatica:molten_coal
+
+#forge:molten/sapphire
+- emendatusenigmatica:molten_sapphire
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- lycanitesmobs:ooze
+- lycanitesmobs:ooze_flowing
+- lycanitesmobs:rabbitooze
+- lycanitesmobs:rabbitooze_flowing
+- lycanitesmobs:acid
+- lycanitesmobs:acid_flowing
+- lycanitesmobs:sharacid
+- lycanitesmobs:sharacid_flowing
+- lycanitesmobs:poison
+- lycanitesmobs:poison_flowing
+- lycanitesmobs:vesspoison
+- lycanitesmobs:vesspoison_flowing
+- lycanitesmobs:veshoney
+- lycanitesmobs:veshoney_flowing
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- betterportals:portal_fluid_still
+- betterportals:portal_fluid_flowing
+- create_confectionery:black_chocolate
+- create_confectionery:black_chocolate_flowing
+- create_confectionery:white_chocolate
+- create_confectionery:white_chocolate_flowing
+- create_confectionery:hot_chocolate
+- create_confectionery:hot_chocolate_flowing
+- create_confectionery:caramel
+- create_confectionery:caramel_flowing
+- create_confectionery:ruby_chocolate
+- create_confectionery:ruby_chocolate_flowing
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:molten_copper
+- emendatusenigmatica:molten_copper
+
+#forge:molten/fluorite
+- emendatusenigmatica:molten_fluorite
+
+#forge:molten/iesnium
+- emendatusenigmatica:molten_iesnium
+
+#forge:steam
+- steampowered:steam
+- steampowered:steam_flowing
+
+#forge:molten/potassium_nitrate
+- emendatusenigmatica:molten_potassium_nitrate
+
+#forge:molten_bronze
+- emendatusenigmatica:molten_bronze
+
+#forge:molten/apatite
+- emendatusenigmatica:molten_apatite
+
+#forge:molten_silver
+- emendatusenigmatica:molten_silver
+
+#forge:molten/iron
+- emendatusenigmatica:molten_iron
+
+#forge:molten_fluix
+- emendatusenigmatica:molten_fluix
+
+#forge:molten/charged_certus_quartz
+- emendatusenigmatica:molten_charged_certus_quartz
+
+#forge:molten_utherium
+- emendatusenigmatica:molten_utherium
+
+#forge:molten_lapis
+- emendatusenigmatica:molten_lapis
+
+#forge:molten_certus_quartz
+- emendatusenigmatica:molten_certus_quartz
+
+#forge:molten_cinnabar
+- emendatusenigmatica:molten_cinnabar
+
+#forge:molten/lead
+- emendatusenigmatica:molten_lead
+
+#forge:molten_iridium
+- emendatusenigmatica:molten_iridium
+
+#forge:molten/gold
+- emendatusenigmatica:molten_gold
+
+#forge:crude_oil
+
+#forge:molten_ruby
+- emendatusenigmatica:molten_ruby
+
+#forge:molten_enderium
+- emendatusenigmatica:molten_enderium
+
+#forge:molten_steel
+- emendatusenigmatica:molten_steel
+
+#forge:molten_aluminum
+- emendatusenigmatica:molten_aluminum
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- lycanitesmobs:moglava
+- lycanitesmobs:moglava_flowing
+
+#forge:molten/dimensional
+- emendatusenigmatica:molten_dimensional
+
+#forge:molten/aluminum
+- emendatusenigmatica:molten_aluminum
+
+#forge:molten_regalium
+- emendatusenigmatica:molten_regalium
+
+#forge:molten_iron
+- emendatusenigmatica:molten_iron
+
+#forge:molten_sulfur
+- emendatusenigmatica:molten_sulfur
+
+#forge:molten_thallasium
+- emendatusenigmatica:molten_thallasium
+
+#forge:molten_nickel
+- emendatusenigmatica:molten_nickel
+
+#forge:molten/bronze
+- emendatusenigmatica:molten_bronze
+
+#forge:molten/cinnabar
+- emendatusenigmatica:molten_cinnabar
+
+#forge:molten_osmium
+- emendatusenigmatica:molten_osmium
+
+#forge:molten_uranium
+- emendatusenigmatica:molten_uranium
+
+#forge:molten_cast_iron
+- emendatusenigmatica:molten_cast_iron
+
+#forge:molten/enderium
+- emendatusenigmatica:molten_enderium
+
+#forge:molten/silver
+- emendatusenigmatica:molten_silver
+
+#forge:molten_dimensional
+- emendatusenigmatica:molten_dimensional
+
+#forge:molten/copper
+- emendatusenigmatica:molten_copper
+
+#forge:molten/zinc
+- emendatusenigmatica:molten_zinc
+
+#forge:molten_iesnium
+- emendatusenigmatica:molten_iesnium
+
+#forge:molten_cobalt
+- emendatusenigmatica:molten_cobalt
+
+#forge:molten_emerald
+- emendatusenigmatica:molten_emerald
+
+#forge:molten_coal
+- emendatusenigmatica:molten_coal
+
+#forge:molten/arcane
+- emendatusenigmatica:molten_arcane
+
+#forge:molten_tin
+- emendatusenigmatica:molten_tin
+
+#forge:molten_fluorite
+- emendatusenigmatica:molten_fluorite
+
+#forge:molten/thallasium
+- emendatusenigmatica:molten_thallasium
+
+#forge:molten_constantan
+- emendatusenigmatica:molten_constantan
+
+#forge:molten_potassium_nitrate
+- emendatusenigmatica:molten_potassium_nitrate
+
+#forge:molten_quartz
+- emendatusenigmatica:molten_quartz
+
+#forge:molten/lumium
+- emendatusenigmatica:molten_lumium
+
+#forge:molten/cobalt
+- emendatusenigmatica:molten_cobalt
+
+#forge:molten_brass
+- emendatusenigmatica:molten_brass
+
+#forge:molten/certus_quartz
+- emendatusenigmatica:molten_certus_quartz
+
+#forge:molten_ancient_debris
+- emendatusenigmatica:molten_ancient_debris
+
+#forge:molten/ancient_debris
+- emendatusenigmatica:molten_ancient_debris
+
+#forge:molten/steel
+- emendatusenigmatica:molten_steel
+
+#forge:experience
+- xreliquary:xp_juice_still
+- sophisticatedbackpacks:xp_still
+
+#forge:molten/osmium
+- emendatusenigmatica:molten_osmium
+
+#forge:molten_diamond
+- emendatusenigmatica:molten_diamond
+
+#forge:molten/regalium
+- emendatusenigmatica:molten_regalium
+
+#forge:molten/nebu
+- emendatusenigmatica:molten_nebu
+
+#forge:molten/iridium
+- emendatusenigmatica:molten_iridium
+
+#forge:molten/utherium
+- emendatusenigmatica:molten_utherium
+
+#forge:molten_lumium
+- emendatusenigmatica:molten_lumium
+
+#forge:molten_gold
+- emendatusenigmatica:molten_gold
+
+#forge:molten_arcane
+- emendatusenigmatica:molten_arcane
+
+#forge:molten_lead
+- emendatusenigmatica:molten_lead
+
+#forge:creosote
+
+#forge:molten/quartz
+- emendatusenigmatica:molten_quartz
+
+#forge:molten/electrum
+- emendatusenigmatica:molten_electrum
+
+#forge:molten/constantan
+- emendatusenigmatica:molten_constantan
+
+#forge:molten/redstone
+- emendatusenigmatica:molten_redstone
+
+#forge:molten_cloggrum
+- emendatusenigmatica:molten_cloggrum
+
+#forge:plantoil
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#forge:molten_apatite
+- emendatusenigmatica:molten_apatite
+
+#forge:molten_bitumen
+- emendatusenigmatica:molten_bitumen
+
+#forge:molten/brass
+- emendatusenigmatica:molten_brass
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:molten_nebu
+- emendatusenigmatica:molten_nebu
+
+#forge:molten/bitumen
+- emendatusenigmatica:molten_bitumen
+
+#forge:molten/ruby
+- emendatusenigmatica:molten_ruby
+
+#forge:molten_signalum
+- emendatusenigmatica:molten_signalum
+
+#forge:molten/nickel
+- emendatusenigmatica:molten_nickel
+
+#forge:molten_froststeel
+- emendatusenigmatica:molten_froststeel
+
+#forge:molten_charged_certus_quartz
+- emendatusenigmatica:molten_charged_certus_quartz
+
+#tea_kettle:teable
+- minecraft:water
+
+#forge:molten/signalum
+- emendatusenigmatica:molten_signalum
+
+#forge:molten_electrum
+- emendatusenigmatica:molten_electrum
+
+#forge:molten/emerald
+- emendatusenigmatica:molten_emerald
+
+#forge:life
+- bloodmagic:life_essence_fluid
+- bloodmagic:life_essence_fluid_flowing
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:molten/cloggrum
+- emendatusenigmatica:molten_cloggrum
+
+#forge:molten_invar
+- emendatusenigmatica:molten_invar
+
+#forge:molten/fluix
+- emendatusenigmatica:molten_fluix
+
+#forge:molten_redstone
+- emendatusenigmatica:molten_redstone
+
+#forge:molten_sapphire
+- emendatusenigmatica:molten_sapphire
+
+#forge:molten/froststeel
+- emendatusenigmatica:molten_froststeel
+
+#forge:molten_zinc
+- emendatusenigmatica:molten_zinc
+
+#forge:molten/tin
+- emendatusenigmatica:molten_tin
+
+#forge:molten/sulfur
+- emendatusenigmatica:molten_sulfur
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:honey
+- resourcefulbees:honey
+- resourcefulbees:catnip_honey
+- create:flowing_honey
+- create:honey
+- resourcefulbees:rainbow_honey_flowing
+- resourcefulbees:rainbow_honey
+
+#forge:molten/cast_iron
+- emendatusenigmatica:molten_cast_iron

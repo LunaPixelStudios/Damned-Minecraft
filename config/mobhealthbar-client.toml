@@ -1,0 +1,11 @@
+
+[general]
+
+	[general.hpbar]
+
+		#MobHealtBar
+		[general.hpbar.hpbar]
+			#Health Bar Type
+			#Range: 1 ~ 6
+			type = 1
+

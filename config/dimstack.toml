@@ -1,0 +1,37 @@
+
+#####################################################################################
+#All dimensional rifts are defined here. 
+#Each rift entry is a CSV string with very precise strict values, bad data will crash the game
+#If you get a crash, read the logs, backup/delete the config and try again
+#Read the comments, all values are documented 
+#####################################################################################
+[dimstack]
+
+	#####################################################################################
+	#Transit conduits
+	#####################################################################################
+	[dimstack.transit]
+		#
+		#Relative rifts, link similar locations in dimensions. format must be EXACT
+		# Also important: Rifts are only one way.  So you almost always want TWO entries in this list, for example linking nether and overworld has two rifts
+		# Example: The default config says from the overworld, to the nether, go DOWN below limit 8 and use the key, then you have a landing of 120 y value
+		#         item,from,to,<,limit,ratio,landing
+		# from is the dimension id where you use the key to create the portal
+		# to is the dimension id you end up on the other side of the rift
+		# < means rift is at the bottom of the dimension below limit, > means rift is at the TOP of the dimension above limit
+		# limit is the y value that must be reached to find the rift. example if you have '<30' then y smaller than 30 means rift can be activated
+		# ratio explains how the nether is an 8:1 coords size difference, most dimensions are just 1 here
+		# landing is where the other end of the portal takes you, normally if limit is small, then landing is large to end up at the top of the target dimension
+		#
+		relative = ["dimstack:nether_key,minecraft:overworld,minecraft:the_nether,<,8,0.125,120", "dimstack:overworld_key,minecraft:the_nether,minecraft:overworld,>,118,8,8", "dimstack:overworld_key,minecraft:the_end,minecraft:overworld,<,3,1,130", "dimstack:twilight_key,minecraft:the_nether,twilightforest:twilightforest,<,8,1,220", "dimstack:overworld_key,twilightforest:twilightforest,minecraft:the_nether,>,218,1,8", "dimstack:twilight_key,minecraft:overworld,twilightforest:twilightforest,<,8,1,220", "dimstack:overworld_key,twilightforest:twilightforest,minecraft:overworld,>,218,1,8", "dimstack:undergarden_key,minecraft:the_nether,undergarden:undergarden,<,8,1,220", "dimstack:nether_key,undergarden:undergarden,minecraft:the_nether,>,218,1,8", "dimstack:gaia_key,minecraft:the_nether,gaiadimension:gaia_dimension,<,8,1,220", "dimstack:nether_key,gaiadimension:gaia_dimension,minecraft:the_nether,>,218,1,8", "dimstack:lostcities_key,minecraft:the_nether,lostcities:lostcity,<,8,1,220", "dimstack:nether_key,lostcities:lostcity,minecraft:the_nether,>,218,1,8"]
+		#
+		#Absolute rifts.  Like how going to the end always puts you on the center island
+		#         item,from,to,<,limit,x,y,z  
+		# from is the dimension id where you use the key to create the portal
+		# to is the dimension id you end up on the other side of the rift
+		# < means rift is at the bottom of the dimension below limit, > means rift is at the TOP of the dimension above limit
+		# limit is the y value that must be reached to find the rift. example if you have '<30' then y smaller than 30 means rift can be activated
+		# Now just put the x,y,z values where the rift takes you in the to dimension
+		#
+		absolute = ["dimstack:end_key,minecraft:overworld,minecraft:the_end,>,200,0,20,0"]
+

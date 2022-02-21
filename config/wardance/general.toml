@@ -1,0 +1,56 @@
+
+["dual wielding"]
+	#added per request. Shield bash will not work from the offhand when this is off, and clients will not render their offhand.
+	"enable dual wielding" = true
+
+[sweep]
+	#every level of sweeping edge gives this much extra angles when using better sweep
+	#Range: > 0
+	"sweeping edge angle per level" = 40
+	#overrides vanilla sweep with a version hits all affected entities for full damage and effects and works regardless of aim, with sweeping edge determining the angle which is swept. Sweeps will be completely suppressed if you don't have the enchantment.
+	"enable better sweep" = true
+	#whether better sweep deals durability damage for each mob hit
+	"durability damage per hit mob" = false
+	#percentage of block reach used to determine sweeping radius.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"sweeping edge reach scaling" = 0.6
+	#the maximum radius for sweeping edge, if insane reach buffs aren't your thing.
+	#Range: > 0
+	"sweeping edge max reach" = 10
+	#the minimum radius for sweeping edge, so you can have it start in a smaller area.
+	#Range: > 0
+	"sweeping edge min reach" = 3
+
+[compat]
+	#whether Elenai Dodge 2 compat is enabled. This disables sidesteps and rolls, turns dodging into a safety roll when staggered, and causes dodges to reset posture cooldown
+	"enable Elenai Dodge compat" = true
+	#if compat is enabled, whether high combo multiplies feather regeneration speed
+	"feather combo" = true
+	#if compat is enabled, whether posture cooldown disables feather recharging
+	"feather posture" = true
+
+[potion]
+	#how much each level of poison multiplies posture regeneration by
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"poison posture debuff" = 0.8
+	#whether resistance also affects posture damage.
+	"resistance posture" = true
+	#when attacking an entity, a number between 0 and luck is rolled for both parties. The difference between the attacker's and defender's rolled values is multiplied by this and dealt as additional damage. If the target is more lucky... well, it might not be hurt at all.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"luck multiplier" = 1.5
+	#whether blindness will cause mobs to drop aggro
+	"mob blindness" = true
+	#how much weakness multiplies might generation rate
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"weakness might debuff" = 0.7
+	#how much posture nausea deducts per tick, for mobs only
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"nausea posture damage" = 0.05
+	#how much the hunger effect extends the posture cooldown by
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"hunger posture extension" = 1.25
+
+[general]
+	#primarily tells you how much damage was applied before and after armor. These will only appear in debug.log.
+	"enable debug messages" = false
+

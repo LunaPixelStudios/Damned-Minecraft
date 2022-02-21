@@ -1,0 +1,8 @@
+{
+  "type": "loot",
+  "rarity": "common",
+  "display": {
+    "default": "the Gunslinger",
+    "flavor": "Bullets are cooler than arrows."
+  }
+}

@@ -1,0 +1,29 @@
+
+#Ender Guardian
+[enderguardian]
+	#Ender Guardian's BodyBlocking verdict
+	"ender guardian's bodyBlocking verdict" = true
+	#Ender Guardian's block breaking Ignore the MobGriefing
+	"ender guardian's block breaking ignore the MobGriefing" = true
+
+#Netherite Monstrosity
+[netheritemonstoristy]
+	#Netherite Monstoristy's BodyBlocking verdict
+	"netherite monstrosity's bodyBlocking verdict" = true
+	#Monstorosity's damage
+	#Range: 22 ~ 30
+	"monstosity damage" = 22
+	#Magazine of Lavabomb
+	#Range: 1 ~ 360
+	"lavabomb magazine" = 3
+	#Amount of Lavabomb
+	#Range: 3 ~ 15
+	"lavabomb amount" = 3
+
+#Ender Golem
+[endergolem]
+	#Ender golem's BodyBlocking verdict
+	"ender golem's bodyBlocking verdict" = true
+	#Ender golem's block breaking Ignore the MobGriefing
+	"ender golem's block breaking ignore the MobGriefing" = false
+

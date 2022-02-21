@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"textures": [
+		"antiqueatlas:textures/gui/markers/farm.png"
+	],
+	"size": "2", 
+	"clipMin": "-1000",
+	"clipMax": "1000",
+	"alwaysShow": "false",
+	"isTile": "false",
+	"isTechnical": "false",
+	"centerX": "0.5",
+	"centerY": "0.5"
+}

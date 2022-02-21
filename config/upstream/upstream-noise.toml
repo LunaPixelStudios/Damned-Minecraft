@@ -1,0 +1,23 @@
+
+[Upstream_Noise]
+	#Maximum Noise Threshold for generation. Cannot be less than MinThreshold
+	#Range: -1000.0 ~ 1000.0
+	MaxThreshold = 5.8
+	#How frequent rivers curve.
+	#Range: -1000.0 ~ 1000.0
+	CurvingFrequency = 0.002
+	#River curving multiplier.
+	#Range: 0.0 ~ 1000.0
+	CurvingMultiplier = 0.4
+	#How spread out rivers generate.
+	#Range: -1000.0 ~ 1000.0
+	RiverSpread = 0.002
+	#Minimum Noise Threshold for generation. Cannot be greater than MaxThreshold
+	#Range: -1000.0 ~ 1000.0
+	MinThreshold = 5.591
+	#Print the lowest and highest noise values in latest.log?
+	#Useful for getting the range for Min & Max thresholds.
+	PrintLatestLog = false
+	#Generate Vanilla Rivers?
+	VanillaRivers = false
+

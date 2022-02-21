@@ -1,0 +1,11 @@
+
+["Debug Config"]
+	#List of mod ids to remove the music from so there is not any overlap
+	blockedmods = []
+	#Show the debug info
+	ShowDebugInfo = true
+	#If ShowDebugInfo is set to true, but you only want to see the song name
+	ShowJustCurSong = true
+	#Only silence blocked music when there is music from Music Triggers already playing
+	SilenceIsBad = false
+

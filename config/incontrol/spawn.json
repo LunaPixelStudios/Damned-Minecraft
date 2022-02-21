@@ -1,0 +1,48 @@
+[
+
+    {
+        "dimension": "minecraft:overworld",
+        "mob": "wyrmroost:lesser_desertwyrm",
+        "mincount": {
+          "amount": 25,
+          "hostile": true,
+          "perplayer": false
+        },
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mod": "iceandfire",
+        "mincount": {
+          "amount": 100,
+          "mod": "iceandfire",
+          "perchunk": true
+        },
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mod": "lycanitesmobs",
+        "mincount": {
+          "amount": 25,
+          "hostile": true,
+          "perplayer": true
+        },
+        "maxcount": {
+          "amount": 30,
+          "hostile": true,
+          "perplayer": true
+        },
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "lycanitesmobs:sylph",
+        "maxcount": {
+          "amount": 0,
+          "perplayer": false
+        },
+        "result": "deny"
+      }
+
+]

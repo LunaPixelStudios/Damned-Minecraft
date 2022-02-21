@@ -1,0 +1,33 @@
+#enable or disable the entire system
+"enable stabbing" = true
+#mobs start out with this FoV of full detection on the xz plane
+#Range: 0 ~ 360
+"default mob horizontal FoV" = 240
+#mobs start out with this FoV of full detection on the y axis
+#Range: 0 ~ 360
+"default mob vertical FoV" = 60
+#your stealth attribute is multiplied by this to generate a new FoV for the purpose of detection by mobs, if it is greater than the default
+#Range: 0 ~ 360
+"armor stealth debuff" = 18
+#this value is multiplied by the volume of a sound to determine how far it'll alert mobs to investigate from. Large values will GREATLY impact performance, you have been warned.
+#Range: 0.0 ~ 1.7976931348623157E308
+"alert volume multiplier" = 4.0
+#posture and health damage multiplier for distracted stabs
+#Range: 0.0 ~ 1.7976931348623157E308
+"distracted stab multiplier" = 1.5
+#posture and health damage multiplier for unaware stabs
+#Range: 0.0 ~ 1.7976931348623157E308
+"unaware stab multiplier" = 1.5
+#whether unaware stabs ignore parry, deflection, shatter, and absorption
+"unaware stab defense ignore" = true
+#Define custom detection mechanics for mobs by tagging them as one of the following: 
+#(a)ll-seeing mobs ignore LoS modifiers. 
+#(d)eaf mobs ignore sound cues and do not factor in the armor debuff assigned to darkness-induced stealth. 
+#(n)octurnal mobs ignore light level. 
+#(o)lfactory mobs ignore luck. 
+#(p)erceptive mobs ignore motion multipliers. 
+#(v)igilant mobs bypass the entire stealth and distraction system.
+"mob detection rules" = ["minecraft:bat, nv", "minecraft:bee, v", "minecraft:cat, v", "minecraft:cave_spider, n", "minecraft:chicken, v", "minecraft:cod, v", "minecraft:cow, v", "minecraft:creeper, o", "minecraft:dolphin, v", "minecraft:donkey, v", "minecraft:drowned, m", "minecraft:elder_guardian, ma", "minecraft:ender_dragon, a", "minecraft:enderman, nao", "minecraft:endermite, ", "minecraft:evoker, o", "minecraft:fox, v", "minecraft:ghast, mo", "minecraft:guardian, ma", "minecraft:horse, v", "minecraft:husk, dn", "minecraft:illusioner, mo", "minecraft:iron_golem, mao", "minecraft:llama, v", "minecraft:mooshroom, v", "minecraft:mule, v", "minecraft:ocelot, v", "minecraft:panda, v", "minecraft:parrot, v", "minecraft:phantom, na", "minecraft:pig, v", "minecraft:pillager, o", "minecraft:polar_bear, v", "minecraft:pufferfish, v", "minecraft:rabbit, v", "minecraft:salmon, v", "minecraft:sheep, v", "minecraft:shulker, a", "minecraft:silverfish, n", "minecraft:skeleton, dno", "minecraft:skeleton_horse, dnv", "minecraft:slime, d", "minecraft:snow_golem, nov", "minecraft:spider, n", "minecraft:squid, v", "minecraft:stray, dno", "minecraft:strider, v", "minecraft:trader_llama, v", "minecraft:tropical_fish, v", "minecraft:turtle, v", "minecraft:vex, v", "minecraft:villager, v", "minecraft:vindicator, o", "minecraft:wandering_trader, mov", "minecraft:wither, nv", "minecraft:wither_skeleton, dmo", "minecraft:zoglin, n", "minecraft:zombie, dn", "minecraft:zombie_horse, v", "minecraft:zombie_villager, n", "ars_nouveau:ally_vex, v", "ars_nouveau:carbuncle, v", "ars_nouveau:drygmy, v", "ars_nouveau:summon_horse, v", "ars_nouveau:summon_wolf, v", "ars_nouveau:sylph, v", "ars_nouveau:whelp, v", "ars_nouveau:wilden_guardian, ", "ars_nouveau:wilden_hunter, m", "ars_nouveau:wilden_stalker, a", "artifacts:mimic, v", "atum:assassin, v", "atum:bandit_warlord, o", "atum:barbarian, o", "atum:brigand, o", "atum:desert_wolf, o", "atum:forsaken, do", "atum:mummy, d", "atum:nomad, ao", "atum:pharaoh, ov", "atum:serval, ao", "atum:stoneguard, dm", "atum:stoneguard_friendly, dmv", "atum:stonewarden, dm", "atum:stonewarden_friendly, dv", "atum:tarantula, n", "atum:wraith, no", "charm:coral_squid, v", "charm:moobloom, v", "doggytalents:dog, v", "eidolon:necromancer, no", "eidolon:wraith, m", "eidolon:zombie_brute, d", "endergetic:bolloom_balloon, v", "endergetic:booflo, v", "endergetic:booflo_adolescent, v", "endergetic:booflo_baby, v", "endermail:ender_mailman, v", "farmingforblockheads:merchant, v", "guardvillagers:guard, o", "iceandfire:cockatrice, ao", "iceandfire:deathworm, na", "iceandfire:dread_beast, no", "iceandfire:dread_ghoul, dn", "iceandfire:dread_horse, n", "iceandfire:dread_knight, no", "iceandfire:dread_lich, no", "iceandfire:dread_scuttler, no", "iceandfire:dread_thrall, do", "iceandfire:fire_dragon, o", "iceandfire:ghost, n", "iceandfire:gorgon, mao", "iceandfire:hippocampus, ov", "iceandfire:hippogryph, o", "iceandfire:hydra, o", "iceandfire:ice_dragon, o", "iceandfire:lightning_dragon, o", "iceandfire:myrmex_queen, m", "iceandfire:myrmex_royal, m", "iceandfire:myrmex_sentinel, m", "iceandfire:myrmex_soldier, m", "iceandfire:myrmex_swarmer, m", "iceandfire:myrmex_worker, m", "iceandfire:pixie, o", "iceandfire:sea_serpent, m", "iceandfire:troll, n", "inventorypets:anvil_pet_entity, v", "inventorypets:bed_pet_entity, v", "inventorypets:bill_gates_entity, v", "inventorypets:mini_quantum_blaze_entity, v", "inventorypets:mini_quantum_enderman_entity, v", "inventorypets:satya_nadella_entity, v", "inventorypets:siamese_entity, v", "inventorypets:steve_ballmer_entity, v", "losttrinkets:dark_vex, v", "majruszs_difficulty:creeperling, o", "majruszs_difficulty:elite_skeleton, dna", "majruszs_difficulty:pillager_wolf, a", "majruszs_difficulty:sky_keeper, a", "meetyourfight:bellringer, v", "meetyourfight:dame_fortuna, v", "meetyourfight:swampjaw, v", "mowziesmobs:barako, v", "mowziesmobs:barakoan_player, v", "mowziesmobs:ferrous_wroughtnaut, v", "mowziesmobs:foliaath, av", "mowziesmobs:frostmaw, o", "mowziesmobs:grottol, naov", "mowziesmobs:lantern, v", "mowziesmobs:naga, a", "mutantbeasts:creeper_minion, v", "mutantbeasts:endersoul_clone, v", "mutantbeasts:mutant_enderman, mao", "mutantbeasts:mutant_skeleton, dmo", "mutantbeasts:mutant_snow_golem, v", "mutantbeasts:mutant_zombie, n", "mutantbeasts:spider_pig, m", "mysticalworld:beetle, v", "mysticalworld:deer, v", "mysticalworld:endermini, nao", "mysticalworld:frog, v", "mysticalworld:hell_sprout, v", "mysticalworld:lava_cat, v", "mysticalworld:owl, v", "mysticalworld:silkworm, v", "mysticalworld:silver_fox, v", "mysticalworld:sprout, v", "outer_end:chorus_squid, v", "outer_end:entombed, no", "outer_end:purpur_golem, mo", "outer_end:spectrafly, v", "outer_end:stalker, n", "quark:crab, v", "quark:forgotten, dnao", "quark:foxhound, o", "quark:frog, v", "quark:shiba, v", "quark:stoneling, v", "quark:toretoise, n", "quark:wraith, n", "quark:wrapped, d", "switchbow:entitylittleirongolem, av", "villagertools:guard, o", "villagertools:reinforced_golem, ma"]
+#whether invisibility will be removed on attack
+"attacking dispels invisibility" = true
+

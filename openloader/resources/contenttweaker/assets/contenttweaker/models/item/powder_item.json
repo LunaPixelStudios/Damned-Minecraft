@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "contenttweaker:item/powder_base",
+    "layer1": "contenttweaker:item/powder"
+  }
+}

@@ -1,0 +1,140 @@
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                            BO3 object                           | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Author: LordSmellyPants
+
+Description: No description given
+
+Version: 3
+
+SettingsMode: WriteWithoutComments
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                          Main settings                          | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Tree: true
+
+Frequency: 1
+
+Rarity: 0.05
+
+MaxSpawn: 0
+
+RotateRandomly: true
+
+SpawnHeight: highestSolidBlock
+
+SpawnHeightOffset: 0
+
+SpawnHeightVariance: 0
+
+##############################
+# Height Limits for the BO3. #
+##############################
+
+MinHeight: 62
+
+MaxHeight: 70
+
+######################
+# Extrusion settings #
+######################
+
+ExtrudeMode: None
+
+ExtrudeThroughBlocks: otg:air
+
+MaxBranchDepth: 10
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                      Source block settings                      | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+SourceBlocks: otg:dirt,minecraft:sand,otg:stained_clay,otg:sandstone,otg:air,otg:stone,otg:long_grass,minecraft:granite,minecraft:diorite,minecraft:andesite,minecraft:coarse_dirt,minecraft:grass_block,minecraft:podzol,minecraft:water,minecraft:terracotta,minecraft:clay,minecraft:red_sand,minecraft:gravel,minecraft:grass,minecraft:fern,minecraft:dead_bush,minecraft:dandelion,minecraft:poppy,minecraft:brown_mushroom,minecraft:red_mushroom
+
+MaxPercentageOutsideSourceBlock: 0
+
+OutsideSourceBlock: placeAnyway
+
+DoReplaceBlocks: true
+
+IsOTGPlus: false
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                              Blocks                             | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+B(-1,-1,0,minecraft:oak_log[axis=x])
+B(-1,0,0,minecraft:vine[east=false,north=false,south=true,up=false,west=false])
+B(-1,0,1,minecraft:oak_log[axis=x])
+B(-1,1,1,minecraft:vine[east=false,north=true,south=false,up=false,west=false])
+B(-1,2,0,minecraft:oak_log[axis=x])
+B(-1,2,1,minecraft:vine[east=false,north=true,south=false,up=false,west=false])
+B(0,-1,-1,minecraft:oak_log[axis=x])
+B(0,-1,0,minecraft:grass_block)
+B(0,0,-2,minecraft:oak_log[axis=x])
+B(0,0,-1,minecraft:vine[east=false,north=true,south=false,up=false,west=false])
+B(0,0,0,minecraft:vine[east=false,north=false,south=true,up=false,west=false])
+B(0,0,1,minecraft:oak_log[axis=x])
+B(0,1,0,minecraft:vine[east=false,north=false,south=true,up=false,west=false])
+B(0,1,1,minecraft:oak_log[axis=x])
+B(0,2,-1,minecraft:oak_log[axis=x])
+B(0,2,0,minecraft:oak_log[axis=x])
+B(1,-1,-1,minecraft:podzol)
+B(1,-1,0,minecraft:oak_log[axis=x])
+B(1,0,-2,minecraft:oak_log[axis=x])
+B(1,0,1,minecraft:oak_log[axis=x])
+B(1,1,-2,minecraft:oak_log[axis=x])
+B(1,1,1,minecraft:oak_log[axis=x])
+B(1,2,-1,minecraft:oak_log[axis=x])
+B(1,2,0,minecraft:oak_log[axis=x])
+B(2,-1,-1,minecraft:podzol)
+B(2,-1,0,minecraft:oak_log[axis=x])
+B(2,0,-2,minecraft:oak_log[axis=x])
+B(2,1,-2,minecraft:oak_log[axis=x])
+B(2,1,1,minecraft:oak_log[axis=x])
+B(2,2,-1,minecraft:oak_log[axis=x])
+B(2,2,0,minecraft:oak_log[axis=x])
+B(2,2,1,minecraft:vine[east=false,north=true,south=false,up=false,west=false])
+B(3,-1,-1,minecraft:oak_log[axis=x])
+B(3,0,-2,minecraft:oak_log[axis=x])
+B(3,0,-1,minecraft:vine[east=false,north=false,south=false,up=false,west=true])
+B(3,1,-1,minecraft:vine[east=false,north=false,south=false,up=false,west=true])
+B(3,2,-1,minecraft:vine[east=false,north=false,south=false,up=false,west=true])
+B(3,2,0,minecraft:oak_log[axis=x])
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                            BO3 checks                           | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+BlockCheck(0,-1,0,otg:dirt,minecraft:grass_block,minecraft:podzol)
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             Branches                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             Entities                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+

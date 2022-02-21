@@ -1,0 +1,21 @@
+{
+  "attacksPerSecond": 1.0,
+  "guid": "charm",
+  "level_range": {
+    "start": 0.0,
+    "end": 1.0
+  },
+  "gear_slot": "charm",
+  "weight": 1000,
+  "weapon_offhand_stat_util": 0,
+  "style": "melee",
+  "implicit_stats": [],
+  "base_stats": [],
+  "weapon_type": "none",
+  "tags": {
+    "tags": [
+      "charm",
+      "jewelry_family"
+    ]
+  }
+}

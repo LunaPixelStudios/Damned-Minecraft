@@ -1,0 +1,65 @@
+{
+	id: "5EFFFE14704A3AF1"
+	group: "75B5EF683272C3D8"
+	order_index: 0
+	filename: "bestiary"
+	title: "Bestiary"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Weird brown reptile."
+			x: -57.0d
+			y: -17.0d
+			description: ["These strange looking dinosaurs seem to be everywhere. Maybe someone in the village may know something if i bring them an object from the surroundings, like a poppy. Probably going to need some paper to note down their information, too."]
+			id: "7134839D3910265E"
+			tasks: [{
+				id: "3AC9DD6877D32499"
+				type: "observation"
+				timer: 0L
+				observe_type: 5
+				to_observe: "lycanitesmobs:maka"
+			}]
+		}
+		{
+			tags: ["codex"]
+			x: -54.5d
+			y: -17.0d
+			description: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sem nisi, sagittis id dolor vel, interdum consequat turpis. Cras a malesuada erat. Nam eleifend est et nisl vestibulum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dolor nulla, molestie a nulla vel, tincidunt semper nunc. Proin purus metus, iaculis quis nisl ut, mollis mollis leo. Fusce tempor hendrerit metus, in molestie nisi commodo quis. Interdum et malesuada fames ac ante ipsum primis in faucibus."]
+			dependencies: ["0EDCB58CAF455C79"]
+			hide: true
+			hide_text_until_complete: true
+			id: "5148FF6A39A80F02"
+			tasks: [{
+				id: "1655EF4FBF28C58C"
+				type: "item"
+				icon: "mmorpg:scroll/paper"
+				item: {
+					id: "itemfilters:and"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "minecraft:paper"
+								Count: 1b
+							}
+							{
+								id: "itemfilters:strong_nbt"
+								Count: 1b
+								tag: {
+									value: {
+										display: {
+											Lore: ["[{\"text\":\"Maka, Common Knowledge\",\"italic\":false,\"color\":\"white\"}]"]
+											Name: "[{\"text\":\"Codex Entry\",\"italic\":false,\"color\":\"gold\"}]"
+										}
+									}
+								}
+							}
+						]
+					}
+				}
+				consume_items: false
+			}]
+		}
+	]
+}

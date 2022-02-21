@@ -1,0 +1,41 @@
+#Ticks after a hit for which shatter will not be replenished
+#Range: > 1
+"shatter cooldown" = 200
+#Number of ticks after gaining might during which it will not decrease
+#Range: > 1
+"might grace period" = 100
+#Number of ticks after gaining combo during which it will not decrease
+#Range: > 1
+"combo grace period" = 100
+#Number of ticks after consuming spirit during which it will not regenerate
+#Range: > 1
+"spirit cooldown" = 60
+#Number of ticks after consuming posture during which it will not regenerate
+#Range: > 1
+"posture cooldown" = 20
+#Number of ticks full diamond armor will add onto posture cooldown. This will scale linearly between nothing and diamond, so by default iron adds 15 ticks, for instance.
+#Range: > 1
+"armor posture cooldown" = 20
+#this percentage of incoming damage before armor is also added to wounding
+#Range: 0.0 ~ 1.0
+"wound percentage" = 0.1
+#this percentage of posture damage is also added to fatigue
+#Range: 0.0 ~ 1.0
+"fatigue percentage" = 0.1
+#this percentage of stamina use is also added to burnout
+#Range: 0.0 ~ 1.0
+"burnout percentage" = 0.05
+#whether sleeping clears wounding, fatigue, and burnout. Forced will make the act of lying on a bed, rather than waking up, the trigger, so change it to forced if it doesn't work.
+#Allowed Values: TRUE, FALSE, FORCED
+"sleeping heals decay" = "TRUE"
+#Here you can define custom max posture for mobs. Armor adds to this independently.
+"custom mob posture" = ["example:dragon, 100", "example:ghast, 8"]
+#damage sources added to this list will either not inflict wounding or be the only ones that inflict wounding, depending on whitelist mode
+"damage source list" = ["magic", "indirectmagic", "survivaloverhaul.electrocution", "survivaloverhaul.hypothermia", "survivaloverhaul.hyperthermia", "inWall", "drown", "starve"]
+#whether the wounding list is a whitelist or a blacklist
+"damage source whitelist mode" = false
+#entities that are not (or are the only ones, depending on whitelist mode) susceptible to wounding, fatigue, and burnout. Save your pets!
+"decay list" = ["ars_nouveau:whelp", "ars_nouveau:drygmy", "ars_nouveau:carbuncle", "ars_nouveau:wixie", "ars_nouveau:sylph", "atum:camel", "atum:desert_wolf", "atum:pharaoh", "atum:stoneguard_friendly", "doggytalents:dog", "endermail:ender_mailman", "iceandfire:amphithere", "iceandfire:cockatrice", "iceandfire:fire_dragon", "iceandfire:hippocampus", "iceandfire:hippogryph", "iceandfire:ice_dragon", "iceandfire:lightning_dragon", "minecraft:cat", "minecraft:ender_dragon", "minecraft:fox", "minecraft:horse", "minecraft:llama", "minecraft:mule", "minecraft:ocelot", "minecraft:parrot", "minecraft:strider", "minecraft:trader_llama", "minecraft:wolf", "mowziesmobs:grottol", "mutantbeasts:creeper_minion", "mutantbeasts:mutant_snow_golem", "mysticalworld:lava_cat", "mysticalworld:silver_fox", "quark:shiba", "securitycraft:securitycamera", "securitycraft:sentry", "villagertools:guard", "villagertools:reinforced_golem", "minecraft:villager", "guardvillagers:guard"]
+#whether the decay list is a whitelist or a blacklist
+"decay whitelist mode" = false
+

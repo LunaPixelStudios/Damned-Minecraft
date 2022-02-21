@@ -1,0 +1,8 @@
+{
+  "type": "loot",
+  "rarity": "common",
+  "display": {
+    "default": "the Engineer",
+    "flavor": "Machines are better friends than people."
+  }
+}

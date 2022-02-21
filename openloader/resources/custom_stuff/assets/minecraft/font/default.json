@@ -1,0 +1,144 @@
+{
+     "providers": [
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/legendary.png",
+                "ascent":7,
+                "height":7,
+                "chars":["ꑵ"]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/dev.png",
+                "ascent":7,
+                "height":7,
+                "chars":["ꐃ"]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/spellworking.png",
+                "ascent":7,
+                "height":7,
+                "chars":["ꑔ"]
+        },
+        {
+                "type":"bitmap",
+                "file": "custom/ui/archer.png",
+                "ascent": 7,
+                "height": 7,
+                "chars":[""]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/lunapixel.png",
+                "ascent":7,
+                "height":7,
+                "chars":["ꑩ"]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/mythic.png",
+                "ascent":7,
+                "height":7,
+                "chars":[""]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/new.png",
+                "ascent":7,
+                "height":7,
+                "chars":["ꌭ"]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/epic.png",
+                "ascent":7,
+                "height":7,
+                "chars":["ꈁ"]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/rare.png",
+                "ascent":7,
+                "height":7,
+                "chars":[""]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/uncommon.png",
+                "ascent":7,
+                "height":7,
+                "chars":[""]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/common.png",
+                "ascent":7,
+                "height":7,
+                "chars":[""]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/adventurer.png",
+                "ascent":7,
+                "height":7,
+                "chars":[""]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/exotic.png",
+                "ascent":7,
+                "height":7,
+                "chars":[""]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/ancient.png",
+                "ascent":7,
+                "height":7,
+                "chars":[""]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/healing.png",
+                "ascent":7,
+                "height":7,
+                "chars":[""]
+        },
+        {
+                "type":"bitmap",
+                "file":"custom/ui/rarities/trophy.png",
+                "ascent":7,
+                "height":7,
+                "chars":[""]
+        },
+       {
+         "type":"bitmap",
+         "file": "custom/emojis/villagerface.png",
+         "ascent": 7,
+         "height": 7,
+         "chars": [""]
+       },
+       {
+         "type":"bitmap",
+         "file":"custom/ui/dialogue/villagerfacelarge.png",
+         "ascent":2,
+         "height":40,
+         "chars":["ꍶ"]
+       },
+       {
+         "type": "bitmap",
+         "file": "custom/ui/dialogue/dialogueblank.png",
+         "ascent": 7,
+         "height": 24,
+         "chars": [""]
+       },
+       {
+         "type": "bitmap",
+         "file": "custom/ui/dialogue/speechbubble.png",
+         "ascent": 7,
+         "height": 7,
+         "chars": [""]
+       }
+]
+}

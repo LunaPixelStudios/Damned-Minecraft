@@ -1,0 +1,67 @@
+{
+  "schema_version": 2,
+  "entries": [
+    {
+      "blocks": "minecraft:lily_pad",
+      "power_req": 1.0,
+      "power_red": 1.0
+    },
+    {
+      "blocks": [
+        "minecraft:cocoa",
+        "minecraft:melon_stem",
+        "minecraft:attached_melon_stem",
+        "minecraft:pumpkin_stem",
+        "minecraft:attached_pumpkin_stem",
+        "minecraft:sea_pickle",
+        "minecraft:turtle_egg",
+        "minecraft:torch",
+        "minecraft:wall_torch",
+        "minecraft:redstone_torch",
+        "minecraft:redstone_wall_torch",
+        "minecraft:soul_torch",
+        "minecraft:soul_wall_torch"
+      ],
+      "power_req": 1.5,
+      "power_red": 1.5
+    },
+    {
+      "blocks": [
+        "minecraft:bamboo",
+        "minecraft:end_rod",
+        "minecraft:lantern",
+        "minecraft:soul_lantern",
+        "minecraft:tripwire_hook"
+      ],
+      "tags": [
+        "minecraft:flower_pots",
+        "forge:glass_panes"
+      ],
+      "power_req": 2.0,
+      "power_red": 2.0
+    },
+    {
+      "blocks": [
+        "minecraft:melon",
+        "minecraft:pumpkin",
+        "minecraft:carved_pumpkin",
+        "minecraft:ice",
+        "minecraft:frosted_ice",
+        "minecraft:glowstone"
+      ],
+      "tags": "forge:glass",
+      "power_req": 3.15,
+      "power_red": 3.15
+    },
+    {
+      "blocks": "minecraft:packed_ice",
+      "power_req": 4.0,
+      "power_red": 4.0
+    },
+    {
+      "blocks": "minecraft:blue_ice",
+      "power_req": 5.0,
+      "power_red": 5.0
+    }
+  ]
+}

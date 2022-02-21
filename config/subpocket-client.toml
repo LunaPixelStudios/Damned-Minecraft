@@ -1,0 +1,3 @@
+#Disable the pixel picking of items? (alt-mode always on)
+disable_pixel_picking = false
+

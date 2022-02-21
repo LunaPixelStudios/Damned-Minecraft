@@ -1,0 +1,8 @@
+{
+  "type": "loot",
+  "rarity": "common",
+  "display": {
+    "default": "the Slayer",
+    "flavor": "All things must die, eventually."
+  }
+}

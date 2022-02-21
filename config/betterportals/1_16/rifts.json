@@ -1,0 +1,79 @@
+{
+  "variants": [
+    {
+      "blockSelector": {
+        "entries": {
+          "minecraft:netherrack": 0.7,
+          "minecraft:crying_obsidian": 0.05,
+          "minecraft:blackstone": 0.1,
+          "minecraft:gilded_blackstone": 0.05,
+          "minecraft:obsidian": 0.1
+        },
+        "defaultBlock": "minecraft:cave_air"
+      },
+      "fluidColor": {
+        "red": "19",
+        "green": "00",
+        "blue": "20",
+        "alpha": "FC"
+      },
+      "minY": 10,
+      "maxY": 15,
+      "playerTeleportedMinY": 100,
+      "playerTeleportedMaxY": 120,
+      "spawnChance": 0.05,
+      "spawnDimension": "minecraft:overworld",
+      "targetDimension": "minecraft:the_nether",
+      "spawnPlatformBlock": "minecraft:netherrack"
+    },
+    {
+      "blockSelector": {
+        "entries": {
+          "blue_skies:cinderstone": 0.05,
+          "blue_skies:umber": 0.7,
+          "blue_skies:lunar_cobblestone": 0.1
+        },
+        "defaultBlock": "minecraft:cave_air"
+      },
+      "fluidColor": {
+        "red": "59",
+        "green": "F0",
+        "blue": "C5",
+        "alpha": "FF"
+      },
+      "minY": 50,
+      "maxY": 60,
+      "playerTeleportedMinY": 60,
+      "playerTeleportedMaxY": 65,
+      "spawnChance": 0.05,
+      "spawnDimension": "minecraft:the_nether",
+      "targetDimension": "blue_skies:everdawn",
+      "spawnPlatformBlock": "blue_skies:lunar_grass_block"
+    },
+    {
+      "blockSelector": {
+        "entries": {
+          "blue_skies:turquoise_grass_block": 0.07,
+          "blue_skies:turquoise_dirt": 0.5,
+          "blue_skies:coarse_turquoise_dirt": 0.1
+        },
+        "defaultBlock": "minecraft:cave_air"
+      },
+      "fluidColor": {
+        "red": "00",
+        "green": "F0",
+        "blue": "FB",
+        "alpha": "FF"
+      },
+      "minY": 60,
+      "maxY": 90,
+      "playerTeleportedMinY": 60,
+      "playerTeleportedMaxY": 65,
+      "spawnChance": 0.05,
+      "spawnDimension": "blue_skies:everdawn",
+      "targetDimension": "blue_skies:everbright",
+      "spawnPlatformBlock": "blue_skies:turquoise_grass_block"
+    }
+  ]
+
+}

@@ -1,0 +1,9 @@
+Registry Config
+
+	Music Discs
+	Register=true
+
+	Client Side Only
+	If this is set to true, Music Disc registration will automatically be set to false
+	The following will not work: Structure trigger, Biome Trigger on servers, Mob Trigger targetting parameter
+	Client Side=false

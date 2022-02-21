@@ -1,0 +1,233 @@
+-----------------------------
+Mod ID, Mod name, Mod version
+-----------------------------
+abnormals_core, Abnormals Core, 3.3.1
+adaptive_performance_tweaks, APTweaks, 2.0.0
+advancedcompass, Advanced Compass, 1.2.5
+advancementplaques, Advancement Plaques, 1.4.1
+alexsmobs, Alex's Mobs, 1.12.1
+ambientenvironment, Ambient Environment, 5.0.0.11
+anti_mob_farm, Anti Mob Farm, NONE
+antiqueatlas, Antique Atlas, 6.0.1-forge-mc1.16.5
+apotheosis, Apotheosis, 4.8.4
+aquaculture, Aquaculture 2, 1.16.5-2.1.21
+architectury, Architectury, 1.29.51
+armorcurve, Armor Curve, 2.4
+artifacts, Artifacts, 1.16.5-2.10.4
+atlantis, Atlantis, 1.1.1.0-1.16.5
+attributefix, AttributeFix, 10.1.3
+atum, Atum 2, 1.16.5-2.2.10
+autoreglib, AutoRegLib, 1.6-49
+ba_bt, Brass Amber BattleTowers, 1.16.5-1.5.10
+babel, Babel, 1.0.5
+betteradvancements, Better Advancements, 0.1.1.115
+betteranimationscollection, Better Animations Collection, 1.2.4
+betterdungeons, YUNG's Better Dungeons, 1.16.4-1.2.1
+betterendforge, BetterEnd Forge, 1.16.5-2.5
+betterhurttimer, Better Hurt Timer, 1.16.3-4.5.2.3
+bettermineshafts, YUNG's Better Mineshafts, 1.16.4-2.0.4
+bettersmithing, Better Smithing, 1.2.2
+betterstrongholds, YUNG's Better Strongholds, 1.16.4-1.2.1
+betterthirdperson, Better Third Person, 1.5.1
+bigbrain, Big Brain, 1.2.4
+biomesoplenty, Biomes O' Plenty, 1.16.5-13.1.0.477
+blame, Blame!, 1.16.5-3.7.0-forge
+blockcarpentry, BlockCarpentry, 1.16-0.4.0
+blur, Blur, 1.1.0-1
+bookshelf, Bookshelf, 10.4.31
+bountifulbaubles, Bountiful Baubles, 1.16.5-0.1.0
+bwncr, Bad Wither No Cookie Reloaded, 1.16.5-3.10.16
+byg, Oh The Biomes You'll Go, 1.3.4
+caelus, Caelus API, 1.16.5-2.1.3.2
+cataclysm, Cataclysm Mod, 1.0
+cavebiomeapi, CaveBiomeAPI, 1.16.5-1.4.2
+cavesandcliffs, Caves and Cliffs Backport, 1.16.5-7.2.0
+cb_microblock, CBMicroblock, 3.0.4.123
+cb_multipart, CBMultipart, 3.0.4.123
+cb_multipart_minecraft, CBMultipart Minecraft, 3.0.4.123
+cfm, MrCrayfish's Furniture Mod, 7.0.0-pre22
+chunksavingfix, Chunk Saving Fix, 0.1.0
+citadel, Citadel, 1.8.1
+clienttweaks, Client Tweaks, 5.3.0
+cloth-config, Cloth Config v4 API, 4.14.54
+cobbler, Shulkers Faithful Factories, 1.6.1
+codechickenlib, CodeChicken Lib, 4.0.6.443
+collective, Collective, 4.0
+connectivity, Connectivity Mod, 2.4-1.16.5
+controlling, Controlling, 7.0.0.28
+coroutil, CoroUtil, 1.16.5-1.2.37
+corpse, Corpse, 1.16.5-1.0.6
+craftandhunt, Craft and Hunt, 2.3.0
+crafttweaker, CraftTweaker, 7.1.2.493
+create, Create, v0.3.2g
+createtweaker, CreateTweaker, 1.0.0.26
+creativecore, CreativeCore, 2.0.0
+culinaryconstruct, Culinary Construct, 1.16.5-4.0.0.7
+curios, Curios API, 1.16.5-4.0.8.0
+curiosquarkobp, Curios Quark Oddities Backpack, 1.0.2
+curiouselytra, Curious Elytra, 1.16.5-4.0.2.4
+cursed, Cursed, 7.1.3
+cursery, Cursery Mod, 2.7-1.16.5
+damnedminecrafttweaks, Damned Minecraft Tweaks, 1.16.5-1.0.154
+danceandslash, Dance and Slash, 1.0-SNAPSHOT
+dannys_expansion, Danny's Expansion, 1.0.9
+defaultoptions, Default Options, 12.2.1
+dimdungeons, Dimensional Dungeons, 1.16.4-1.13.1
+divine_missions, Divine Missions, NONE
+doom, Doom Mod, 4.0.34
+doubledoors, Double Doors, 3.1
+drippyloadingscreen, Drippy Loading Screen, 1.5.1
+dsurround, §3ImmersiveFX, 4.0.5.0
+dungeons_arise, When Dungeons Arise, 2.1.47
+dungeons_gear, Dungeons Gear, 1.16.5-3.1.2-beta
+dungeons_libraries, Dungeons Libraries, 1.16.5-0.0.3-beta
+dungeons_mobs, Dungeons Mobs, 1.16.5-2.0.1-beta
+emendatusenigmatica, Emendatus Enigmatica, 1.16.5-1.2.15
+enchdesc, EnchantmentDescriptions, 7.0.18
+endergetic, The Endergetic Expansion, 3.0.0
+enigmaticlegacy, Enigmatic Legacy, 2.11.11
+environs, §3ImmersiveFX: §eEnvirons, 4.0.5.0
+equipmentcompare, Equipment Compare, 1.2.7
+exhaustedstamina, Exhausted Stamina, 1.3
+expandability, ExpandAbility, 2.0.1
+fancymenu, FancyMenu, 2.6.1
+farmersdelight, Farmer's Delight, 1.16.5-0.5.4
+farmersdelightintegration, Farmer's Delight Integration, 1.16.5-1.0.3
+farmersdelightintegrations, Farmer's Delight Compats, 1.16.5-1.2
+farmersrespite, Farmer's Respite, 1.16.5-1.1
+farsight_view, Farsight mod, 1.7
+fastbench, Fast Workbench, 4.6.1
+ferritecore, Ferrite Core, 2.1.0
+firenblood, Fire N' Blood, 1.16.5 - 1.5.2
+fishingoverhaul, Fishing Overhaul, 1.16.5-1.0.2
+flowingagony, MarbleGate's Exotic Enchantment: Flowing Agony, 1.16.5-1.0.6
+flywheel, Flywheel, 1.16-0.2.5
+forbidden_arcanus, Forbidden & Arcanus, 16.2.3
+forge, Forge, 36.2.22
+fpsreducer, FPS Reducer, 1.24-mc1.16.5
+ftbessentials, FTB Essentials, 1605.1.5-build.32
+ftblibrary, FTB Library, 1605.3.4-build.90
+ftbquests, FTB Quests, 1605.3.6-build.76
+ftbteams, FTB Teams, 1605.2.3-build.40
+geckolib3, GeckoLib, 3.0.65
+goblins, goblins, 1.0.0
+greekfantasy, Greek Fantasy, 16.5.3
+hardcore_torches, Hardcore Torches, 1.1
+hats, Hats, 10.3.3
+hexerei, Hexerei, 0.1.4
+highlighter, Highlighter, 1.1.1
+horse_colors, Realistic Horse Genetics, 1.16.5-1.6.1.1
+horse_tack, Horse Tack, 4.0
+iceandfire, Ice and Fire, 2.1.9-1.16.5
+iceberg, Iceberg, 1.0.38
+ichunutil, iChunUtil, 10.5.1
+iknowwhatimdoing, I Know What I'm Doing, 3.2.0
+immersivefx, ImmersiveFX: SpecialFX, 1.0.0
+incontrol, InControl, 1.16-5.2.2
+infernalexp, Infernal Expansion, 2.4.0
+inventorio, Inventorio, 1.6.1
+invtweaks, Inventory Tweaks Renewed, 1.16.4-1.0.1
+irregularchef, The Irregular Chef, 1.16.5-1.0.1
+itemfilters, Item Filters, 1605.2.5-build.9
+itemphysic, ItemPhysic, 1.6.0
+jeed, Just Enough Effect Descriptions, 1.16.5-1.6
+jei, Just Enough Items, 7.7.1.145
+jeitweaker, JEI Tweaker, 1.1.0.49
+jeresources, Just Enough Resources, 0.12.1.133
+kaleido, Kaleido, 2.7.0
+kiwi, Kiwi, 3.6.1
+konkrete, Konkrete, 1.3.3
+kotlin_libraries, Kotlin Libraries, 1.0-6
+kubejs, KubeJS, 1605.3.19-build.289
+legendarytooltips, Legendary Tooltips, 1.1.6
+library_of_exile, Library Of Exile, NONE
+libraryferret, Library ferret, 1.0.3
+libx, LibX, 1.16.3-1.0.76
+loadmyresources, Load My Resources, 1.0.1
+lootbeams, LootBeams, 1.16.5
+lycanitesmobs, Lycanites Mobs, 1.16.5-2.3.3.3
+merchantmarkers, Merchant Markers, 1.1.1
+mgui, mgui, 3.3.0
+minecraft, Minecraft, 1.16.5
+minemention, Minemention, 1.16.4-0.1.10
+mmorpg, Mine and Slash, NONE
+mobeffects, §3ImmersiveFXs: §eMob Effects, 4.0.5.0
+mobhealthbar, YDM's Mob Health Bar, 1.0
+monetamoney, Moneta Money, 1.16.5-1.2.4
+mousetweaks, Mouse Tweaks, 2.14
+mowziesmobs, Mowzie's Mobs, 1.5.22
+musictriggers, Music Triggers, 1.16.5-4.1
+mutantbeasts, Mutant Beasts, 1.16.4-1.1.3
+mutantmore, Mutant More, 1.0.3
+ogres, ogres, 1.0.0
+openloader, OpenLoader, 9.0.3
+otg, Open Terrain Generator, 1.16.5-0.1.10
+outer_end, The Outer End, 0.2.9
+pandoras_creatures, Pandoras Creatures, 1.16.3-2.0.1
+patchouli, Patchouli, 1.16.4-53.2
+physicsmod, Physics Mod, 2.6.7
+ping, Ping, 1.16.4-1.6.9
+placebo, Placebo, 4.6.1
+playerrevive, PlayerRevive, 2.0.0
+polymorph, Polymorph, 1.16.5-0.39
+powershot, Powershot, 1.4.0-1.16.3-forge
+puzzleslib, Puzzles Lib, 1.0.15
+quark, Quark, r2.4-322
+quarkoddities, Quark Oddities, 1.16.3
+repurposed_structures, Repurposed Structures, 3.4.7+1.16.5
+rhino, Rhino, 1605.1.5-build.75
+seals, Seals, 2.1.2
+selene, Selene, 1.16.5-1.0
+sf, Spawner Fix, 1.0.0.2
+shouldersurfing, Shoulder Surfing, 1.16.5-2.2.1
+shrines, Shrines, 1.16.5-2.1.0-build2
+shutupexperimentalsettings, Shutup Experimental Settings!, 1.0.3
+simplystacked, Simply Stacked Dimensions, 1.16.5
+smallships, Small Ships Mod, 1.10.3
+smooth-scrolling-everywhere, Smooth Scrolling Everywhere, 1.4
+sndctrl, §3ImmersiveFX: §eSound Control, 4.0.5.0
+somnia, Somnia Awoken, 1.16.5-2.1.3
+sophisticatedbackpacks, Sophisticated Backpacks, 1.16.5-3.15.7.531
+spark, spark, 1.6.0
+spartanshields, Spartan Shields, 2.1.2
+spartanweaponry, Spartan Weaponry, 2.1.0 beta 4
+spiderstpo, Spiders 2.0, 1.0.4
+starlight, Starlight, 1.0.0-RC2
+starterkit, Starter Kit, 3.1
+storagedrawers, Storage Drawers, 8.5.1
+structurize, Structurize, 1.16.5-1.0.343-RELEASE
+subpocket, subpocket, 1.16-6.0.0.3
+subwild, Subterranean Wilderness, 1.3.1
+sulfuric, Sulfuric, 1.0
+supplementaries, Supplementaries, 0.18.2
+taterzens, Taterzens, 1.1.0
+tellme, TellMe, 0.9.1
+tenshilib, TenshiLib, 1.16.3-1.3.0
+tetra, Tetra, 3.20.0
+tetranomicon, Tetranomicon, 1.3
+theabyss, TheAbyss, 2.2.3-1
+titles, Titles, 1.16.5-3.3.0
+torohealth, ToroHealth, NONE
+travelerstitles, Traveler's Titles, 1.16.4-1.5
+treechop, HT's TreeChop, 0.14.6
+trolls, trolls, 1.0.0
+tropicraft, Tropicraft, 9.2.0-release+90
+twoplayersonehorse, 2 players 1 horse, 1.16.4-2.0.2
+untamedwilds, Untamed Wilds, 1.4.1
+upstream, Upstream, 1.0
+valhelsia_core, Valhelsia Core, 16.0.15
+vanillavistas, Vanilla Vistas, 1.0
+varietycreatures, varietycreatures, 1.0.0
+wardance, Project: War Dance, 0.7.4.0
+wayfarer, Wayfarer, 1.0
+waystones, Waystones, 7.6.4
+wild_update_unofficial, Wild Update Unofficial, 1.1
+world_of_exile, Dungeons of Exile, NONE
+worldshape, Worldshape, 1.0
+wyrmroost, Wyrmroost, 1.16.3-1.2.11
+wyrmroostspawncontrol, Wyrmroost Spawn Control, 0.1.2
+yungsapi, YUNG's API, 1.16.4-Forge-13
+zensummoning, Zen Summoning, 1.3.6
+-----------------------------
+Mod ID, Mod name, Mod version
+-----------------------------

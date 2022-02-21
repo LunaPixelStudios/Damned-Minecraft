@@ -1,0 +1,336 @@
+-----------------------------------------------------------------------------
+Mod name, Registry name, Potion Name, ID, Liquid color, Is bad, Is beneficial
+-----------------------------------------------------------------------------
+Alex's Mobs, alexsmobs:bug_pheromones, alexsmobs.potion.bug_pheromones, 233, 0x0078464B (   7882315), false, true
+Alex's Mobs, alexsmobs:clinging, alexsmobs.potion.clinging, 235, 0x00BD4B4B (  12405579), false, true
+Alex's Mobs, alexsmobs:debilitating_sting, alexsmobs.potion.debilitating_sting, 239, 0x00FFF385 (  16774021), false, false
+Alex's Mobs, alexsmobs:ender_flu, alexsmobs.potion.ender_flu, 236, 0x006836AA (   6829738), true, false
+Alex's Mobs, alexsmobs:exsanguination, alexsmobs.potion.exsanguination, 240, 0x00ED5151 (  15552849), true, false
+Alex's Mobs, alexsmobs:fear, alexsmobs.potion.fear, 237, 0x007474F7 (   7632119), false, false
+Alex's Mobs, alexsmobs:knockback_resistance, alexsmobs.potion.knockback_resistance, 226, 0x00865337 (   8803127), false, true
+Alex's Mobs, alexsmobs:lava_vision, alexsmobs.potion.lava_vision, 227, 0x00FF6A00 (  16738816), false, true
+Alex's Mobs, alexsmobs:oiled, alexsmobs.potion.oiled, 231, 0x00FFE89C (  16771228), false, true
+Alex's Mobs, alexsmobs:orcas_might, alexsmobs.potion.orcas_might, 232, 0x004A4A52 (   4868690), false, true
+Alex's Mobs, alexsmobs:poison_resistance, alexsmobs.potion.poison_resistance, 230, 0x0051FFAF (   5373871), false, true
+Alex's Mobs, alexsmobs:soulsteal, alexsmobs.potion.soulsteal, 234, 0x0093FDFF (   9698815), false, true
+Alex's Mobs, alexsmobs:sunbird_blessing, alexsmobs.potion.sunbird_blessing, 228, 0x00FFEAB9 (  16771769), false, true
+Alex's Mobs, alexsmobs:sunbird_curse, alexsmobs.potion.sunbird_curse, 229, 0x00FFEAB9 (  16771769), true, false
+Alex's Mobs, alexsmobs:tigers_blessing, alexsmobs.potion.tigers_blessing, 238, 0x00FFD75E (  16766814), false, true
+Apotheosis, apotheosis:bleeding, effect.apotheosis.bleeding, 37, 0x008B0000 (   9109504), true, false
+Apotheosis, apotheosis:knowledge, effect.apotheosis.knowledge, 36, 0x00F4EE42 (  16051778), false, true
+Apotheosis, apotheosis:sundering, effect.apotheosis.sundering, 35, 0x00989898 (  10000536), true, false
+Atum 2, atum:marked_for_death, effect.atum.marked_for_death, 190, 0x00C0A44D (  12624973), false, false
+BetterEnd Forge, betterendforge:end_veil, effect.betterendforge.end_veil, 38, 0x000D554A (    873802), false, true
+Blue Skies, blue_skies:deadly_venom, effect.blue_skies.deadly_venom, 225, 0x0090AF03 (   9481987), true, false
+Bountiful Baubles, bountifulbaubles:flight, effect.bountifulbaubles.flight, 123, 0x00AAE0FF (  11198719), false, true
+Bountiful Baubles, bountifulbaubles:sinful, effect.bountifulbaubles.sinful, 122, 0x00101317 (   1053463), false, true
+Cataclysm Mod, cataclysm:blazing_sight, effect.cataclysm.blazing_sight, 246, 0x00865337 (   8803127), true, false
+Cataclysm Mod, cataclysm:monstrous, effect.cataclysm.monstrous, 245, 0x00865337 (   8803127), false, true
+Craft and Hunt, craftandhunt:beetalion, effect.craftandhunt.beetalion, 120, 0x007F8392 (   8356754), false, true
+Craft and Hunt, craftandhunt:bleed, effect.craftandhunt.bleed, 96, 0x00390000 (   3735552), true, false
+Craft and Hunt, craftandhunt:bug_ignore, effect.craftandhunt.bug_ignore, 111, 0x001DC2D1 (   1950417), false, true
+Craft and Hunt, craftandhunt:corpse_eater, effect.craftandhunt.corpse_eater, 98, 0x00CD5CAB (  13458603), false, true
+Craft and Hunt, craftandhunt:entity_blind, effect.craftandhunt.entity_blind, 109, 0x001F1F23 (   2039587), true, false
+Craft and Hunt, craftandhunt:entity_know, effect.craftandhunt.entity_know, 106, 0x004E9331 (   5149489), true, false
+Craft and Hunt, craftandhunt:exp_heal, effect.craftandhunt.exp_heal, 103, 0x007CAFC6 (   8171462), false, true
+Craft and Hunt, craftandhunt:fire_blade, effect.craftandhunt.fire_blade, 102, 0x00E49A3A (  14981690), false, true
+Craft and Hunt, craftandhunt:goat_strength, effect.craftandhunt.goat_strength, 118, 0x004E9331 (   5149489), false, true
+Craft and Hunt, craftandhunt:guardian_armor, effect.craftandhunt.guardian_armor, 115, 0x007CAFC6 (   8171462), false, true
+Craft and Hunt, craftandhunt:inky_defense, effect.craftandhunt.inky_defense, 107, 0x007CAFC6 (   8171462), false, true
+Craft and Hunt, craftandhunt:kill_summon, effect.craftandhunt.kill_summon, 119, 0x004E9331 (   5149489), true, false
+Craft and Hunt, craftandhunt:magic_blade, effect.craftandhunt.magic_blade, 99, 0x007CAFC6 (   8171462), false, true
+Craft and Hunt, craftandhunt:mushroomized, effect.craftandhunt.mushroomized, 121, 0x00CD5CAB (  13458603), false, true
+Craft and Hunt, craftandhunt:pack_leader, effect.craftandhunt.pack_leader, 114, 0x007F8392 (   8356754), false, true
+Craft and Hunt, craftandhunt:phantom_ignore, effect.craftandhunt.phantom_ignore, 110, 0x001DC2D1 (   1950417), false, true
+Craft and Hunt, craftandhunt:piglin_ignore, effect.craftandhunt.piglin_ignore, 105, 0x001DC2D1 (   1950417), false, true
+Craft and Hunt, craftandhunt:poison_blade, effect.craftandhunt.poison_blade, 100, 0x004E9331 (   5149489), false, true
+Craft and Hunt, craftandhunt:poison_resistance, effect.craftandhunt.poison_resistance, 112, 0x00763193 (   7745939), false, true
+Craft and Hunt, craftandhunt:range_strength, effect.craftandhunt.range_strength, 117, 0x004E9331 (   5149489), false, true
+Craft and Hunt, craftandhunt:seed_cluster, effect.craftandhunt.seed_cluster, 116, 0x004E9331 (   5149489), true, false
+Craft and Hunt, craftandhunt:thief_blade, effect.craftandhunt.thief_blade, 108, 0x007CAFC6 (   8171462), false, true
+Craft and Hunt, craftandhunt:undead_ignore, effect.craftandhunt.undead_ignore, 104, 0x001DC2D1 (   1950417), false, true
+Craft and Hunt, craftandhunt:vampire, effect.craftandhunt.vampire, 97, 0x00CD5CAB (  13458603), false, true
+Craft and Hunt, craftandhunt:wither_blade, effect.craftandhunt.wither_blade, 101, 0x00352A27 (   3484199), false, true
+Craft and Hunt, craftandhunt:wither_resistance, effect.craftandhunt.wither_resistance, 113, 0x00CAD5D8 (  13293016), false, true
+Danny's Expansion, dannys_expansion:cursed_flames, effect.dannys_expansion.cursed_flames, 298, 0x0064DF24 (   6610724), true, false
+Danny's Expansion, dannys_expansion:spores, effect.dannys_expansion.spores, 299, 0x006231A3 (   6435235), true, false
+Danny's Expansion, dannys_expansion:venom, effect.dannys_expansion.venom, 300, 0x00461570 (   4593008), true, false
+Dungeons Gear, dungeons_gear:party_starter, effect.dungeons_gear.party_starter, 90, 0x00E25822 (  14833698), false, true
+Dungeons Gear, dungeons_gear:shielding, effect.dungeons_gear.shielding, 87, 0x0099453A (  10044730), false, true
+Dungeons Gear, dungeons_gear:soul_protection, effect.dungeons_gear.soul_protection, 88, 0x002552A5 (   2445989), false, true
+Dungeons Gear, dungeons_gear:stunned, effect.dungeons_gear.stunned, 89, 0x00484D48 (   4738376), true, false
+Eidolon, eidolon:anchored, effect.eidolon.anchored, 305, 0xFF9A3AE8 (  -6669592), false, true
+Eidolon, eidolon:chilled, effect.eidolon.chilled, 304, 0xFF93BDF5 (  -7094795), true, false
+Elenai Dodge, elenaidodge:dodge_effect, effect.elenaidodge.dodge_effect, 34, 0x002DCAE1 (   3001057), false, true
+Farmer's Delight, farmersdelight:comfort, effect.farmersdelight.comfort, 242, 0x00000000 (         0), false, true
+Farmer's Delight, farmersdelight:nourished, effect.farmersdelight.nourished, 241, 0x00000000 (         0), false, true
+Farmer's Respite, farmersrespite:caffeinated, effect.farmersrespite.caffeinated, 243, 0x00B99317 (  12161815), false, true
+Fire N' Blood, firenblood:cosmic, effect.firenblood.cosmic, 295, 0x008A00FF (   9044223), false, false
+Fire N' Blood, firenblood:deathprotect, effect.firenblood.deathprotect, 291, 0x00000000 (         0), false, true
+Fire N' Blood, firenblood:evileye, effect.firenblood.evileye, 289, 0x000B6138 (    745784), false, false
+Fire N' Blood, firenblood:goldtouched, effect.firenblood.goldtouched, 292, 0x004A4217 (   4866583), false, false
+Fire N' Blood, firenblood:hosted, effect.firenblood.hosted, 293, 0x0099453A (  10044730), true, false
+Fire N' Blood, firenblood:minorharm, effect.firenblood.minorharm, 290, 0x00430A09 (   4393481), true, false
+Fire N' Blood, firenblood:summondown, effect.firenblood.summondown, 294, 0x00000000 (         0), true, false
+Forbidden & Arcanus, forbidden_arcanus:darkened, effect.forbidden_arcanus.darkened, 303, 0x00012352 (     74578), true, false
+Forbidden & Arcanus, forbidden_arcanus:fly, effect.forbidden_arcanus.fly, 301, 0x000B6138 (    745784), false, true
+Forbidden & Arcanus, forbidden_arcanus:spectral_vision, effect.forbidden_arcanus.spectral_vision, 302, 0x000B6138 (    745784), false, true
+Goblins & Dungeons, goblinsanddungeons:might, effect.goblinsanddungeons.might, 244, 0x00B8B546 (  12105030), false, false
+Greek Fantasy, greekfantasy:mirror, effect.greekfantasy.mirror, 193, 0x00D0D0D0 (  13684944), false, true
+Greek Fantasy, greekfantasy:petrified, effect.greekfantasy.petrified, 192, 0x00C0C0C0 (  12632256), true, false
+Greek Fantasy, greekfantasy:prisoner, effect.greekfantasy.prisoner, 195, 0x009E1739 (  10360633), false, false
+Greek Fantasy, greekfantasy:stunned, effect.greekfantasy.stunned, 191, 0x00C0C0C0 (  12632256), true, false
+Greek Fantasy, greekfantasy:swine, effect.greekfantasy.swine, 194, 0x00F19E98 (  15834776), true, false
+Infernal Expansion, infernalexp:infection, effect.infernalexp.infection, 33, 0x00C42B32 (  12856114), true, false
+Infernal Expansion, infernalexp:luminous, effect.infernalexp.luminous, 0, 0x00DCBC82 (  14466178), false, false
+Lycanites Mobs, lycanitesmobs:aphagia, effect.lycanitesmobs.aphagia, 44, 0x00FFDDDD (  16768477), true, false
+Lycanites Mobs, lycanitesmobs:bleed, effect.lycanitesmobs.bleed, 52, 0x00FF2222 (  16720418), true, false
+Lycanites Mobs, lycanitesmobs:cleansed, effect.lycanitesmobs.cleansed, 55, 0x0066BBFF (   6732799), false, true
+Lycanites Mobs, lycanitesmobs:decay, effect.lycanitesmobs.decay, 39, 0x00110033 (   1114163), true, false
+Lycanites Mobs, lycanitesmobs:envenom, effect.lycanitesmobs.envenom, 42, 0x0044DD66 (   4513126), false, true
+Lycanites Mobs, lycanitesmobs:fallresist, effect.lycanitesmobs.fallresist, 62, 0x00DDFFFF (  14548991), false, true
+Lycanites Mobs, lycanitesmobs:fear, effect.lycanitesmobs.fear, 46, 0x00220022 (   2228258), true, false
+Lycanites Mobs, lycanitesmobs:freezeaura, effect.lycanitesmobs.freezeaura, 53, 0x0055BBFF (   5618687), false, true
+Lycanites Mobs, lycanitesmobs:heataura, effect.lycanitesmobs.heataura, 57, 0x00996600 (  10053120), false, true
+Lycanites Mobs, lycanitesmobs:immunization, effect.lycanitesmobs.immunization, 58, 0x0066FFBB (   6750139), false, true
+Lycanites Mobs, lycanitesmobs:insomnia, effect.lycanitesmobs.insomnia, 54, 0x00002222 (      8738), true, false
+Lycanites Mobs, lycanitesmobs:instability, effect.lycanitesmobs.instability, 59, 0x00004422 (     17442), true, false
+Lycanites Mobs, lycanitesmobs:leech, effect.lycanitesmobs.leech, 43, 0x0000FF99 (     65433), false, true
+Lycanites Mobs, lycanitesmobs:lifeleak, effect.lycanitesmobs.lifeleak, 47, 0x000055FF (     22015), true, false
+Lycanites Mobs, lycanitesmobs:paralysis, effect.lycanitesmobs.paralysis, 50, 0x00FFFF00 (  16776960), true, false
+Lycanites Mobs, lycanitesmobs:penetration, effect.lycanitesmobs.penetration, 49, 0x00222222 (   2236962), true, false
+Lycanites Mobs, lycanitesmobs:plague, effect.lycanitesmobs.plague, 41, 0x00220066 (   2228326), true, false
+Lycanites Mobs, lycanitesmobs:rage, effect.lycanitesmobs.rage, 60, 0x00FF4400 (  16729088), true, false
+Lycanites Mobs, lycanitesmobs:recklessness, effect.lycanitesmobs.recklessness, 61, 0x00FF0044 (  16711748), true, false
+Lycanites Mobs, lycanitesmobs:rejuvenation, effect.lycanitesmobs.rejuvenation, 45, 0x0099FFBB (  10092475), false, true
+Lycanites Mobs, lycanitesmobs:repulsion, effect.lycanitesmobs.repulsion, 56, 0x00BC532E (  12342062), false, true
+Lycanites Mobs, lycanitesmobs:smited, effect.lycanitesmobs.smited, 40, 0x00DDDDFF (  14540287), true, false
+Lycanites Mobs, lycanitesmobs:smouldering, effect.lycanitesmobs.smouldering, 63, 0x00DD0000 (  14483456), true, false
+Lycanites Mobs, lycanitesmobs:staticaura, effect.lycanitesmobs.staticaura, 48, 0x0FFBB551 ( 268154193), false, true
+Lycanites Mobs, lycanitesmobs:swiftswimming, effect.lycanitesmobs.swiftswimming, 64, 0x000000FF (       255), false, true
+Lycanites Mobs, lycanitesmobs:weight, effect.lycanitesmobs.weight, 51, 0x00000022 (        34), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:agony_resonance, effect.flowingagony.agony_resonance, 252, 0x00690000 (   6881280), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:back_and_fill_enchantment_active, effect.flowingagony.back_and_fill_enchantment_active, 259, 0x00000000 (         0), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:been_resonated, effect.flowingagony.been_resonated, 253, 0x0000E000 (     57344), false, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:curse_of_undead, effect.flowingagony.curse_of_undead, 254, 0x00000000 (         0), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:cursed_antipathy, effect.flowingagony.cursed_antipathy, 250, 0x00004800 (     18432), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:cursed_hatred, effect.flowingagony.cursed_hatred, 249, 0x00690000 (   6881280), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:envious_being, effect.flowingagony.envious_being, 258, 0x00000000 (         0), false, true
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:extreme_hatred, effect.flowingagony.extreme_hatred, 251, 0x00FF0000 (  16711680), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:eyesore_enchantment_active, effect.flowingagony.eyesore_enchantment_active, 272, 0x00000000 (         0), false, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:fresh_revenge_enchantment_active, effect.flowingagony.fresh_revenge_enchantment_active, 263, 0x00000000 (         0), false, true
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:frivolous_step_enchantment_active, effect.flowingagony.frivolous_step_enchantment_active, 261, 0x00000000 (         0), false, true
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:hatred_bloodline_enchantment_active, effect.flowingagony.hatred_bloodline_enchantment_active, 262, 0x00000000 (         0), false, true
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:insane_poet_enchantment_active, effect.flowingagony.insane_poet_enchantment_active, 265, 0x00000000 (         0), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:let_me_savor_it, effect.flowingagony.let_me_savor_it, 255, 0x00AE4200 (  11420160), false, true
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:lightburn_fungal_infection, effect.flowingagony.lightburn_fungal_infection, 257, 0x00FFFFEC (  16777196), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:listen_to_me_singing, effect.flowingagony.listen_to_me_singing, 256, 0x00690000 (   6881280), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:miraculous_escape_enchantment_active, effect.flowingagony.miraculous_escape_enchantment_active, 266, 0x00000000 (         0), false, true
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:miraculous_escape_enchantment_force_escape, effect.flowingagony.miraculous_escape_enchantment_force_escape, 267, 0x00000000 (         0), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:paper_brain_enchantment_active, effect.flowingagony.paper_brain_enchantment_active, 268, 0x00000000 (         0), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:potential_burst_enchantment_active, effect.flowingagony.potential_burst_enchantment_active, 260, 0x00000000 (         0), false, true
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:prototype_chaotic_enchantment_active, effect.flowingagony.prototype_chaotic_enchantment_active, 264, 0x00000000 (         0), false, true
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:shock_therapy_enchantment_active, effect.flowingagony.shock_therapy_enchantment_active, 269, 0x00000000 (         0), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:thorn_in_flesh_active, effect.flowingagony.thorn_in_flesh_active, 270, 0x00000000 (         0), true, false
+MarbleGate's Exotic Enchantment: Flowing Agony, flowingagony:thorn_in_flesh_active_for_player, effect.flowingagony.thorn_in_flesh_active_for_player, 271, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:alchemy_consumable, effect.mmorpg.alchemy_consumable, 125, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/0, effect.mmorpg.beneficial.0, 148, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/1, effect.mmorpg.beneficial.1, 149, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/10, effect.mmorpg.beneficial.10, 158, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/11, effect.mmorpg.beneficial.11, 159, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/12, effect.mmorpg.beneficial.12, 160, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/13, effect.mmorpg.beneficial.13, 161, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/14, effect.mmorpg.beneficial.14, 162, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/15, effect.mmorpg.beneficial.15, 163, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/16, effect.mmorpg.beneficial.16, 164, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/17, effect.mmorpg.beneficial.17, 165, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/18, effect.mmorpg.beneficial.18, 166, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/19, effect.mmorpg.beneficial.19, 167, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/2, effect.mmorpg.beneficial.2, 150, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/20, effect.mmorpg.beneficial.20, 168, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/21, effect.mmorpg.beneficial.21, 169, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/22, effect.mmorpg.beneficial.22, 170, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/23, effect.mmorpg.beneficial.23, 171, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/24, effect.mmorpg.beneficial.24, 172, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/25, effect.mmorpg.beneficial.25, 173, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/26, effect.mmorpg.beneficial.26, 174, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/27, effect.mmorpg.beneficial.27, 175, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/28, effect.mmorpg.beneficial.28, 176, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/29, effect.mmorpg.beneficial.29, 177, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/3, effect.mmorpg.beneficial.3, 151, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/30, effect.mmorpg.beneficial.30, 178, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/31, effect.mmorpg.beneficial.31, 179, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/32, effect.mmorpg.beneficial.32, 180, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/33, effect.mmorpg.beneficial.33, 181, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/34, effect.mmorpg.beneficial.34, 182, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/35, effect.mmorpg.beneficial.35, 183, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/36, effect.mmorpg.beneficial.36, 184, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/37, effect.mmorpg.beneficial.37, 185, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/38, effect.mmorpg.beneficial.38, 186, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/39, effect.mmorpg.beneficial.39, 187, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/4, effect.mmorpg.beneficial.4, 152, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/5, effect.mmorpg.beneficial.5, 153, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/6, effect.mmorpg.beneficial.6, 154, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/7, effect.mmorpg.beneficial.7, 155, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/8, effect.mmorpg.beneficial.8, 156, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:beneficial/9, effect.mmorpg.beneficial.9, 157, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:cooking_consumable, effect.mmorpg.cooking_consumable, 126, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:food_health_regen, effect.mmorpg.food_health_regen, 188, 0x00E49A3A (  14981690), false, true
+Mine and Slash, mmorpg:food_mana_regen, effect.mmorpg.food_mana_regen, 189, 0x002E5299 (   3035801), false, true
+Mine and Slash, mmorpg:inscribing_consumable, effect.mmorpg.inscribing_consumable, 127, 0x00000000 (         0), false, true
+Mine and Slash, mmorpg:knockback_resist, effect.mmorpg.knockback_resist, 124, 0x00000001 (         1), false, true
+Mine and Slash, mmorpg:negative/0, effect.mmorpg.negative.0, 128, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/1, effect.mmorpg.negative.1, 129, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/10, effect.mmorpg.negative.10, 138, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/11, effect.mmorpg.negative.11, 139, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/12, effect.mmorpg.negative.12, 140, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/13, effect.mmorpg.negative.13, 141, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/14, effect.mmorpg.negative.14, 142, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/15, effect.mmorpg.negative.15, 143, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/16, effect.mmorpg.negative.16, 144, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/17, effect.mmorpg.negative.17, 145, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/18, effect.mmorpg.negative.18, 146, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/19, effect.mmorpg.negative.19, 147, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/2, effect.mmorpg.negative.2, 130, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/3, effect.mmorpg.negative.3, 131, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/4, effect.mmorpg.negative.4, 132, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/5, effect.mmorpg.negative.5, 133, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/6, effect.mmorpg.negative.6, 134, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/7, effect.mmorpg.negative.7, 135, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/8, effect.mmorpg.negative.8, 136, 0x00000000 (         0), true, false
+Mine and Slash, mmorpg:negative/9, effect.mmorpg.negative.9, 137, 0x00000000 (         0), true, false
+Minecraft, minecraft:absorption, effect.minecraft.absorption, 22, 0x002552A5 (   2445989), false, true
+Minecraft, minecraft:bad_omen, effect.minecraft.bad_omen, 31, 0x000B6138 (    745784), false, false
+Minecraft, minecraft:blindness, effect.minecraft.blindness, 15, 0x001F1F23 (   2039587), true, false
+Minecraft, minecraft:conduit_power, effect.minecraft.conduit_power, 29, 0x001DC2D1 (   1950417), false, true
+Minecraft, minecraft:dolphins_grace, effect.minecraft.dolphins_grace, 30, 0x0088A3BE (   8954814), false, true
+Minecraft, minecraft:fire_resistance, effect.minecraft.fire_resistance, 12, 0x00E49A3A (  14981690), false, true
+Minecraft, minecraft:glowing, effect.minecraft.glowing, 24, 0x0094A061 (   9740385), false, false
+Minecraft, minecraft:haste, effect.minecraft.haste, 3, 0x00D9C043 (  14270531), false, true
+Minecraft, minecraft:health_boost, effect.minecraft.health_boost, 21, 0x00F87D23 (  16284963), false, true
+Minecraft, minecraft:hero_of_the_village, effect.minecraft.hero_of_the_village, 32, 0x0044FF44 (   4521796), false, true
+Minecraft, minecraft:hunger, effect.minecraft.hunger, 17, 0x00587653 (   5797459), true, false
+Minecraft, minecraft:instant_damage, effect.minecraft.instant_damage, 7, 0x00430A09 (   4393481), true, false
+Minecraft, minecraft:instant_health, effect.minecraft.instant_health, 6, 0x00F82423 (  16262179), false, true
+Minecraft, minecraft:invisibility, effect.minecraft.invisibility, 14, 0x007F8392 (   8356754), false, true
+Minecraft, minecraft:jump_boost, effect.minecraft.jump_boost, 8, 0x0022FF4C (   2293580), false, true
+Minecraft, minecraft:levitation, effect.minecraft.levitation, 25, 0x00CEFFFF (  13565951), true, false
+Minecraft, minecraft:luck, effect.minecraft.luck, 26, 0x00339900 (   3381504), false, true
+Minecraft, minecraft:mining_fatigue, effect.minecraft.mining_fatigue, 4, 0x004A4217 (   4866583), true, false
+Minecraft, minecraft:nausea, effect.minecraft.nausea, 9, 0x00551D4A (   5578058), true, false
+Minecraft, minecraft:night_vision, effect.minecraft.night_vision, 16, 0x001F1FA1 (   2039713), false, true
+Minecraft, minecraft:poison, effect.minecraft.poison, 19, 0x004E9331 (   5149489), true, false
+Minecraft, minecraft:regeneration, effect.minecraft.regeneration, 10, 0x00CD5CAB (  13458603), false, true
+Minecraft, minecraft:resistance, effect.minecraft.resistance, 11, 0x0099453A (  10044730), false, true
+Minecraft, minecraft:saturation, effect.minecraft.saturation, 23, 0x00F82423 (  16262179), false, true
+Minecraft, minecraft:slow_falling, effect.minecraft.slow_falling, 28, 0x00FFEFD1 (  16773073), false, true
+Minecraft, minecraft:slowness, effect.minecraft.slowness, 2, 0x005A6C81 (   5926017), true, false
+Minecraft, minecraft:speed, effect.minecraft.speed, 1, 0x007CAFC6 (   8171462), false, true
+Minecraft, minecraft:strength, effect.minecraft.strength, 5, 0x00932423 (   9643043), false, true
+Minecraft, minecraft:unluck, effect.minecraft.unluck, 27, 0x00C0A44D (  12624973), true, false
+Minecraft, minecraft:water_breathing, effect.minecraft.water_breathing, 13, 0x002E5299 (   3035801), false, true
+Minecraft, minecraft:weakness, effect.minecraft.weakness, 18, 0x00484D48 (   4738376), true, false
+Minecraft, minecraft:wither, effect.minecraft.wither, 20, 0x00352A27 (   3484199), true, false
+Mowzie's Mobs, mowziesmobs:frozen, effect.mowziesmobs.frozen, 93, 0x00D8E7FF (  14215167), true, false
+Mowzie's Mobs, mowziesmobs:geomancy, effect.mowziesmobs.geomancy, 92, 0x00CDFF78 (  13500280), false, true
+Mowzie's Mobs, mowziesmobs:poison_resist, effect.mowziesmobs.poison_resist, 94, 0x0066FF33 (   6750003), false, true
+Mowzie's Mobs, mowziesmobs:sunblock, effect.mowziesmobs.sunblock, 95, 0x00FFDF42 (  16768834), false, true
+Mowzie's Mobs, mowziesmobs:suns_blessing, effect.mowziesmobs.suns_blessing, 91, 0x00FFDF42 (  16768834), false, true
+Mutant More, mutantmore:chemicalated, effect.mutantmore.chemicalated, 85, 0x004F1FC8 (   5185480), true, false
+Mutant More, mutantmore:hog_power, effect.mutantmore.hog_power, 86, 0x00E5DA95 (  15063701), false, true
+NoCube's Sea Dwellers, seadwellers:dryout, effect.dryout, 248, 0xFF999999 (  -6710887), true, false
+NoCube's Sea Dwellers, seadwellers:trade_cooldown, effect.trade_cooldown, 247, 0xFF00CC99 ( -16724839), true, false
+Potions Master, potionsmaster:allthemodiumpotioneffect, effect.potionsmaster.allthemodiumpotioneffect, 327, 0x00FED95A (  16701786), false, true
+Potions Master, potionsmaster:aluminiumpotioneffect, effect.potionsmaster.aluminiumpotioneffect, 313, 0x00E3E3E3 (  14935011), false, true
+Potions Master, potionsmaster:bismuthpotioneffect, effect.potionsmaster.bismuthpotioneffect, 323, 0x00A4E0E7 (  10805479), false, true
+Potions Master, potionsmaster:coalpotioneffect, effect.potionsmaster.coalpotioneffect, 306, 0x00010101 (     65793), false, true
+Potions Master, potionsmaster:copperpotioneffect, effect.potionsmaster.copperpotioneffect, 314, 0x00B7703A (  12021818), false, true
+Potions Master, potionsmaster:crimsonironpotioneffect, effect.potionsmaster.crimsonironpotioneffect, 324, 0x00B5B575 (  11908469), false, true
+Potions Master, potionsmaster:diamondpotioneffect, effect.potionsmaster.diamondpotioneffect, 311, 0x003DDBE3 (   4053987), false, true
+Potions Master, potionsmaster:emeraldpotioneffect, effect.potionsmaster.emeraldpotioneffect, 312, 0x0000FF00 (     65280), false, true
+Potions Master, potionsmaster:goldpotioneffect, effect.potionsmaster.goldpotioneffect, 310, 0x00D4AF37 (  13938487), false, true
+Potions Master, potionsmaster:ironpotioneffect, effect.potionsmaster.ironpotioneffect, 307, 0x00E4C0AA (  14991530), false, true
+Potions Master, potionsmaster:lapispotioneffect, effect.potionsmaster.lapispotioneffect, 309, 0x000A0AFF (    658175), false, true
+Potions Master, potionsmaster:leadpotioneffect, effect.potionsmaster.leadpotioneffect, 318, 0x007C8CC6 (   8162502), false, true
+Potions Master, potionsmaster:netheritepotioneffect, effect.potionsmaster.netheritepotioneffect, 326, 0x00FFA500 (  16753920), false, true
+Potions Master, potionsmaster:nickelpotioneffect, effect.potionsmaster.nickelpotioneffect, 316, 0x00A9A984 (  11118980), false, true
+Potions Master, potionsmaster:osmiumpotioneffect, effect.potionsmaster.osmiumpotioneffect, 321, 0x00C0C9DD (  12634589), false, true
+Potions Master, potionsmaster:platinumpotioneffect, effect.potionsmaster.platinumpotioneffect, 325, 0x00C0C9DD (  12634589), false, true
+Potions Master, potionsmaster:quartzpotioneffect, effect.potionsmaster.quartzpotioneffect, 322, 0x007C8CC6 (   8162502), false, true
+Potions Master, potionsmaster:redstonepotioneffect, effect.potionsmaster.redstonepotioneffect, 308, 0x00FF0000 (  16711680), false, true
+Potions Master, potionsmaster:silverpotioneffect, effect.potionsmaster.silverpotioneffect, 319, 0x00A4E0E7 (  10805479), false, true
+Potions Master, potionsmaster:tinpotioneffect, effect.potionsmaster.tinpotioneffect, 315, 0x00787878 (   7895160), false, true
+Potions Master, potionsmaster:unobtainiumpotioneffect, effect.potionsmaster.unobtainiumpotioneffect, 329, 0x00D152E3 (  13718243), false, true
+Potions Master, potionsmaster:uraniumpotioneffect, effect.potionsmaster.uraniumpotioneffect, 317, 0x007EE778 (   8316792), false, true
+Potions Master, potionsmaster:vibraniumpotioneffect, effect.potionsmaster.vibraniumpotioneffect, 328, 0x0026DE88 (   2547336), false, true
+Potions Master, potionsmaster:zincpotioneffect, effect.potionsmaster.zincpotioneffect, 320, 0x00B5B575 (  11908469), false, true
+Project: War Dance, wardance:confusion, effect.wardance.confusion, 198, 0x007833B0 (   7877552), true, false
+Project: War Dance, wardance:corrosion, effect.wardance.corrosion, 205, 0x00CFD102 (  13619458), true, false
+Project: War Dance, wardance:distraction, effect.wardance.distraction, 197, 0x00C98FFF (  13209599), true, false
+Project: War Dance, wardance:enfeeble, effect.wardance.enfeeble, 207, 0x005C452F (   6047023), true, false
+Project: War Dance, wardance:exhaustion, effect.wardance.exhaustion, 196, 0x00A9A9A9 (  11119017), true, false
+Project: War Dance, wardance:fear, effect.wardance.fear, 199, 0x00FCFC00 (  16579584), true, false
+Project: War Dance, wardance:fortification, effect.wardance.fortification, 206, 0x000EB00C (    962572), false, true
+Project: War Dance, wardance:paralysis, effect.wardance.paralysis, 201, 0x002C2C2C (   2894892), true, false
+Project: War Dance, wardance:petrify, effect.wardance.petrify, 202, 0x00949494 (   9737364), true, false
+Project: War Dance, wardance:reenergization, effect.wardance.reenergization, 210, 0x005C452F (   6047023), false, true
+Project: War Dance, wardance:refreshment, effect.wardance.refreshment, 209, 0x005C452F (   6047023), false, true
+Project: War Dance, wardance:restoration, effect.wardance.restoration, 208, 0x005C452F (   6047023), false, true
+Project: War Dance, wardance:sleep, effect.wardance.sleep, 203, 0x0C0C0D3E ( 202116414), true, false
+Project: War Dance, wardance:terror, effect.wardance.terror, 200, 0x00FCFC00 (  16579584), true, false
+Project: War Dance, wardance:vulnerable, effect.wardance.vulnerable, 204, 0x0073A915 (   7579925), true, false
+Quark, quark:danger_sight, effect.quark.danger_sight, 297, 0x0008C8E3 (    575715), false, true
+Quark, quark:resilience, effect.quark.resilience, 296, 0x005B1A04 (   5970436), false, true
+Somnia Awoken, somnia:awakening, effect.somnia.awakening, 65, 0x0000FFEE (     65518), false, true
+Somnia Awoken, somnia:insomnia, effect.somnia.insomnia, 66, 0x0023009A (   2293914), true, false
+Tetra, tetra:bleeding, effect.tetra.bleeding, 211, 0x00880000 (   8912896), true, false
+Tetra, tetra:earthbound, effect.tetra.earthbound, 212, 0x00006600 (     26112), true, false
+Tetra, tetra:exhausted, effect.tetra.exhausted, 218, 0x00222222 (   2236962), true, false
+Tetra, tetra:howling, effect.tetra.howling, 214, 0x00EEEEEE (  15658734), false, true
+Tetra, tetra:pried, effect.tetra.pried, 217, 0x00880000 (   8912896), true, false
+Tetra, tetra:punctured, effect.tetra.punctured, 216, 0x00880000 (   8912896), true, false
+Tetra, tetra:severed, effect.tetra.severed, 215, 0x00880000 (   8912896), true, false
+Tetra, tetra:small_absorb, effect.tetra.small_absorb, 223, 0x002552A5 (   2445989), false, true
+Tetra, tetra:small_health, effect.tetra.small_health, 222, 0x00BB4444 (  12272708), false, true
+Tetra, tetra:small_strength, effect.tetra.small_strength, 220, 0x00880000 (   8912896), false, true
+Tetra, tetra:steeled, effect.tetra.steeled, 219, 0x00880000 (   8912896), false, true
+Tetra, tetra:stun, effect.tetra.stun, 213, 0x00EEEEEE (  15658734), true, false
+Tetra, tetra:suspended, effect.tetra.suspended, 224, 0x00006600 (     26112), false, true
+Tetra, tetra:unwavering, effect.tetra.unwavering, 221, 0x00887700 (   8943360), false, true
+The Undergarden, undergarden:brittleness, effect.undergarden.brittleness, 274, 0x00963232 (   9843250), true, false
+The Undergarden, undergarden:featherweight, effect.undergarden.featherweight, 275, 0x00C8C8FF (  13158655), true, false
+The Undergarden, undergarden:gooey, effect.undergarden.gooey, 273, 0x00776E52 (   7827026), true, false
+The Undergarden, undergarden:virulent_resistance, effect.undergarden.virulent_resistance, 276, 0x00362D42 (   3550530), false, true
+TheAbyss, theabyss:after_life, effect.after_life, 74, 0xFF660066 ( -10092442), false, false
+TheAbyss, theabyss:anti_fear_potion, effect.anti_fear_potion, 79, 0xFFFF33FF (    -52225), false, false
+TheAbyss, theabyss:anti_infection, effect.anti_infection, 70, 0xFFFFFFFF (        -1), false, true
+TheAbyss, theabyss:curse, effect.curse, 84, 0xFF000000 ( -16777216), true, false
+TheAbyss, theabyss:cursed_aura, effect.cursed_aura, 71, 0xFFFFFFFF (        -1), false, false
+TheAbyss, theabyss:dash, effect.dash, 83, 0xFFFFFFFF (        -1), false, false
+TheAbyss, theabyss:electricity, effect.electricity, 73, 0xFFFFFFFF (        -1), false, false
+TheAbyss, theabyss:fear, effect.fear, 68, 0xFF000033 ( -16777165), true, false
+TheAbyss, theabyss:firestorm, effect.firestorm, 76, 0xFFFFFFFF (        -1), false, false
+TheAbyss, theabyss:flying, effect.flying, 77, 0xFF66FFCC ( -10027060), false, false
+TheAbyss, theabyss:frost_poison, effect.frost_poison, 75, 0xFFCCFFFF (  -3342337), false, false
+TheAbyss, theabyss:ghost, effect.ghost, 80, 0xFFD9D9D9 (  -2500135), false, true
+TheAbyss, theabyss:immortal, effect.immortal, 78, 0xFF006666 ( -16751002), false, true
+TheAbyss, theabyss:node_potion, effect.node_potion, 67, 0xFFFF00FF (    -65281), false, false
+TheAbyss, theabyss:tantrum, effect.tantrum, 72, 0xFF00FF97 ( -16711785), false, true
+TheAbyss, theabyss:time_stop_potion_effect, effect.time_stop_potion_effect, 69, 0xFF3333FF ( -13421569), false, true
+TheAbyss, theabyss:time_stop_potion_irator, effect.time_stop_potion_irator, 82, 0xFF3333FF ( -13421569), false, true
+TheAbyss, theabyss:weak_electricity, effect.weak_electricity, 81, 0xFFFFFFFF (        -1), false, false
+Xaero's Minimap, xaerominimap:no_cave_maps, effect.xaerominimap.no_cave_maps, 286, 0xFF000000 ( -16777216), false, false
+Xaero's Minimap, xaerominimap:no_cave_maps_beneficial, effect.xaerominimap.no_cave_maps_beneficial, 287, 0xFF000000 ( -16777216), false, true
+Xaero's Minimap, xaerominimap:no_cave_maps_harmful, effect.xaerominimap.no_cave_maps_harmful, 288, 0xFF000000 ( -16777216), true, false
+Xaero's Minimap, xaerominimap:no_entity_radar, effect.xaerominimap.no_entity_radar, 280, 0xFF000000 ( -16777216), false, false
+Xaero's Minimap, xaerominimap:no_entity_radar_beneficial, effect.xaerominimap.no_entity_radar_beneficial, 281, 0xFF000000 ( -16777216), false, true
+Xaero's Minimap, xaerominimap:no_entity_radar_harmful, effect.xaerominimap.no_entity_radar_harmful, 282, 0xFF000000 ( -16777216), true, false
+Xaero's Minimap, xaerominimap:no_minimap, effect.xaerominimap.no_minimap, 277, 0xFF000000 ( -16777216), false, false
+Xaero's Minimap, xaerominimap:no_minimap_beneficial, effect.xaerominimap.no_minimap_beneficial, 278, 0xFF000000 ( -16777216), false, true
+Xaero's Minimap, xaerominimap:no_minimap_harmful, effect.xaerominimap.no_minimap_harmful, 279, 0xFF000000 ( -16777216), true, false
+Xaero's Minimap, xaerominimap:no_waypoints, effect.xaerominimap.no_waypoints, 283, 0xFF000000 ( -16777216), false, false
+Xaero's Minimap, xaerominimap:no_waypoints_beneficial, effect.xaerominimap.no_waypoints_beneficial, 284, 0xFF000000 ( -16777216), false, true
+Xaero's Minimap, xaerominimap:no_waypoints_harmful, effect.xaerominimap.no_waypoints_harmful, 285, 0xFF000000 ( -16777216), true, false
+-----------------------------------------------------------------------------
+Mod name, Registry name, Potion Name, ID, Liquid color, Is bad, Is beneficial
+-----------------------------------------------------------------------------

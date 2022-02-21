@@ -1,0 +1,916 @@
+
+#Note for Durability Value in Armor. Vanilla values are; Leather:5, Gold:7, Iron:15, Turtle:25, Diamond:33, Netherite:37
+[Armor]
+
+	[Armor."Wither Armor"]
+		#Wither Knockback Resistance Value (Default: 0).
+		#Range: 0 ~ 50
+		wither_knockbackResistance = 0
+		#Wither Boots Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		wither_bootsdefense = 3
+		#Wither Durability Value (Default: 10).
+		#Range: 1 ~ 50
+		wither_durabilityValue = 10
+		#Wither Chest Defense Value (Default: 7).
+		#Range: 1 ~ 50
+		wither_chestdefense = 7
+		#Wither Armor Toughness Value (Default: 0).
+		#Range: 0 ~ 50
+		wither_toughness = 0
+		#Wither Legs Defense Value (Default: 6).
+		#Range: 1 ~ 50
+		wither_legsdefense = 6
+		#Wither Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		wither_enchantability = 15
+		#Wither Helm Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		wither_helmDefense = 4
+		#Should Wither Armor exist? (Default: True)
+		wither_armor_true = true
+
+	[Armor."Bone Armor"]
+		#Bone Armor Toughness Value (Default: 0).
+		#Range: 0 ~ 50
+		bone_toughness = 0
+		#Bone Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		bone_enchantability = 15
+		#Bone Chest Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		bone_chestdefense = 3
+		#Bone Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bone_helmDefense = 1
+		#Bone Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		bone_bootsdefense = 1
+		#Bone Knockback Resistance Value (Default: 0).
+		#Range: 0 ~ 50
+		bone_knockbackResistance = 0
+		#Should Bone Armor exist? (Default: True)
+		bone_armor_true = true
+		#Bone Durability Value (Default: 9).
+		#Range: 1 ~ 50
+		bone_durabilityValue = 9
+		#Bone Legs Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		bone_legsdefense = 3
+
+	[Armor."silverfish and Endermite Armor"]
+
+		#Drop Chance is out of 100 with the formula: <random 0-99 <= x + Lucky*3 + Looting*2>. This means the Dice will pick a number 0-99, and if you roll less then X in the formula, the item will drop.
+		[Armor."silverfish and Endermite Armor"."Drop Chance"]
+
+			[Armor."silverfish and Endermite Armor"."Drop Chance"."Should the custom loot table exist? If disabled, mobs (other than the ender dragon if armor upgrade is true) will no longer drop items from this mod"]
+				#Drop chance for Wither Skeleton Spine (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_wither_skeleton = 1
+				#Drop chance for Vampire's Fang (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_vampiric = 1
+				#Drop chance for spider chitin and poison spider chitin  (Default: 34).
+				#Range: -1 ~ 100
+				drop_chance_spider_chitin = 34
+				#Drop chance for panda leather  (Default: 24).
+				#Range: -1 ~ 100
+				drop_chance_panda_leather = 24
+				#Drop chance for polar leather  (Default: 24).
+				#Range: -1 ~ 100
+				drop_chance_polar_leather = 24
+				#Random Item chance from theiving (Default: 5).
+				#Range: -1 ~ 100
+				fox_loot_chance = 5
+				#Drop chance for fox hide (Default: 34).
+				#Range: -1 ~ 100
+				drop_chance_fox_hide = 34
+				#Drop chance for strider rock  (Default: 12).
+				#Range: -1 ~ 100
+				drop_chance_strider_rock = 12
+				#Drop chance for stray cloth  (Default: 12).
+				#Range: -1 ~ 100
+				drop_chance_stray_cloth = 12
+				#Drop chance for shark skin, thrasher skin, and great thrasher skin (Default: 24).
+				#Range: -1 ~ 100
+				drop_chance_shark_leather = 24
+				#Drop chance for silverfish chitin  (Default: 24).
+				#Range: -1 ~ 100
+				drop_chance_silverfish_chitin = 24
+				#Drop chance for Ghast's Flame Lung (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_ghast = 1
+				#Drop chance for Evoker's Book (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_evoker = 1
+				#Drop chance for Totems to drop (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_totems = 0.1
+				#Drop chance for endermite mass  (Default: 24).
+				#Range: -1 ~ 100
+				drop_chance_endermite_mass = 24
+				#Drop chance for fox hound hide (Default: 16).
+				#Range: -1 ~ 100
+				drop_chance_fox_hound_hide = 16
+				#Drop chance for bee chitin (Default: 10).
+				#Range: -1 ~ 100
+				drop_chance_bee_chitin = 10
+				#Drop chance for brown bear leather  (Default: 24).
+				#Range: -1 ~ 100
+				drop_chance_brown_leather = 24
+				#Drop chance for guardian hide (Default: 24).
+				#Range: -1 ~ 100
+				drop_chance_guardian_leather = 24
+				#Drop chance for Strange Ender Peal (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_enderpearl = 1
+				#Drop chance for Piglin Armbrace (Default: 1).
+				#Range: -1 ~ 100
+				drop_piglin_armbrace = 1
+				#Drop chance for Piglin Emblems (Default: 4).
+				#Range: -1 ~ 100
+				drop_piglin_emblem = 1
+				#Drop chance for Puff Shroom (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_mooshroom = 1
+				#Drop chance for black bear leather  (Default: 24).
+				#Range: -1 ~ 100
+				drop_chance_black_leather = 24
+				#Drop chance for Poison Sack (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_poison_sack = 1
+				#Drop chance for Mystical Fox Tail (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_fox = 1
+				#Drop chance for elder guardian hide. It's ether it does (1) or doesn't (-1)
+				#Range: -1 ~ 1
+				drop_chance_elder_guardian_leather = 1
+				#Drop chance for crab shells  (Default: 24).
+				#Range: -1 ~ 100
+				drop_chance_crab_shell = 24
+				#Drop chance for Gloomy Ink Sack (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_squid = 1
+				#Drop chance for Seed Cluster (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_creeper = 1
+				#Drop chance for Witch's Book (Default: 1).
+				#Range: -1 ~ 100
+				drop_chance_witch = 1
+				#Drop chance for wolf hide (Default: 34).
+				#Range: -1 ~ 100
+				drop_chance_wolf_hide = 34
+
+				[Armor."silverfish and Endermite Armor"."Drop Chance"."Should the custom loot table exist? If disabled, mobs (other than the ender dragon if armor upgrade is true) will no longer drop items from this mod"." For mod pack makers"]
+					#Use custom loot system (Default: True)
+					custom_loot_table_drops = true
+
+			#The prices the villagers will put up items. Note: Villager trades are x3 as expensive as Wandering trades (in emeralds)
+			[Armor."silverfish and Endermite Armor"."Drop Chance"."Village Trader prices"]
+				#The price for Firecharge Rod (Default: 64).
+				#Range: 1 ~ 128
+				price_firecharge_rod = 64
+				#The price for Goat Hide (Default: 4).
+				#Range: 1 ~ 128
+				price_goat_hide = 4
+				#The price for brown bear leather  (Default: 4).
+				#Range: 1 ~ 128
+				price_bear_brown_leather = 4
+				#The price for shark skin (Default: 5).
+				#Range: 1 ~ 128
+				price_shark_skin = 5
+				#The price for guardian skin  (Default: 10).
+				#Range: 1 ~ 128
+				price_guardian_skin = 10
+				#The price for Roc's Feather (Default: 64).
+				#Range: 1 ~ 128
+				price_roc_feather = 64
+				#The price for black bear leather  (Default: 4).
+				#Range: 1 ~ 128
+				price_bear_black_leather = 4
+				#The price for Emergency Golem Kits (Default: 64).
+				#Range: 1 ~ 128
+				price_golem_kit = 64
+				#The price for spider  (Default: 6).
+				#Range: 1 ~ 128
+				price_spider_chitin = 6
+				#The price for vampire fangs  (Default: 20).
+				#Range: 1 ~ 128
+				price_vampire_fang = 20
+				#The price for thrasher skin (Default: 20).
+				#Range: 1 ~ 128
+				price_thrasher_skin = 20
+				#The price for Updraft Rod (Default: 64).
+				#Range: 1 ~ 128
+				price_updraft_rod = 64
+				#The price for bee chitin  (Default: 4).
+				#Range: 1 ~ 128
+				price_bee_chitin = 4
+				#The price for Buzzy Nests (Default: 64).
+				#Range: 1 ~ 128
+				price_buzzy_nest = 64
+				#The price for End Dragon Scales (Default: 99).
+				#Range: 1 ~ 128
+				price_dragon_scale = 99
+				#The price for fire hound hide (Default: 20).
+				#Range: 1 ~ 128
+				price_fire_hound_hide = 20
+				#The price for thrasher's teeth (Default: 5).
+				#Range: 1 ~ 128
+				price_thrasher_tooth = 5
+				#The price for wolf hide  (Default: 4).
+				#Range: 1 ~ 128
+				price_wolf_hide = 4
+				#The price for fox hide  (Default: 4).
+				#Range: 1 ~ 128
+				price_fox_hide = 4
+				#The price for crab shells (Default: 2).
+				#Range: 1 ~ 128
+				price_crab_shell = 2
+				#The price for Deathcap Mushrooms (Default: 64).
+				#Range: 1 ~ 128
+				price_deathcap = 64
+				#The price for polar bear leather (Default: 4).
+				#Range: 1 ~ 128
+				price_bear_polar_leather = 4
+				#The price for great thrasher skin (Default: 20).
+				#Range: 1 ~ 128
+				price_great_threasher_skin = 20
+				#The price for Lightning Rod (Default: 64).
+				#Range: 1 ~ 128
+				price_lightning_rod = 64
+				#The price for silverfish chitin  (Default: 8).
+				#Range: 1 ~ 128
+				price_silverfish_chitin = 8
+				#The price for endermite mass  (Default: 15).
+				#Range: 1 ~ 128
+				price_endermite_mass = 15
+				#The price for Windhorn (Default: 64).
+				#Range: 1 ~ 128
+				price_wind_horn = 64
+				#The price for panda bear leather (Default: 4).
+				#Range: 1 ~ 128
+				price_bear_panda_leather = 4
+				#The price for Tasty Bones (Default: 64).
+				#Range: 1 ~ 128
+				price_tasty_bone = 64
+
+			#Should the following items show up on villager trades? Note: Some items might or might now show up automatically if you have the right cross-mod installed.
+			[Armor."silverfish and Endermite Armor"."Drop Chance"."Wandering Trader show up chance"]
+				#(Wander only)	Should the trader sell Lightning Rod (Default: True).
+				trader_lightning_rod = true
+				#(Wanderer only)	Should the trader sell crab shells (Default: True).
+				trader_crab_shell = true
+				#(Wanderer only)	Should the trader sell thrasher skin (Default: True).
+				trader_thrasher_skin = true
+				#(Both)			Should the trader sell panda bear leather (Default: True).
+				trader_bear_panda_leather = true
+				#(Villager only)	Should the trader sell fox hide  (Default: True).
+				trader_fox_hide = true
+				#(Wanderer only)	Should the trader sell vampire fangs  (Default: True).
+				trader_vampire_fang = true
+				#(Wander only)	Should the trader sell Firecharge Rod (Default: True).
+				trader_firecharge_rod = true
+				#(Wander only)	Should the trader sell Goat Hide (Default: True).
+				trader_goat_hide = true
+				#(Both)			Should the trader sell polar bear leather (Default: True).
+				trader_bear_polar_leather = true
+				#(Both)			Should the trader sell brown bear leather  (Default: True).
+				trader_bear_brown_leather = true
+				#(Both)			Should the trader sell fire hound hide (Default: True).
+				trader_fire_hound_hide = true
+				#(Villager only)	Should the trader sell silverfish chitin  (Default: True).
+				trader_silverfish_chitin = true
+				#(Wander only)	Should the trader sell End Dragon Scales (Default: True).
+				trader_dragon_scale = true
+				#(Villager only)	Should the trader sell Calamari (Default: True).
+				trader_calimari = true
+				#(Wanderer only)	Should the trader sell thrasher's teeth (Default: True).
+				trader_thrasher_tooth = true
+				#(Wander only)	Should the trader sell Emergency Golem Kits (Default: True).
+				trader_golem_kit = true
+				#(Villager only)	Should the trader sell spider chitin (Default: True).
+				trader_spider_chitin = true
+				#(Villager only)	Should the trader sell guardian skin  (Default: True).
+				trader_guardian_skin = true
+				#(Wander only)	Should the trader sell Tasty Bones (Default: True).
+				trader_tasty_bone = true
+				#(Wander only)	Should the trader sell Deathcap Mushrooms (Default: True).
+				trader_deathcap = true
+				#(Villager only)	Should the trader sell Bear Flanks (Default: True).
+				trader_bear_flank = true
+				#(Villager only)	Should the trader sell wolf hide (Default: True).
+				trader_wolf_hide = true
+				#(Both)			Should the trader sell shark skin (Default: True).
+				trader_shark_skin = true
+				#(Wander only)	Should the trader sell Roc's Feather (Default: True).
+				trader_roc_feather = true
+				#(Villager only)	Should the trader sell endermite mass  (Default: True).
+				trader_endermite_mass = true
+				#(Wander only)	Should the trader sell great thrasher skin (Default: True).
+				trader_great_threasher_skin = true
+				#(Both)			Should the trader sell black bear leather  (Default: True).
+				trader_bear_black_leather = true
+				#(Wander only)	Should the trader sell Buzzy Nests (Default: True).
+				trader_buzzy_nest = true
+				#(Wander only)	Should the trader sell Windhorn (Default: True).
+				trader_wind_horn = true
+				#(Villager only)	Should the trader sell bee chitin (Default: True).
+				trader_bee_chitin = true
+				#(Wander only)	Should the trader sell Updraft Rod (Default: True).
+				trader_updraft_rod = true
+
+			[Armor."silverfish and Endermite Armor"."Drop Chance".Other]
+				#Should Bear Flanks exist? (Default: True)
+				bearFlank_true = true
+				#Should Calamari exist? (Default: True)
+				calamari_true = true
+				#Should Golden Lanterns exist? (Default: True)
+				goldenLantern_true = true
+				#Should Mobs Drop Totems exist? (Default: True)
+				mobs_drop_totems_true = false
+
+		[Armor."silverfish and Endermite Armor"." Note: Endermite upgrade has +1 defense over Silverfish"]
+			#Silverfish Legs Defense Value (Default: 4).
+			#Range: 1 ~ 50
+			silverfish_legsdefense = 4
+			#Silverfish Knockback Resistance Value (Default: 0).
+			#Range: 0 ~ 50
+			silverfish_knockbackResistance = 0
+			#Silverfish Boots Defense Value (Default: 2).
+			#Range: 1 ~ 50
+			silverfish_bootsdefense = 2
+			#Silverfish Chest Defense Value (Default: 4).
+			#Range: 1 ~ 50
+			silverfish_chestdefense = 4
+			#Silverfish Armor Toughness Value (Default: 0).
+			#Range: 0 ~ 50
+			silverfish_toughness = 0
+			#Silverfish Durability Value (Default: 7).
+			#Range: 1 ~ 50
+			silverfish_durabilityValue = 7
+			#Should Silverfish Armor exist? (Default: True)
+			silverfish_armor_true = true
+			#Silverfish Helm Defense Value (Default: 2).
+			#Range: 1 ~ 50
+			silverfish_helmDefense = 2
+			#Silverfish Enchantability Value (Default: 30).
+			#Range: 1 ~ 50
+			silverfish_enchantability = 30
+
+		#Attack damage is based off the pickaxe. Shovels will deal .5 damage more, Swords will deal 2 damage more, axes 5 damage more. Harvest level is simple. 0 is wood, 1 is stone, 2 is iron, and 3 is diamond. Nothing vanilla goes past 3. Efficiancy is how fast a thing mines. 2 is wood, 4 is stone, 6 is iron, 8 is diamond.
+		[Armor."silverfish and Endermite Armor".Tools]
+
+			[Armor."silverfish and Endermite Armor".Tools."Shulkers Tools"]
+				#Should Shulker Tools exist? (Default: True)
+				shulker_tool_true = true
+				#Shulker Tools Attack Damage (Default: 4.5).
+				#Range: 1.0 ~ 10.0
+				shulker_tool_attackDamage = 4.5
+				#Shulker Tools Durability (Default: 1024).
+				#Range: 1 ~ 50000
+				shulker_tool_durability = 1024
+				#Shulker Tools Harvest Level (Default: 3).
+				#Range: 1 ~ 10
+				shulker_tool_harvestLevel = 3
+				#Shulker Tools Efficiency (Default: 3.5).
+				#Range: 1.0 ~ 50.0
+				shulker_tool_efficiency = 3.5
+				#Shulker Tools Enchantability (Default: 25).
+				#Range: 1 ~ 50
+				shulker_tool_enchantability = 25
+
+			[Armor."silverfish and Endermite Armor".Tools."Shell Tools"]
+				#Shell Tools Enchantability (Default: 25).
+				#Range: 1 ~ 50
+				shell_tool_enchantability = 25
+				#Shell Tools Harvest Level (Default: 3).
+				#Range: 1 ~ 10
+				shell_tool_harvestLevel = 3
+				#Shell Tools Efficiency (Default: 9.5).
+				#Range: 1.0 ~ 50.0
+				shell_tool_efficiency = 9.5
+				#Shell Tools Durability (Default: 562).
+				#Range: 1 ~ 50000
+				shell_tool_durability = 562
+				#Should Shell Tools exist? (Default: True)
+				shell_tool_true = true
+				#Shell Tools Attack Damage (Default: 4.5).
+				#Range: 1.0 ~ 10.0
+				shell_tool_attackDamage = 4.5
+
+			[Armor."silverfish and Endermite Armor".Tools."Wither Tools"]
+				#Should Wither Tools exist? (Default: True)
+				wither_tool_true = true
+				#Wither Tools Enchantability (Default: 20).
+				#Range: 1 ~ 50
+				wither_tool_enchantability = 20
+				#Wither Tools Durability (Default: 330).
+				#Range: 1 ~ 50000
+				wither_tool_durability = 330
+				#Wither Tools Harvest Level (Default: 3).
+				#Range: 1 ~ 50
+				wither_tool_harvestLevel = 3
+				#Wither Tools Efficiency (Default: 5.0).
+				#Range: 1.0 ~ 50.0
+				wither_tool_efficiency = 5.0
+				#Wither Tools Attack Damage (Default: 4.5).
+				#Range: 1.0 ~ 50.0
+				wither_tool_attackDamage = 4.5
+
+			[Armor."silverfish and Endermite Armor".Tools."Magma Tools"]
+				#Magma Tools Efficiency (Default: 8.0).
+				#Range: 1.0 ~ 50.0
+				blaze_tool_efficiency = 8.0
+				#Should Magma Tools exist? (Default: True)
+				blaze_tool_true = true
+				#Magma Tools Durability (Default: 562).
+				#Range: 1 ~ 50000
+				blaze_tool_durability = 562
+				#Magma Tools Attack Damage (Default: 4.5).
+				#Range: 1.0 ~ 10.0
+				blaze_tool_attackDamage = 4.5
+				#Magma Tools Harvest Level (Default: 3).
+				#Range: 1 ~ 10
+				blaze_tool_harvestLevel = 3
+				#Magma Tools Enchantability (Default: 24).
+				#Range: 1 ~ 50
+				blaze_tool_enchantability = 24
+
+			[Armor."silverfish and Endermite Armor".Tools."Shark Tools"]
+				#Should Shark Tools exist? (Default: True)
+				shark_tool_true = true
+				#Shark Tools Harvest Level (Default: 1).
+				#Range: 1 ~ 10
+				shark_tool_harvestLevel = 1
+				#Shark Tools Enchantability (Default: 5).
+				#Range: 1 ~ 50
+				shark_tool_enchantability = 5
+				#Shark Tools Durability (Default: 16).
+				#Range: 1 ~ 50000
+				shark_tool_durability = 16
+				#Shark Tools Efficiency (Default: 10.0).
+				#Range: 1.0 ~ 50.0
+				shark_tool_efficiency = 10.0
+				#Shark Tools Attack Damage (Default: 10.0).
+				#Range: 1.0 ~ 10.0
+				shark_tool_attackDamage = 10.0
+
+			[Armor."silverfish and Endermite Armor".Tools."Spider Tools"]
+				#Spider Tools Durability (Default: 132).
+				#Range: 1 ~ 50000
+				spider_tool_durability = 132
+				#Should Spider Tools exist? (Default: True)
+				spider_tool_true = true
+				#Spider Tools Harvest Level (Default: 2).
+				#Range: 1 ~ 50
+				spider_tool_harvestLevel = 2
+				#Spider Tools Efficiency (Default: 6.0).
+				#Range: 1.0 ~ 50.0
+				spider_tool_efficiency = 6.0
+				#Spider Tools Attack Damage (Default: 2.5).
+				#Range: 1.0 ~ 50.0
+				spider_tool_attackDamage = 2.5
+				#Spider Tools Enchantability (Default: 16).
+				#Range: 1 ~ 50
+				spider_tool_enchantability = 16
+
+			[Armor."silverfish and Endermite Armor".Tools."Bone Tools"]
+				#Bone Tools Enchantability (Default: 15).
+				#Range: 1 ~ 10
+				bone_tool_enchantability = 10
+				#Should Bone Tools exist? (Default: True)
+				bone_tool_true = true
+				#Bone Tools Durability (Default: 132).
+				#Range: 1 ~ 50000
+				bone_tool_durability = 132
+				#Bone Tools Harvest Level (Default: 1).
+				#Range: 1 ~ 10
+				bone_tool_harvestLevel = 1
+				#Bone Tools Efficiency (Default: 5.0).
+				#Range: 1.0 ~ 50.0
+				bone_tool_efficiency = 5.0
+				#Bone Tools Attack Damage (Default: 2.5).
+				#Range: 1.0 ~ 50.0
+				bone_tool_attackDamage = 2.5
+
+			[Armor."silverfish and Endermite Armor".Tools."Halloween Tools"]
+				#Halloween Tools Harvest Level (Default: 4).
+				#Range: 1 ~ 10
+				horror_tool_harvestLevel = 4
+				#Should Halloween Tools exist? (Default: True)
+				horror_tool_true = true
+				#Halloween Tools Durability (Default: 1024).
+				#Range: 1 ~ 50000
+				horror_tool_durability = 1024
+				#Halloween Tools Enchantability (Default: 15).
+				#Range: 1 ~ 50
+				horror_tool_enchantability = 15
+				#Halloween Tools Attack Damage (Default: 6.0).
+				#Range: 1.0 ~ 10.0
+				horror_tool_attackDamage = 6.0
+				#Halloween Tools Efficiency (Default: 9.5).
+				#Range: 1.0 ~ 50.0
+				horror_tool_efficiency = 9.5
+
+		[Armor."silverfish and Endermite Armor"."Magma Armors"]
+
+			#Elder Guardian armor are also based on these values, increased by a 1-2 points.
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Guardian Armor"]
+				#Should Guardian Armor exist? (Default: True)
+				guardian_armor_true = true
+				#Guardian Legs Defense Value (Default: 4).
+				#Range: 1 ~ 50
+				guardian_legsdefense = 4
+				#Guardian Durability Value (Default: 20).
+				#Range: 1 ~ 50
+				guardian_durabilityValue = 20
+				#Guardian Knockback Resistance Value (Default: 0).
+				#Range: 0 ~ 50
+				guardian_knockbackResistance = 0
+				#Guardian Helm Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				guardian_helmDefense = 2
+				#Guardian Armor Toughness Value (Default: 0).
+				#Range: 0 ~ 50
+				guardian_toughness = 0
+				#Guardian Boots Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				guardian_bootsdefense = 1
+				#Guardian Chest Defense Value (Default: 5).
+				#Range: 1 ~ 50
+				guardian_chestdefense = 5
+				#Guardian Enchantability Value (Default: 22).
+				#Range: 1 ~ 50
+				guardian_enchantability = 22
+
+			[Armor."silverfish and Endermite Armor"."Magma Armors"." This controls the stats for the Magma armor line, from Magma Glass -> Strider (+1 defense over the values below) -> Nether's Wall (+2 toughness over the values below)"]
+				#Magma Legs Defense Value (Default: 5).
+				#Range: 1 ~ 50
+				blaze_legsdefense = 5
+				#Magma Armor Toughness Value (Default: 0).
+				#Range: 0 ~ 50
+				blaze_toughness = 0
+				#Magma Chest Defense Value (Default: 5).
+				#Range: 1 ~ 50
+				blaze_chestdefense = 5
+				#Magma Boots Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				blaze_bootsdefense = 2
+				#Magma Helm Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				blaze_helmDefense = 2
+				#Magma Enchantability Value (Default: 24).
+				#Range: 1 ~ 50
+				blaze_enchantability = 24
+				#Magma Knockback Resistance Value (Default: 0).
+				#Range: 0 ~ 50
+				blaze_knockbackResistance = 0
+				#Should Magma Armor exist? (Default: True)
+				blaze_armor_true = true
+				#Magma Durability Value (Default: 24).
+				#Range: 1 ~ 50
+				blaze_durabilityValue = 24
+
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Crab Armor"]
+				#Should Crab Armor exist? (Default: True)
+				crab_armor_true = true
+				#Crab Durability Value (Default: 5).
+				#Range: 1 ~ 50
+				crab_durabilityValue = 5
+				#Crab Knockback Resistance Value (Default: 3).
+				#Range: 0 ~ 50
+				crab_knockbackResistance = 3
+				#Crab Helm Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				crab_helmDefense = 1
+				#Crab Enchantability Value (Default: 12).
+				#Range: 1 ~ 50
+				crab_enchantability = 15
+				#Crab Legs Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				crab_legsdefense = 2
+				#Crab Armor Toughness Value (Default: 0).
+				#Range: 0 ~ 50
+				crab_toughness = 0
+				#Crab Chest Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				crab_chestdefense = 2
+				#Crab Boots Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				crab_bootsdefense = 1
+
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Trimmed Metal/Ore Armors"]
+				#Should Trimmed Armor exist? (Default: True)
+				guilded_armor_true = true
+
+			#Upgraded armors increase the defense, toughness, and durability to that near Diamond. Enchantability remains the same.
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Upgraded Armor"]
+				#Upgraded Legs Defense Value (Default: 6).
+				#Range: 1 ~ 50
+				upgrade_legsdefense = 6
+				#Upgraded Boots Defense Value (Default: 3).
+				#Range: 1 ~ 50
+				upgrade_bootsdefense = 3
+				#Upgraded Chest Defense Value (Default: 8).
+				#Range: 1 ~ 50
+				upgrade_chestdefense = 8
+				#Upgraded Durability Value (Default: 35).
+				#Range: 1 ~ 50
+				upgrade_durabilityValue = 35
+				#Should Upgraded Armor exist? (Default: True)
+				upgrade_armor_true = true
+				#Upgraded Helm Defense Value (Default: 3).
+				#Range: 1 ~ 50
+				upgrade_helmDefense = 3
+				#Upgraded Armor Toughness Value (Default: 2).
+				#Range: 0 ~ 50
+				upgrade_toughness = 2
+				#Upgraded Knockback Resistance Value (Default: 0).
+				#Range: 0 ~ 50
+				upgrade_knockbackResistance = 0
+
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Phantom Armor"]
+				#Phantom Boots Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				phantom_bootsdefense = 1
+				#Phantom Chest Defense Value (Default: 4).
+				#Range: 1 ~ 50
+				phantom_chestdefense = 4
+				#Phantom Helm Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				phantom_helmDefense = 2
+				#Phantom Enchantability Value (Default: 18).
+				#Range: 1 ~ 50
+				phantom_enchantability = 18
+				#Phantom Armor Toughness Value (Default: 0).
+				#Range: 0 ~ 50
+				phantom_toughness = 0
+				#Phantom Legs Defense Value (Default: 4).
+				#Range: 1 ~ 50
+				phantom_legsdefense = 4
+				#Phantom Knockback Resistance Value (Default: 0).
+				#Range: 0 ~ 50
+				phantom_knockbackResistance = 0
+				#Should Phantom Armor exist? (Default: True)
+				phantom_armor_true = true
+				#Phantom Durability Value (Default: 14).
+				#Range: 1 ~ 50
+				phantom_durabilityValue = 14
+
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Shulker Armor"]
+				#Shulker Armor Toughness Value (Default: 1).
+				#Range: 0 ~ 50
+				shulker_toughness = 1
+				#Shulker Knockback Resistance Value (Default: 3).
+				#Range: 0 ~ 50
+				shulker_knockbackResistance = 3
+				#Shulker Legs Defense Value (Default: 6).
+				#Range: 1 ~ 50
+				shulker_legsdefense = 6
+				#Shulker Durability Value (Default: 30).
+				#Range: 1 ~ 50
+				shulker_durabilityValue = 30
+				#Shulker Enchantability Value (Default: 13).
+				#Range: 1 ~ 50
+				shulker_enchantability = 13
+				#Shulker Helm Defense Value (Default: 3).
+				#Range: 1 ~ 50
+				shulker_helmDefense = 3
+				#Shulker Boots Defense Value (Default: 3).
+				#Range: 1 ~ 50
+				shulker_bootsdefense = 3
+				#Should Shulker Armor exist? (Default: True)
+				shulker_armor_true = true
+				#Shulker Chest Defense Value (Default: 8).
+				#Range: 1 ~ 50
+				shulker_chestdefense = 8
+
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Goat Armor"]
+				#goat Durability Value (Default: 7).
+				#Range: 1 ~ 50
+				goat_durabilityValue = 7
+				#goat Legs Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				goat_legsdefense = 2
+				#Goat Armor Toughness Value (Default: 0).
+				#Range: 0 ~ 50
+				goat_toughness = 0
+				#Goat Knockback Resistance Value (Default: 0).
+				#Range: 0 ~ 50
+				goat_knockbackResistance = 0
+				#goat Boots Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				goat_bootsdefense = 1
+				#goat Chest Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				goat_chestdefense = 2
+				#goat Helm Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				goat_helmDefense = 1
+				#goat Enchantability Value (Default: 36).
+				#Range: 1 ~ 50
+				goat_enchantability = 15
+				#Should Goat Armor exist? (Default: True)
+				goat_armor_true = true
+
+			#The values for Shark armor. Thrasher armor has +3 the values here, and Great thrasher has +5.
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Shark Armor"]
+				#Shark Boots Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				shark_bootsdefense = 1
+				#Shark Chest Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				shark_chestdefense = 2
+				#Shark Enchantability Value (Default: 19).
+				#Range: 1 ~ 50
+				shark_enchantability = 19
+				#Shark Legs Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				shark_legsdefense = 2
+				#Shark Armor Toughness Value (Default: 0).
+				#Range: 0 ~ 50
+				shark_toughness = 0
+				#Shark Durability Value (Default: 7).
+				#Range: 1 ~ 50
+				shark_durabilityValue = 7
+				#Should Shark Armor exist? (Default: True)
+				shark_armor_true = true
+				#Shark Knockback Resistance Value (Default: 0).
+				#Range: 0 ~ 50
+				shark_knockbackResistance = 0
+				#Shark Helm Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				shark_helmDefense = 1
+
+			#The values for Wolf, Fox, and Firehound armors. Fire hound armor values are increased by an amount here based on these here.
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Wolf Armor"]
+				#Wolf/Fox Legs Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				wolf_legsdefense = 2
+				#Wolf/Fox Durability Value (Default: 5).
+				#Range: 1 ~ 50
+				wolf_durabilityValue = 5
+				#Wolf/Fox Helm Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				wolf_helmDefense = 1
+				#Wolf/Fox Knockback Resistance Value (Default: 0).
+				#Range: 0 ~ 50
+				wolf_knockbackResistance = 0
+				#Wolf/Fox Chest Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				wolf_chestdefense = 2
+				#Wolf/Fox Boots Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				wolf_bootsdefense = 1
+				#Wolf/Fox Enchantability Value (Default: 15).
+				#Range: 1 ~ 50
+				wolf_enchantability = 15
+				#Should Wolf Armor exist? (Default: True)
+				wolf_armor_true = true
+				#Wolf/Fox Armor Toughness Value (Default: 0).
+				#Range: 0 ~ 50
+				wolf_toughness = 0
+
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Nautilus Armor"]
+				#Should Nautilus Armor exist? (Default: True)
+				naut_armor_true = true
+				#Nautilus Chest Defense Value (Default: 4).
+				#Range: 1 ~ 50
+				naut_chestdefense = 4
+				#Nautilus Boots Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				naut_bootsdefense = 2
+				#Nautilus Armor Toughness Value (Default: 0).
+				#Range: 0 ~ 50
+				naut_toughness = 0
+				#Nautilus Knockback Resistance Value (Default: 3).
+				#Range: 0 ~ 50
+				naut_knockbackResistance = 3
+				#Nautilus Durability Value (Default: 15).
+				#Range: 1 ~ 50
+				naut_durabilityValue = 5
+				#Nautilus Enchantability Value (Default: 12).
+				#Range: 1 ~ 50
+				naut_enchantability = 15
+				#Nautilus Legs Defense Value (Default: 3).
+				#Range: 1 ~ 50
+				naut_legsdefense = 3
+				#Nautilus Helm Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				naut_helmDefense = 1
+
+			#The values for Bee, Nest, and Hive armors. Nest armor has +1 values here and Hive has +2.
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Bee Armor"]
+				#Should Bee Armor exist? (Default: True)
+				bee_armor_true = true
+				#Bee Chest Defense Value (Default: 3).
+				#Range: 1 ~ 50
+				bee_chestdefense = 3
+				#Bee Boots Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				bee_bootsdefense = 1
+				#Bee Knockback Resistance Value (Default: 0).
+				#Range: 0 ~ 50
+				bee_knockbackResistance = 0
+				#Bee Legs Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				bee_legsdefense = 2
+				#Bee Helm Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				bee_helmDefense = 1
+				#Bee Enchantability Value (Default: 16).
+				#Range: 1 ~ 50
+				bee_enchantability = 16
+				#Bee Armor Toughness Value (Default: 0).
+				#Range: 0 ~ 50
+				bee_toughness = 0
+				#Bee Durability Value (Default: 9).
+				#Range: 1 ~ 50
+				bee_durabilityValue = 9
+
+			[Armor."silverfish and Endermite Armor"."Magma Armors"."Bear Armor"]
+				#Should Bear Armor exist? (Default: True)
+				bear_armor_true = true
+				#Bear Legs Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				bear_legsdefense = 2
+				#Bear Chest Defense Value (Default: 2).
+				#Range: 1 ~ 50
+				bear_chestdefense = 2
+				#Bear Boots Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				bear_bootsdefense = 1
+				#Bear Helm Defense Value (Default: 1).
+				#Range: 1 ~ 50
+				bear_helmDefense = 1
+				#Bear Knockback Resistance Value (Default: 0).
+				#Range: 0 ~ 50
+				bear_knockbackResistance = 0
+				#Bear Enchantability Value (Default: 15).
+				#Range: 1 ~ 50
+				bear_enchantability = 15
+				#Bear Armor Toughness Value (Default: 0).
+				#Range: 0 ~ 50
+				bear_toughness = 0
+				#Bear Durability Value (Default: 6).
+				#Range: 1 ~ 50
+				bear_durabilityValue = 6
+
+	[Armor."halloween Armor"]
+		#Should halloween Armor exist? (Default: True)
+		halloween_armor_true = true
+		#halloween Helm Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		halloween_helmDefense = 4
+		#halloween Boots Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		halloween_bootsdefense = 3
+		#halloween Chest Defense Value (Default: 7).
+		#Range: 1 ~ 50
+		halloween_chestdefense = 7
+		#halloween Legs Defense Value (Default: 6).
+		#Range: 1 ~ 50
+		halloween_legsdefense = 6
+		#halloween Armor Toughness Value (Default: 0).
+		#Range: 0 ~ 50
+		halloween_toughness = 0
+		#halloween Enchantability Value (Default: 15).
+		#Range: 1 ~ 50
+		halloween_enchantability = 15
+		#halloween Durability Value (Default: 10).
+		#Range: 1 ~ 50
+		halloween_durabilityValue = 10
+		#halloween Knockback Resistance Value (Default: 0).
+		#Range: 0 ~ 50
+		halloween_knockbackResistance = 0
+
+	#Fermented and Poison spider armors are also based on these values, increased by a 1-2 points.
+	[Armor."Spider Armor"]
+		#Spider Boots Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		spider_bootsdefense = 1
+		#Spider Helm Defense Value (Default: 1).
+		#Range: 1 ~ 50
+		spider_helmDefense = 1
+		#Spider Armor Toughness Value (Default: 0).
+		#Range: 0 ~ 50
+		spider_toughness = 0
+		#Spider Chest Defense Value (Default: 4).
+		#Range: 1 ~ 50
+		spider_chestdefense = 4
+		#Spider Legs Defense Value (Default: 3).
+		#Range: 1 ~ 50
+		spider_legsdefense = 3
+		#Spider Knockback Resistance Value (Default: 0).
+		#Range: 0 ~ 50
+		spider_knockbackResistance = 0
+		#Spider Durability Value (Default: 10).
+		#Range: 1 ~ 50
+		spider_durabilityValue = 14
+		#Spider Enchantability Value (Default: 16).
+		#Range: 1 ~ 50
+		spider_enchantability = 16
+		#Should Spider Armor exist? (Default: True)
+		spider_armor_true = true
+

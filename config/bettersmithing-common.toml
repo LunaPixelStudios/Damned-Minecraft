@@ -1,0 +1,22 @@
+
+[Recipes]
+	#List of custom materials that can be heated.
+	#Parameters:
+	#> item - item id
+	#> tag - item tag id
+	#> minheat - minimum heating value for forging
+	#> maxheat - maximum heating value for forging
+	#> fuel_level (Soul soil fuel level = 1, other = 0) #optional
+	#Example: "tag = forge:eggs, minheat = 300, maxheat = 1000, fuel_level = 1"
+	HeatingMaterials = []
+	#Removes recipes for items that can be made at smithing table.
+	RemoveRecipes = true
+
+[Generation]
+	#Count of kaolin clay in one chunk [default = 6]
+	KaolinClayCount = 6
+	#Count of kaolin clay blocks in one place [default = 24]
+	KaolinClaySize = 24
+	#Maximum height of kaolin clay generation [default = 80]
+	KaolinClayMaxHeight = 80
+

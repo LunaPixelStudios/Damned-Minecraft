@@ -1,0 +1,6 @@
+{
+    "parent": "incendium:item/sentry",
+    "textures": {
+        "layer0": "incendium:item/sentry"
+    }
+}

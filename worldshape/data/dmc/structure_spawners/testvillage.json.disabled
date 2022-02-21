@@ -1,0 +1,14 @@
+{
+    "template": { 
+        "type": "single",
+        "id": "dmc:testvillage"
+     },
+    "placement": { 
+        "type": "surface",
+       "terraform": -1
+
+    },      
+
+    "averageSpacing": 8,  
+    "minimumSpacing": 6 
+}

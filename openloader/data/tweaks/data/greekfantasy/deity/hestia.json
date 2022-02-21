@@ -1,0 +1,6 @@
+{
+  "name": "greekfantasy:hestia",
+  "enabled": true,
+  "female": true,
+  "base": "minecraft:cut_sandstone_slab"
+}

@@ -1,0 +1,63 @@
+{
+    "id": "st0mp_335",
+    "weight": 0,
+    "unique_stats": [
+      {
+        "min": 25.0,
+        "max": 50.0,
+        "stat": "energy_regen",
+        "type": "flat"
+      },
+      {
+        "min": 10.0,
+        "max": 50.0,
+        "stat": "move_speed",
+        "type": "flat"
+      },
+      {
+        "min": 10.0,
+        "max": 30.0,
+        "stat": "agility",
+        "type": "flat"
+      }
+    ],
+    "base_stats": [
+      {
+        "min": 30,
+        "max": 10,
+        "stat": "dexterity",
+        "type": "flat"
+      },
+      {
+        "min": 0.33,
+        "max": 0.99,
+        "stat": "water_weapon_damage",
+        "type": "flat"
+      },
+      {
+        "min": 0.33,
+        "max": 0.99,
+        "stat": "triple_drop_chance",
+        "type": "flat"
+      },
+      {
+        "min": 20.0,
+        "max": 70.0,
+        "stat": "inc_effect_of_positive_buff_given",
+        "type": "flat"
+      },
+      {
+        "min": 10.0,
+        "max": 65.0,
+        "stat": "plus_to_divine",
+        "type": "flat"
+      }
+    ],
+    "rarity": "runeword",
+    "set": "",
+    "replaces_name": true,
+    "base_gear": "boots",
+    "filters": {
+      "list": []
+    }
+  }

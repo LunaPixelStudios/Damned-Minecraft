@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:nether_star",
+    "bountifulbaubles:ender_dragon_scale",
+    "quark:ravager_hide",
+    "alexsmobs:void_worm_mandible",
+    "alexsmobs:void_worm_eye",
+    "alexsmobs:void_worm_beak",
+    "iceandfire:dragonscales_red",
+    "iceandfire:dragonscales_green",
+    "iceandfire:dragonscales_bronze",
+    "iceandfire:dragonscales_gray",
+    "iceandfire:dragonscales_blue",
+    "iceandfire:dragonscales_white",
+    "iceandfire:dragonscales_sapphire",
+    "iceandfire:dragonscales_silver",
+    "iceandfire:dragonscales_electric",
+    "iceandfire:dragonscales_amythest",
+    "iceandfire:dragonscales_copper",
+    "iceandfire:dragonscales_black"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+	id: "02D85D9EFAD10120"
+	group: "75B5EF683272C3D8"
+	order_index: 1
+	filename: "bestiary_invisible"
+	title: "Bestiary Invisible"
+	always_invisible: true
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		tags: ["codex"]
+		x: -16.0d
+		y: -3.0d
+		id: "0EDCB58CAF455C79"
+		tasks: [{
+			id: "7894471038E4E69A"
+			type: "item"
+			icon: "mmorpg:scroll/paper"
+			item: {
+				id: "itemfilters:and"
+				Count: 1b
+				tag: {
+					items: [
+						{
+							id: "minecraft:paper"
+							Count: 1b
+						}
+						{
+							id: "itemfilters:strong_nbt"
+							Count: 1b
+							tag: {
+								value: {
+									display: {
+										Lore: ["[{\"text\":\"Maka, Common Knowledge\",\"italic\":false,\"color\":\"white\"}]"]
+										Name: "[{\"text\":\"Codex Entry\",\"italic\":false,\"color\":\"gold\"}]"
+									}
+								}
+							}
+						}
+					]
+				}
+			}
+			consume_items: false
+		}]
+	}]
+}
