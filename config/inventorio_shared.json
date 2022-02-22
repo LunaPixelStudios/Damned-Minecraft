@@ -1,1 +1,11 @@
-{"ExpandedEnderChest":true,"InfinityBowNeedsNoArrow":true,"TotemFromUtilityBelt":true,"AllowSwappedHands":true,"ToolBeltMode":"ENABLED","UtilityBeltShortDefaultSize":true,"DeepPocketsInTreasures":true,"DeepPocketsInTrades":true,"DeepPocketsInRandomSelection":true}
+{
+  "ExpandedEnderChest":true,
+  "InfinityBowNeedsNoArrow":true,
+  "TotemFromUtilityBelt":true,
+  "AllowSwappedHands":true,
+  "ToolBeltMode":"ENABLED",
+  "UtilityBeltShortDefaultSize":true,
+  "DeepPocketsInTreasures":true,
+  "DeepPocketsInTrades":true,
+  "DeepPocketsInRandomSelection":true
+}

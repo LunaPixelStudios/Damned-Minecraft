@@ -111,34 +111,6 @@
                 "ascent":7,
                 "height":7,
                 "chars":[""]
-        },
-       {
-         "type":"bitmap",
-         "file": "custom/emojis/villagerface.png",
-         "ascent": 7,
-         "height": 7,
-         "chars": [""]
-       },
-       {
-         "type":"bitmap",
-         "file":"custom/ui/dialogue/villagerfacelarge.png",
-         "ascent":2,
-         "height":40,
-         "chars":["ꍶ"]
-       },
-       {
-         "type": "bitmap",
-         "file": "custom/ui/dialogue/dialogueblank.png",
-         "ascent": 7,
-         "height": 24,
-         "chars": [""]
-       },
-       {
-         "type": "bitmap",
-         "file": "custom/ui/dialogue/speechbubble.png",
-         "ascent": 7,
-         "height": 7,
-         "chars": [""]
-       }
+        }
 ]
 }

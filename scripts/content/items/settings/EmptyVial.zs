@@ -34,6 +34,9 @@ import crafttweaker.api.util.text.MCTextComponent;
 <advanceditem:empty_vial>.setOnItemUseFinish((stack, world, livingEntity) => {
   var effectIndex = world.random.nextInt((globalArrays.posPots.length as int) -1 );
   if !world.remote && stack.hasTag {
+    if stack.effectB.getString() == null || stack.effectA.getString() == null || stack.effectC.getString() == null {
+        return stack;
+    }
     if stack.dmcOverride.asNumber() as int == 1 {
         if stack.effectB.getString() == "0" {
             if stack.effectB.asNumber() as double < 0 {
@@ -76,7 +79,6 @@ import crafttweaker.api.util.text.MCTextComponent;
 	        stack.shrink();
 	        (livingEntity as MCPlayerEntity).give(<item:minecraft:glass_bottle>);
 	    }
-
   }
   if !((stack.dmcDiscovered.asNumber() as int) == 1){
       (stack.tag as MapData).put("dmc_discovered", 1);
@@ -96,15 +98,15 @@ CTEventManager.register<MCPlayerTickEvent>((event) => {
 			var dmcDiscovered = stack.dmcDiscovered;
             if dmcDiscovered != null && stack.effectA != null {
                 if(dmcDiscovered.asNumber() as int) == 1 {
-                    if stack.effectA != null {
+                    if stack.effectA.getString() != null {
                         var effectA = stack.effectA.getString();
                         stack.addTooltip(((<effect:${effectA}> as MCPotionEffect).displayName) as MCTextComponent);
                     }
-                    if stack.effectB != null {
+                    if stack.effectB.getString() != null {
                         var effectB = stack.effectB.getString();
                         stack.addTooltip(((<effect:${effectB}> as MCPotionEffect).displayName) as MCTextComponent);
                     }
-                    if stack.effectC != null {
+                    if stack.effectC.getString() != null {
                         var effectC = stack.effectB.getString();
                         stack.addTooltip(((<effect:${effectC}> as MCPotionEffect).displayName) as MCTextComponent);
                     }

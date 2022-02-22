@@ -99,5 +99,18 @@
   "block.greekfantasy.altar_artemis": "Altar to Selune",
   "block.greekfantasy.altar_apollo": "Altar to Tymora",
   "block.greekfantasy.altar_ares": "Altar to Kord",
-  "block.greekfantasy.altar_aphrodite": "Altar to Sune"
+  "block.greekfantasy.altar_aphrodite": "Altar to Sune",
+  "item.occultism.spawn_egg.familiar_shub_niggurath": "Shub Familiar Spawn Egg",
+  "entity.occultism.shub_niggurath_familiar": "Shub Familiar",
+  "entity.occultism.shub_niggurath_spawn": "Shub Spawn",
+  "advancements.occultism.familiar.shub_niggurath_summon.title": "The Black Goat of the Woods",
+  "advancements.occultism.familiar.shub_niggurath_summon.description": "Transform your goat familiar into something terrible",
+  "advancements.occultism.familiar.shub_cthulhu_friends.title": "Eldritch Love",
+  "advancements.occultism.familiar.shub_cthulhu_friends.description": "Watch Shub and Cthulhu hold hands",
+  "advancements.occultism.familiar.shub_niggurath_spawn.title": "Think of the Children!",
+  "advancements.occultism.familiar.shub_niggurath_spawn.description": "Let a spawn of Shub damage an enemy by exploding",
+  "advancements.occultism.familiar.beholder_eat.description": "Watch your Beholder familiar eat a spawn of Shub",
+  "key.occultism.familiar.shub_niggurath_familiar": "Toggle Ring Effect: Shub",
+  "message.occultism.familiar.shub_niggurath_familiar.enabled": "Ring Effect - Shub: Enabled",
+  "message.occultism.familiar.shub_niggurath_familiar.disabled": "Ring Effect - Shub: Disabled"
 }

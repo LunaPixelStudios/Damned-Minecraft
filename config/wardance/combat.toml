@@ -88,7 +88,7 @@
 	"default mob multiplier" = 0.2
 
 [misc]
-	#number of ticks to disable a certain food item for after taking physical damage while eating it. Set to 0 to just interrupt eating, and -1 to disable this feature.
+	#number of ticks to halve adrenaline bonus after getting hit. Set to -1 to disable adrenaline altogether.
 	#Range: > -1
 	"food disable time" = 20
 

@@ -1,0 +1,61 @@
+
+#General Settings
+[general]
+	#If true, torches and lanterns will continue to lose fuel even while in the players inventory.
+	tickInInventory = false
+	#If true, certain animals will drop fat as an item, which can be used in lanterns.
+	animalsDropFat = true
+
+#Oil Can Settings
+[oil_can]
+	#The maximum fuel an oil can holds, in ticks.
+	#Range: > 1
+	maxCanFuel = 576000
+	#Do lanterns require an oil can to be fueled?
+	lanternsNeedCan = true
+	#Can torches be fueled with an oil can?
+	torchesUseCan = false
+	#Globally modify all oil can recipes. 0.5 means all items give half as much oil.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	oilRecipeMultiplier = 1.0
+	#0: Craft oil using can and animal fat
+	#1: Craft oil using can and coal
+	#2: Both enabled
+	#3: Disable recipes (You must provide custom JSON files, open the mod JAR to see format)
+	#Range: 0 ~ 3
+	oilRecipeType = 0
+
+#Torch Settings
+[torch]
+	#How long a torch lasts when crafted. There are 20 ticks per second so 48000 ticks = 20 minutes.
+	#Range: > 1
+	defaultTorchFuel = 48000
+	#Torches will become unlit when broken.
+	torchesExtinguishWhenBroken = true
+	#Overrides torchesExtinguishWhenBroken. Torches will be fully expended when broken (burnt torch or stick).
+	torchesBurnWhenDropped = true
+	#Fully expended torches will drop as sticks rather than burnt torches.
+	burntStick = true
+	#Torches will be affected when in the rain. Will smolder or become unlit depending on torchesSmolder.
+	torchesRain = true
+	#If a torch is in the rain and torchesRain = true, then it will smolder and burn fuel at 1/3rd the normal rate instead of becoming unlit.
+	torchesSmolder = true
+	#If true, torches must be lit after crafting.
+	craftUnlit = false
+	#Right click a torch without holding fuel or a lighter to unlight it.
+	handUnlightTorch = false
+
+#Lantern Settings
+[lantern]
+	#The max amount of fuel a lantern can hold. There are 20 ticks per second so 144000 ticks = 60 minutes.
+	#Range: > 1
+	defaultLanternFuel = 144000
+	#A lantern must have at least this much fuel to be ignited from unlit. Once lit it will continue to burn to 0
+	#Range: > 1
+	minLanternIgnitionFuel = 1
+	#The amount a fuel item adds to the lantern by default
+	#Range: > 1
+	defLanternFuelItem = 72000
+	#Right click a lantern without holding fuel or a lighter to unlight it.
+	handUnlightLantern = false
+

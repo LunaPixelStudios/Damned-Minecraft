@@ -6,7 +6,6 @@ import crafttweaker.api.item.Rarity;
 import crafttweaker.api.recipe.RecipeFunctionArray;
 import crafttweaker.api.util.text.MCStyle;
 import crafttweaker.api.util.text.MCTextComponent;
-import mods.eidolon.CrucibleRecipe;
 import mods.farmersdelight.CuttingBoard;
 
 // Removal

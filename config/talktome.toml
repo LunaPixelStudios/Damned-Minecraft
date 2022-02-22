@@ -1,0 +1,8 @@
+
+#Settings
+[settings]
+	#This changes the size of dialogue.
+	size = 2.0
+	#Auto-run text?
+	auto = true
+

@@ -1,0 +1,53 @@
+
+[NotLivingEntity]
+	#Damage of the Void Rune.
+	#Range: 0 ~ 1000000
+	Voidrunedamage = 7
+	#Radius of the Lava bomb.
+	#Range: 1 ~ 7
+	Lavabombradius = 2
+
+["Ender Guardian"]
+	#Health of the EnderGuardian.
+	#Range: 0.0 ~ 1000000.0
+	EnderGuardianHealth = 300.0
+	#Damage of the EnderGuardian.
+	#Range: 0.0 ~ 1000000.0
+	EnderGuardianDamage = 16.0
+	#DamageCap of the EnderGuardian.
+	#Range: 0 ~ 1000000
+	EnderGuardianDamageCap = 22
+	#Ender guardian's block breaking ignore the MobGriefing
+	EnderguardianBlockBreaking = true
+	#ruined citadel spawn
+	RuinedcitadelSpawn = true
+	#Ender guardian's bodyBlocking verdict
+	EnderguardianBodyBloking = true
+
+["Netherite Monstrosity"]
+	#Lavabombmagazine of the Monstrosity.
+	#Range: 1 ~ 1000000
+	LavabombMagazine = 3
+	#Lavabombamount of the Monstrosity.
+	#Range: 1 ~ 1000000
+	Lavabombamount = 3
+	#Health of the Monstrosity.
+	#Range: 0.0 ~ 1000000.0
+	MonstrosityHealth = 360.0
+	#Damage of the Monstrosity.
+	#Range: 0.0 ~ 1000000.0
+	MonstrosityDamage = 22.0
+	#DamageCap of the Monstrosity.
+	#Range: 0 ~ 1000000
+	MonstrosityDamageCap = 22
+	#soul black smith spawn
+	SoulblacksmithSpawn = true
+	#Monstrosity's bodyBlocking verdict
+	NetheritemonstrosityBodyBloking = true
+
+["Ender Golem"]
+	#Ender Golem's block breaking ignore the MobGriefing
+	EndergolemBlockBreaking = false
+	#Ender Golem's bodyBlocking verdict
+	EndergolemBodyBloking = true
+

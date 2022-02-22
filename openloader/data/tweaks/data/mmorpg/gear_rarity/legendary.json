@@ -3,8 +3,7 @@
   "drops_after_tier": 1,
   "affixes": 5,
   "sockets": 1,
-  "upgrade_lvl_to_increase_rar": 8,
-  "unbreaking_chance": 30,
+  "upgrade_lvl_to_increase_rar": -1,
   "rar_ess_per_sal": 1,
   "default_stat_percents": {
     "min": 20,
@@ -26,7 +25,10 @@
     "min": 2,
     "max": 4
   },
-  "upgrades": 5,
+  "upgrades": {
+    "min": 3,
+    "max": 5
+  },
   "item_tier": 4,
   "item_tier_power": 1.85,
   "item_value_multi": 1.85,

@@ -4,9 +4,6 @@
 #Number of ticks after gaining might during which it will not decrease
 #Range: > 1
 "might grace period" = 100
-#Number of ticks after gaining combo during which it will not decrease
-#Range: > 1
-"combo grace period" = 100
 #Number of ticks after consuming spirit during which it will not regenerate
 #Range: > 1
 "spirit cooldown" = 60

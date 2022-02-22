@@ -7,7 +7,7 @@
 	#For Client Config: Spawn chance when on servers that do not have Hats installed.
 	#For Server Config: Spawn chance for entities which support hats.
 	#Range: 0.0 ~ 1.0
-	hatChance = 0.1
+	hatChance = 0.05
 	#The Toast title when a hat/accessory is unlocked. 0 = Random, 1 = Hat Unlocked, 2 = New Hat, 3 = Hat Acquired, 4 = Hat Collected, 5 = Hat Get
 	#Range: 0 ~ 5
 	hatUnlockString = 0

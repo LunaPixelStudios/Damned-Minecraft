@@ -17,6 +17,8 @@
 	craftsouls = 1
 	#Show numerical amount of Souls on the Soul Energy Bar, Default: false
 	shownum = false
+	#If Players can obtain the Evil Eye, Default: false
+	evileye = false
 
 [Protectors]
 	#Hired Timer, Default: 24000
@@ -73,7 +75,7 @@
 	#Osseous Spell Cost, Default: 8
 	#Range: > 0
 	skeletoncost = 8
-	#Crippling Spell Cost, Default: 15
+	#Witch's Gale Spell Cost, Default: 15
 	#Range: > 0
 	cripplecost = 15
 	#Spiderling Spell Cost per second, Default: 2
@@ -82,7 +84,7 @@
 	#Brain Eater Spell Cost per second, Default: 5
 	#Range: > 0
 	braincost = 5
-	#How much Experience the above spell Cost per heal, Default: 10
+	#How much Experience the above spell Cost per heal, Default: 40
 	#Range: 0 ~ 1000
 	brainxpcost = 10
 	#Teleport Spell Cost, Default: 5
@@ -97,6 +99,12 @@
 	#Tempting Spell Cost, Default: 2
 	#Range: > 0
 	temptingcost = 2
+	#Dragon Fireball Spell Cost, Default: 64
+	#Range: > 0
+	dragonfireballcost = 64
+	#Creeperling Spell Cost per second, Default: 8
+	#Range: > 0
+	creeperlingcost = 8
 
 ["Casting Time"]
 	#Time to cast Vex Spell, Default: 100
@@ -114,7 +122,7 @@
 	#Time to cast Osseous Spell, Default: 60
 	#Range: 0 ~ 72000
 	skeletontime = 60
-	#Time to cast Crippling Spell, Default: 20
+	#Time to cast Witch's Gale Spell, Default: 20
 	#Range: 0 ~ 72000
 	crippletime = 20
 	#Time to cast Spiderling Spell per second, Default: 10
@@ -129,6 +137,12 @@
 	#Time to cast Tempting Spell per second, Default: 20
 	#Range: 0 ~ 72000
 	temptingtime = 20
+	#Time to cast Dragon Fireball Spell, Default: 30
+	#Range: 0 ~ 72000
+	dragonfireballtime = 30
+	#Time to cast Creeperling Spell per second, Default: 10
+	#Range: 0 ~ 72000
+	creeperlingtime = 20
 
 ["Summon Down Duration"]
 	#Vex Spell Cooldown, Default: 340
@@ -192,4 +206,11 @@
 	#Number of Vex Minions that can be spawn with a staff, without instantly dying, around the player, Default: 16
 	#Range: > 1
 	staffvexlimit = 16
+	#Whether Minions can attack Creepers if Mob Griefing Rule is False, Default: true
+	minionattackcreepers = true
+	#Whether Undead Minions can heal if summoned while wearing Necro Robes, Default: true
+	undeadminionheal = true
+	#How much Soul Energy it cost per second for an Undead Minion to heal, Default: 5
+	#Range: > 1
+	undeadminionhealcost = 5
 

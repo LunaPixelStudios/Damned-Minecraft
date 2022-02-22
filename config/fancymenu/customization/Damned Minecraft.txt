@@ -19,14 +19,6 @@ customization {
 }
 
 customization {
-  identifier = %id=604346%
-  orientation = bottom-left
-  x = 0
-  action = movebutton
-  y = -20
-}
-
-customization {
   identifier = %id=400322%
   orientation = mid-centered
   x = -25
@@ -62,14 +54,6 @@ customization {
 }
 
 customization {
-  identifier = %id=376322%
-  orientation = bottom-left
-  x = 40
-  action = movebutton
-  y = -20
-}
-
-customization {
   identifier = %id=400382%
   orientation = mid-centered
   x = -238
@@ -102,9 +86,9 @@ customization {
 customization {
   identifier = %id=502382%
   orientation = mid-centered
-  x = -128
+  x = -129
   action = movebutton
-  y = 52
+  y = 51
 }
 
 customization {
@@ -197,14 +181,6 @@ customization {
 customization {
   identifier = %id=502346%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=376346%
-  orientation = bottom-left
-  x = 20
-  action = movebutton
-  y = -20
 }
 
 customization {
