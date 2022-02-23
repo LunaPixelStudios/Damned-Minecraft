@@ -34,7 +34,7 @@ import crafttweaker.api.util.text.MCTextComponent;
 <advanceditem:empty_vial>.setOnItemUseFinish((stack, world, livingEntity) => {
   var effectIndex = world.random.nextInt((globalArrays.posPots.length as int) -1 );
   if !world.remote && stack.hasTag {
-    if stack.effectB.getString() == null || stack.effectA.getString() == null || stack.effectC.getString() == null {
+    if stack.effectB.isEmpty || stack.effectC.isEmpty || stack.effectA.isEmpty || stack.dmcOverride == null || stack.dmcSips == null{
         return stack;
     }
     if stack.dmcOverride.asNumber() as int == 1 {
@@ -96,17 +96,17 @@ CTEventManager.register<MCPlayerTickEvent>((event) => {
     if <item:contenttweaker:empty_vial>.matches(stack) {
         if !world.remote && stack.hasTag {
 			var dmcDiscovered = stack.dmcDiscovered;
-            if dmcDiscovered != null && stack.effectA != null {
+            if !(stack.effectA.isEmpty) {
                 if(dmcDiscovered.asNumber() as int) == 1 {
-                    if stack.effectA.getString() != null {
+                    if !stack.effectA.isEmpty {
                         var effectA = stack.effectA.getString();
                         stack.addTooltip(((<effect:${effectA}> as MCPotionEffect).displayName) as MCTextComponent);
                     }
-                    if stack.effectB.getString() != null {
+                    if !stack.effectB.isEmpty {
                         var effectB = stack.effectB.getString();
                         stack.addTooltip(((<effect:${effectB}> as MCPotionEffect).displayName) as MCTextComponent);
                     }
-                    if stack.effectC.getString() != null {
+                    if !stack.effectC.isEmpty {
                         var effectC = stack.effectB.getString();
                         stack.addTooltip(((<effect:${effectC}> as MCPotionEffect).displayName) as MCTextComponent);
                     }

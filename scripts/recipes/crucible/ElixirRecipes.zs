@@ -1,8 +1,13 @@
+#debug
+
 import mods.eidolon.Crucible;
 
 import crafttweaker.api.item.IItemStack;
 import crafttweaker.api.item.IIngredient;
 import crafttweaker.api.tag.TagManager;
+import crafttweaker.api.data.IData;
+import crafttweaker.api.data.MapData;
+import crafttweaker.api.data.IntData;
 
 Crucible.create("elixir_of_healing",
 <item:contenttweaker:empty_vial>.withTag({
@@ -36,6 +41,20 @@ Crucible.create("nimblefeet_elixir",
 }))
 .addStep([<item:contenttweaker:aurwynn_vial>, <item:contenttweaker:ordalis_vial>, <item:contenttweaker:yunagaz_vial>], (output as IItemStack, input as IItemStack[], stirs as int) => {
      return output;
+ })
+.addStep(3)
+.register();
+
+Crucible.create("pot_up",
+<item:contenttweaker:empty_vial>)
+.addStep([<item:contenttweaker:empty_vial>, <item:contenttweaker:yhivren_vial>], (output as IItemStack, input as IItemStack[], stirs as int) => {
+	for item in input {
+        if <item:contenttweaker:empty_vial>.matches(item){
+            (item.getOrCreate as MapData).put("dmc_potency", (item.dmcPotency.asNumber() as int) + 1);
+            return item;
+        }
+    }
+    return output;
  })
 .addStep(3)
 .register();

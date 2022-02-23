@@ -206,4 +206,11 @@
 	#Number of Vex Minions that can be spawn with a staff, without instantly dying, around the player, Default: 16
 	#Range: > 1
 	staffvexlimit = 16
+	#Whether Minions can attack Creepers if Mob Griefing Rule is False, Default: true
+	minionattackcreepers = true
+	#Whether Undead Minions can heal if summoned while wearing Necro Robes, Default: true
+	undeadminionheal = true
+	#How much Soul Energy it cost per second for an Undead Minion to heal, Default: 5
+	#Range: > 1
+	undeadminionhealcost = 5
 

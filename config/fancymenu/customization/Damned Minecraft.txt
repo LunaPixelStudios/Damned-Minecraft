@@ -49,6 +49,71 @@ customization {
 }
 
 customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = -129
+  action = movebutton
+  y = 51
+}
+
+customization {
+  identifier = %id=502382%
+  width = 258
+  action = resizebutton
+  height = 38
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\assets\BH_DM_ASSETS\quitgamehover.png
+  backgroundnormal = config\fancymenu\assets\BH_DM_ASSETS\quitgame.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -238
+  action = movebutton
+  y = -43
+}
+
+customization {
+  identifier = %id=400298%
+  width = 258
+  action = resizebutton
+  height = 39
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\assets\BH_DM_ASSETS\singleplayerhover.png
+  backgroundnormal = config\fancymenu\assets\BH_DM_ASSETS\singleplayer.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=604382%
   action = hidebutton
 }
@@ -84,68 +149,8 @@ customization {
 }
 
 customization {
-  identifier = %id=502382%
-  orientation = mid-centered
-  x = -129
-  action = movebutton
-  y = 51
-}
-
-customization {
-  identifier = %id=502382%
-  width = 258
-  action = resizebutton
-  height = 38
-}
-
-customization {
-  identifier = %id=502382%
-  action = setbuttonlabel
-  value = 
-}
-
-customization {
-  identifier = %id=502382%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config\fancymenu\assets\BH_DM_ASSETS\quitgamehover.png
-  backgroundnormal = config\fancymenu\assets\BH_DM_ASSETS\quitgame.png
-}
-
-customization {
   identifier = %id=376382%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=400298%
-  orientation = mid-centered
-  x = -238
-  action = movebutton
-  y = -43
-}
-
-customization {
-  identifier = %id=400298%
-  width = 258
-  action = resizebutton
-  height = 39
-}
-
-customization {
-  identifier = %id=400298%
-  action = setbuttonlabel
-  value = 
-}
-
-customization {
-  identifier = %id=400298%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config\fancymenu\assets\BH_DM_ASSETS\singleplayerhover.png
-  backgroundnormal = config\fancymenu\assets\BH_DM_ASSETS\singleplayer.png
 }
 
 customization {
@@ -176,11 +181,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = config\fancymenu\assets\BH_DM_ASSETS\modshover.png
   backgroundnormal = config\fancymenu\assets\BH_DM_ASSETS\mods.png
-}
-
-customization {
-  identifier = %id=502346%
-  action = hidebutton
 }
 
 customization {
@@ -226,5 +226,26 @@ customization {
   backgroundnormal = config\fancymenu\assets\BH_DM_ASSETS\discord.png
   value = https://discord.gg/ccFpzT5HVF
   height = 28
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = bottom-left
+  x = 0
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=5023461%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = bottom-left
+  x = 20
+  action = movebutton
+  y = -20
 }
 

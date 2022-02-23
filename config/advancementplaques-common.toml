@@ -17,7 +17,7 @@
 		on_top = true
 		# The distance from the top or bottom of the screen, in pixels.
 		#Range: 8 ~ 256
-		distance = 16
+		distance = 32
 		# If plaques should show for challenge advancements (high-difficulty advancements).
 		challenges = true
 		# Hide waila/hwyla/jade popups while plaques are showing.
