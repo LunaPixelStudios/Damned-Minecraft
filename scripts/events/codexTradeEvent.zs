@@ -5,6 +5,9 @@ import crafttweaker.api.world.MCWorld;
 import crafttweaker.api.item.IItemStack;
 import crafttweaker.api.util.text.MCTextComponent;
 import crafttweaker.api.util.text.MCStyle;
+import crafttweaker.api.entity.MCLivingEntity;
+import mods.talktome.CTDialogueTrainBuilder;
+import mods.talktome.Dialogue;
 
 CTEventManager.register<crafttweaker.api.event.entity.player.interact.MCEntityInteractEvent>((event) => {
     val player = event.player as MCPlayerEntity;
@@ -21,14 +24,14 @@ CTEventManager.register<crafttweaker.api.event.entity.player.interact.MCEntityIn
             for entry in CodexEntries.entryList {
                 if offHandItem.matches(entry.ingredient) {
                 var rand = world.random.nextInt(0,1);
-                var response = librarianResponses.responses[rand];
-                player.sendMessage(MCTextComponent.createTranslationTextComponent("util.damnedmc.dialogueblank"));
-                player.sendMessage(MCTextComponent.createTranslationTextComponent("icon.damnedmc.villagerlarge") + MCTextComponent.createTranslationTextComponent("util.damnedmc.dialogueblank") + MCTextComponent.createTranslationTextComponent("util.damnedmc.speechbubble") + MCTextComponent.createStringTextComponent("Villager").setStyle(new MCStyle().setBold(true).setColor(<formatting:gray>)));
-                player.sendMessage(MCTextComponent.createTranslationTextComponent("util.damnedmc.dialogueblank") + MCTextComponent.createStringTextComponent("    ") + MCTextComponent.createStringTextComponent(response[0]).setStyle(<formatting:green>));
-                player.sendMessage(MCTextComponent.createTranslationTextComponent("util.damnedmc.dialogueblank") + MCTextComponent.createStringTextComponent("    ") + MCTextComponent.createStringTextComponent(response[1]).setStyle(<formatting:green>));
-                player.sendMessage(MCTextComponent.createTranslationTextComponent("util.damnedmc.dialogueblank") + MCTextComponent.createStringTextComponent("       ") + MCTextComponent.createStringTextComponent("The villager hands you a sheet of paper.").setStyle(<formatting:dark_gray>));
-                player.sendMessage(MCTextComponent.createTranslationTextComponent("util.damnedmc.dialogueblank") + MCTextComponent.createStringTextComponent("           ") + MCTextComponent.createStringTextComponent("Place this in your ").setStyle(<formatting:dark_gray>) + MCTextComponent.createStringTextComponent("Codex").setStyle((<formatting:yellow> as MCStyle).setUnderlined(true)));
-                player.sendMessage(MCTextComponent.createTranslationTextComponent("util.damnedmc.dialogueblank"));
+                if (TrainHelpers.lib1 == false) {
+                    TrainHelpers.dynamicTrain(librarianResponses.responses[rand] as string[], 2.0 as float, "dmc:librarian.1", "dmc:librarian", true, false, "Are you new here?", ["dmc:test.1", "Yes!"], ["dmc:test.2", "No."]);
+                    TrainHelpers.lib1 = true;
+                }
+                if (event.getTarget().getType() == <entitytype:minecraft:villager> && event.getTarget() is MCLivingEntity) {
+                    Dialogue.playDialogue(event.getPlayer(), event.getTarget() as MCLivingEntity,"dmc:librarian");
+                //println(librarianResponses.responses[rand] as string);
+                }
                 player.setHeldItem(MCHand.MAIN_HAND, entry.page);
                 player.setHeldItem(MCHand.OFF_HAND, <item:minecraft:air>);
                 }

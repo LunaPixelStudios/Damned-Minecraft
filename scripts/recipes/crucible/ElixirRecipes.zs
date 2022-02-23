@@ -1,5 +1,3 @@
-#debug
-
 import mods.eidolon.Crucible;
 
 import crafttweaker.api.item.IItemStack;
@@ -13,8 +11,6 @@ Crucible.create("elixir_of_healing",
 <item:contenttweaker:empty_vial>.withTag({
 	dmc_vial_col: 16066600,
 	dmc_conc_effect_a: "minecraft:instant_health",
-	dmc_conc_effect_b: 0,
-	dmc_conc_effect_c: 0,
 	dmc_override: 1,
 	display:{Name:'[{"text":"Elixir of Healing","italic":false,"color":"gold"}]'},
 	dmc_sips: 3,
@@ -31,8 +27,6 @@ Crucible.create("nimblefeet_elixir",
 <item:contenttweaker:empty_vial>.withTag({
 	dmc_vial_col: 261339,
 	dmc_conc_effect_a: "minecraft:swiftness",
-	dmc_conc_effect_b: 0,
-	dmc_conc_effect_c: 0,
 	dmc_override: 1,
 	display:{Name:'[{"text":"Nimblefoot Elixir","italic":false,"color":"gold"}]'},
 	dmc_sips: 3,
@@ -45,16 +39,18 @@ Crucible.create("nimblefeet_elixir",
 .addStep(3)
 .register();
 
-Crucible.create("pot_up",
-<item:contenttweaker:empty_vial>)
-.addStep([<item:contenttweaker:empty_vial>, <item:contenttweaker:yhivren_vial>], (output as IItemStack, input as IItemStack[], stirs as int) => {
+var putup = Crucible.create("pot_up",
+<item:contenttweaker:empty_vial>);
+putup.addStep([<item:contenttweaker:empty_vial>, <item:contenttweaker:yhivren_vial>], (output as IItemStack, input as IItemStack[], stirs as int) => {
 	for item in input {
         if <item:contenttweaker:empty_vial>.matches(item){
             (item.getOrCreate as MapData).put("dmc_potency", (item.dmcPotency.asNumber() as int) + 1);
+			println("potency up!");
             return item;
         }
     }
+	println("potency down!");
     return output;
- })
-.addStep(3)
-.register();
+ });
+putup.addStep(3);
+putup.register();

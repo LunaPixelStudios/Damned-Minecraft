@@ -34,45 +34,28 @@ import crafttweaker.api.util.text.MCTextComponent;
 <advanceditem:empty_vial>.setOnItemUseFinish((stack, world, livingEntity) => {
   var effectIndex = world.random.nextInt((globalArrays.posPots.length as int) -1 );
   if !world.remote && stack.hasTag {
-    if stack.effectB.isEmpty || stack.effectC.isEmpty || stack.effectA.isEmpty || stack.dmcOverride == null || stack.dmcSips == null{
+    if stack.effectA.getString().isEmpty || stack.dmcOverride == null || stack.dmcSips == null{
         return stack;
     }
     if stack.dmcOverride.asNumber() as int == 1 {
-        if stack.effectB.getString() == "0" {
-            if stack.effectB.asNumber() as double < 0 {
-                var effect = Functions.round(stack.effectB.asNumber() as double) as int;
-                livingEntity.addPotionEffect((globalArrays.posPots[effect as usize] as MCPotionEffect).newInstance(400, 1));
-            }
+        
+        var setEffect = stack.effectA.getString();
+	    livingEntity.addPotionEffect((<effect:${setEffect}> as MCPotionEffect).newInstance(100, (stack.dmcPotency.asNumber() as int) - 1));
+        
+        if stack.effectB.getString().isEmpty {
+
         } else {
             var setEffect = stack.effectB.getString();
             livingEntity.addPotionEffect((<effect:${setEffect}> as  MCPotionEffect).newInstance(100,2));
         }
-        if ((stack.tag as MapData).dmc_conc_effect_c as IData).getString() == "0" {
-            if stack.effectC.asNumber() as double < 0 {
-                var effect = Functions.round(stack.effectC.asNumber() as double) as int;
-                livingEntity.addPotionEffect((globalArrays.negPots[effect as usize] as MCPotionEffect).newInstance(400, 1));
-            }
+        if stack.effectC.getString().isEmpty {
+
         } else {
             var setEffect = stack.effectC.getString();
             livingEntity.addPotionEffect((<effect:${setEffect}> as  MCPotionEffect).newInstance(100,2));
         }
-        if stack.effectA.getString() == "0" {
-
-        } else {
-	        var setEffect = stack.effectA.getString();
-	        livingEntity.addPotionEffect((<effect:${setEffect}> as MCPotionEffect).newInstance(100, (stack.dmcPotency.asNumber() as int) - 1));
-        }
-    } else {
-	    if stack.effectB.asNumber() as double < 0 {
-	        var effect = Functions.round(stack.effectB.asNumber() as double * 10) as int;
-	        livingEntity.addPotionEffect((globalArrays.posPots[effect] as MCPotionEffect).newInstance(400, 1));
-	    }
-	    if ((stack.tag as MapData).dmc_conc_effect_c as IData).asNumber() as double < 0 {
-	        var effect = Functions.round(stack.effectC.asNumber() as double  * 10) as int;
-	        livingEntity.addPotionEffect((globalArrays.negPots[effect] as MCPotionEffect).newInstance(400, 1));
-	    }
-	    livingEntity.addPotionEffect((globalArrays.posPots[stack.effectA.asNumber() as int as usize] as MCPotionEffect).newInstance(100, 2));
-	    }
+	    
+    }
 	    if stack.dmcSips.asNumber() as int > 0 {
 	        (stack.tag as MapData).put("dmc_sips", (stack.dmcSips.asNumber() as int) - 1);
 	    } else {
@@ -96,18 +79,18 @@ CTEventManager.register<MCPlayerTickEvent>((event) => {
     if <item:contenttweaker:empty_vial>.matches(stack) {
         if !world.remote && stack.hasTag {
 			var dmcDiscovered = stack.dmcDiscovered;
-            if !(stack.effectA.isEmpty) {
+            if !(stack.effectA.getString().isEmpty) {
                 if(dmcDiscovered.asNumber() as int) == 1 {
-                    if !stack.effectA.isEmpty {
+                    if !stack.effectA.getString().isEmpty {
                         var effectA = stack.effectA.getString();
                         stack.addTooltip(((<effect:${effectA}> as MCPotionEffect).displayName) as MCTextComponent);
                     }
-                    if !stack.effectB.isEmpty {
+                    if !stack.effectB.getString().isEmpty {
                         var effectB = stack.effectB.getString();
                         stack.addTooltip(((<effect:${effectB}> as MCPotionEffect).displayName) as MCTextComponent);
                     }
-                    if !stack.effectC.isEmpty {
-                        var effectC = stack.effectB.getString();
+                    if !stack.effectC.getString().isEmpty {
+                        var effectC = stack.effectC.getString();
                         stack.addTooltip(((<effect:${effectC}> as MCPotionEffect).displayName) as MCTextComponent);
                     }
                 }

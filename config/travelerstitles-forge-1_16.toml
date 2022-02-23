@@ -8,7 +8,7 @@
 		# If enabled, dimensions without ceilings (like the Overworld) will only display titles when the player is exposed to the skylight.
 		# This prevents dimension & biome titles from showing while the user is underground.
 		# Default: true
-		"Only Show Titles When Exposed To Skylight" = false
+		"Only Show Titles When Exposed To Skylight" = true
 
 	###########################################################################################################
 	## Biome Title settings.
@@ -46,11 +46,11 @@
 		# If Horizontally Center Title is enabled, this number is relative to the center of the screen.
 		# If Horizontally Center Title is disabled, this number is relative to the top of the screen.
 		# Default: -33.0
-		"Text Y Offset" = -54.0
+		"Text Y Offset" = -49.0
 		# Biomes that should not have any title displayed when the player enters them.
 		# Example: "[minecraft:plains, minecraft:desert]"
 		# Default: "[minecraft:the_end, minecraft:river, minecraft:frozen_river]"
-		"Blacklisted Biomes" = "[minecraft:the_end]"
+		"Blacklisted Biomes" = "[minecraft:the_end, minecraft:river, minecraft:frozen_river]"
 		# Traveler's Titles tracks a list of biomes the player most recently visited in order to
 		# prevent the player from being spammed with titles when they move between the same few biomes.
 		# This is the size of that list.
@@ -103,7 +103,7 @@
 		# If Horizontally Center Title is enabled, this number is relative to the center of the screen.
 		# If Horizontally Center Title is disabled, this number is relative to the top of the screen.
 		# Default: -32.0
-		"Text Y Offset" = -55.0
+		"Text Y Offset" = -50.0
 		# Dimensions that should not have any title displayed when the player enters them.
 		# Example: "[minecraft:overworld, minecraft:the_nether]"
 		# Default: "[]"
