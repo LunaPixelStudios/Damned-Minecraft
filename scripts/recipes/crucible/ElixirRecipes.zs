@@ -42,15 +42,8 @@ Crucible.create("nimblefeet_elixir",
 var putup = Crucible.create("pot_up",
 <item:contenttweaker:empty_vial>);
 putup.addStep([<item:contenttweaker:empty_vial>, <item:contenttweaker:yhivren_vial>], (output as IItemStack, input as IItemStack[], stirs as int) => {
-	for item in input {
-        if <item:contenttweaker:empty_vial>.matches(item){
-            (item.getOrCreate as MapData).put("dmc_potency", (item.dmcPotency.asNumber() as int) + 1);
-			println("potency up!");
-            return item;
-        }
-    }
-	println("potency down!");
-    return output;
+	var item = input[0];
+	(item.getOrCreate as MapData).put("dmc_potency", (item.dmcPotency.asNumber() as int) + 1);
+    return item;
  });
-putup.addStep(3);
 putup.register();

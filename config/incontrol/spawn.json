@@ -43,6 +43,45 @@
           "perplayer": false
         },
         "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "lycanitesmobs:jouste",
+        "maxcount": {
+          "amount": 0,
+          "perplayer": false
+        },
+        "result": "deny"
+      },
+      {
+        "dimension":"minecraft:overworld",
+        "mob": "lycanitesmobs:joustealpha",
+        "maxcount": {
+          "amount": 0,
+          "perplayer": false
+        },
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "lycanitesmobs:maka",
+        "maxcount": {
+          "amount": 0,
+          "perplayer": false
+        },
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "lycanitesmobs:makaalpha",
+        "maxcount": {
+          "amount": 0,
+          "perplayer": false
+        },
+        "result": "deny"
       }
+
+
+
 
 ]

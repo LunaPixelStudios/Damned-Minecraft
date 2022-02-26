@@ -22,7 +22,7 @@ public class TrainHelpers {
             var decisionVar = new mods.talktome.CTNpcDialogueDecisionBuilder();
             decisionVar.setString(question);
             decisionVar.setOption1(op1[0] as string, op1[1] as string);
-            decisionVar.setOption2(op2[0] as string, op2[1] as string);
+            decisionVar.setOption2(op2[0] as string, op2[1] as string).save();
             trainBuilder.addDecision(decisionVar);
         }
         trainBuilder.save(train, global);
@@ -32,11 +32,12 @@ TrainHelpers.dynamicTrain(["login.1", "login.2"] as string[], 1.5 as float, "dmc
 TrainHelpers.dynamicTrain(["test.1", "test.2"] as string[], 1.5 as float, "dmc:test.1", "dmc:test1", false, false, "", ["", ""] as string[], ["", ""] as string[]);
 TrainHelpers.dynamicTrain(["test.3", "test.4"] as string[], 1.5 as float, "dmc:test.2", "dmc:test2", false, false, "", ["", ""] as string[], ["", ""] as string[]);
 
-/*
+
 CTEventManager.register<MCEntityInteractEvent>(event => {
     val player = event.getPlayer() as MCPlayerEntity;
     val world = player.world as MCWorld;
     var rand = world.random.nextInt(0, 1);
+    // TODO: register all possible interaction events and randomize them on interact.
     if (TrainHelpers.lib1 == false) {
         TrainHelpers.dynamicTrain(librarianResponses.responses[rand] as string[], 2.0 as float, "dmc:librarian.1", "dmc:librarian", true, false, "Are you new here?", ["dmc:test.1", "Yes!"], ["dmc:test.2", "No."]);
         TrainHelpers.lib1 = true;
@@ -45,4 +46,4 @@ CTEventManager.register<MCEntityInteractEvent>(event => {
         Dialogue.playDialogue(event.getPlayer(), player as MCLivingEntity,"dmc:librarian");
     //println(librarianResponses.responses[rand] as string);
     }
-});*/
+});

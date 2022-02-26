@@ -26,7 +26,7 @@ craftingTable.addShapeless( "advdungeonkey",
     });
 <recipetype:farmersdelight:cooking>.addRecipe("cooking_pot_test",
 	<item:contenttweaker:yeowryn_vial>,
-    [<item:farmersrespite:rose_hips>, <item:hexerei:sage>, <item:hexerei:yellow_dock_bush>, <item:pandoras_creatures:dhania>],
+    [<item:farmersrespite:rose_hips>, <item:hexerei:sage>, <item:hexerei:yellow_dock_bush>],
     <item:contenttweaker:mundane_vial>,
     10,
     400,

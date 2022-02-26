@@ -4,7 +4,7 @@
   "NORMAL_STAT_SCALING": {
     "base_scaling": 1.0,
     "per_level_scaling": 0.5,
-    "cap_to_max_lvl": true
+    "cap_to_max_lvl": false
   },
   "SLOW_STAT_SCALING": {
     "base_scaling": 1.0,

@@ -53,13 +53,13 @@
 	#How much knowledge experience standing near a creature gives per second.
 	creatureProximityKnowledge = 0
 	#The minimum interval in ticks between random idle sounds.
-	idleSoundTicks = 100
+	idleSoundTicks = 1000
 	#If set to true the soulbound dimension list acts as a whitelist, otherwise it is a blacklist.
 	soulboundDimensionWhitelist = false
 	#Controls how fused mobs combine their levels. Can be 'both' (default) where both levels are added together, 'highest' where the higher level is used and 'lowest' where the lowest level is used.
 	elementalFusionLevelMix = "both"
 	#The maximum size scale mobs can randomly spawn at.
-	randomSizeMax = 1.35
+	randomSizeMax = 1.1
 	#How much knowledge experience studying (using a Soulgazer on) a creature gives.
 	creatureStudyKnowledge = 100
 	#If true, pets, minions, etc can't harm their owners (with ranged attacks, etc).
@@ -111,7 +111,7 @@
 	#How much higher players must be relative to a boss' y position (feet) to trigger anti flight measures.
 	bossAntiFlight = 10.0
 	#Caps how much damage a boss can take per tick, this also affects Rare Variants and Dungeon Bosses. Set to 0 to disable the cap.
-	bossDamageCap = 60
+	bossDamageCap = 0
 	#Set to false to disable pet/mount taming.
 	tamingEnabled = true
 	#The minimum size scale mobs can randomly spawn at.
@@ -131,7 +131,7 @@
 	#The knowledge experience scale for boss creatures.
 	creatureBossKnowledgeScale = 5.0
 	#If true, block particles are not spawned by mobs (useful for visual mods that create 3D block particles which can cause lag in high numbers).
-	disableBlockParticles = false
+	disableBlockParticles = true
 
 	[Creatures.level]
 
@@ -241,9 +241,9 @@
 	#If true, all mobs from this mod will not spawn at all.
 	disableAllSpawning = false
 	#When spawned from a vanilla spawner, this is how far a mob should search from in blocks when checking how many of its kind have already spawned. Custom Spawners have it defined in their json file instead.
-	spawnLimitRange = 32.0
+	spawnLimitRange = 16.0
 	#Scales the spawn weights of all mobs from this mod. For example, you can use this to quickly half the spawn rates of mobs from this mod compared to vanilla/other mod mobs by setting it to 0.5.
-	spawnWeightScale = 1.0
+	spawnWeightScale = 0.5
 	#If true, some vanilla spawns in various biomes will be removed, note that vanilla mobs should still be easy to find, only they will be more biome specific.
 	controlVanillaSpawns = false
 	#The limit of how many mobs of the same type (peaceful or not peaceful) can spawn within the limit search range. For individual creature species limits, see the creature json configs.
@@ -263,7 +263,7 @@
 
 ["Creature Variants"]
 	#If set to true, rare variants will despawn naturally over time.
-	rareDespawning = false
+	rareDespawning = true
 	#When a creature with the uncommon variant (Azure, Verdant, etc) dies, its experience amount is multiplied by this value.
 	uncommonExperienceScale = 2.0
 	#When a creature with the rare variant (Celestial, Lunar, etc) dies, its item drops amount is multiplied by this value.

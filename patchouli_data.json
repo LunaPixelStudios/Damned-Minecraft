@@ -41,6 +41,26 @@
         "enigmaticlegacy:world/ancient_tomes"
       ],
       "completedManualQuests": []
+    },
+    "oldguns:compendium": {
+      "viewedEntries": [
+        "oldguns:firearms/general",
+        "oldguns:basics/firearms",
+        "oldguns:basics/artillery",
+        "oldguns:basics/welcome",
+        "oldguns:basics/design_notes",
+        "oldguns:black_powder_production/high_grade"
+      ],
+      "bookmarks": [],
+      "history": [
+        "oldguns:firearms/general",
+        "oldguns:black_powder_production/high_grade",
+        "oldguns:basics/design_notes",
+        "oldguns:basics/welcome",
+        "oldguns:basics/artillery",
+        "oldguns:basics/firearms"
+      ],
+      "completedManualQuests": []
     }
   }
 }

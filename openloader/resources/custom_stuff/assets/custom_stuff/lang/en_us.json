@@ -114,10 +114,14 @@
   "message.occultism.familiar.shub_niggurath_familiar.enabled": "Ring Effect - Shub: Enabled",
   "message.occultism.familiar.shub_niggurath_familiar.disabled": "Ring Effect - Shub: Disabled",
   "dialogue.villager.welcome": "Hello! I haven't seen you around here before.",
-  "dialogue.villager.response.1": "Oh, I've heard about that one before.",
-  "dialogue.villager.response.2": "Here, let me tell you something about them.",
-  "dialogue.villager.response.3": "I think we have a book with some information about that creature somewhere.",
-  "dialogue.villager.response.4": "Let me find it for you.",
+  "dialogue.villager.response.1": "Hi, what can I do for you?",
+  "dialogue.villager.response.2": "Oh, well then, I can't help I'm sorry.",
+  "dialogue.villager.response.3": "Mmm... What do I have for dinner tonight?",
+  "dialogue.villager.response.4": "O-oh, did I say that out loud? I am so sorry.",
+  "dialogue.villager.response.5": "You're new here, aren't you?",
+  "dialogue.villager.response.6": "Make yourself at home.",
+  "dialogue.villager.response.7": "What do you want?",
+  "dialogue.villager.response.8": "Hmph.",
   "dialogue.login.1": "God, I feel so nauseous... (press Z to progress text)",
   "dialogue.login.2": "I should try to find a town nearby."
 }

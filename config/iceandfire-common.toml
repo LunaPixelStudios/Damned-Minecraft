@@ -7,9 +7,9 @@
 		#Whether to generate silver ore or not
 		"Generate Silver Ore" = false
 		#Whether to generate sapphire ore or not
-		"Generate Sapphire Ore" = true
+		"Generate Sapphire Ore" = false
 		#Whether to generate amethyst ore or not
-		"Generate Amethyst Ore" = true
+		"Generate Amethyst Ore" = false
 
 	[Generation.Dimensions]
 		#Whitelist mob spawn (troll, hippogryph, etc) dimensions. Use the format like "minecraft:the_nether" or "rats:ratlantis" 
@@ -45,7 +45,7 @@
 		"Generate Dragon Roosts" = true
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Skeleton Chance" = 300
+		"Generate Dragon Skeleton Chance" = 700
 		#1 out of this number chance per block that gold will generate in dragon lairs.
 		#Range: 1 ~ 10000
 		"Dragon Den Gold Amount" = 4
@@ -69,7 +69,7 @@
 		#Range: 2 ~ 10000
 		"Graveyard Chance" = 46
 		#True if mausoleums are allowed to generate
-		"Generate Mausoleums" = false
+		"Generate Mausoleums" = true
 		#Whether to generate glacier biomes or not
 		"Generate Glaciers" = true
 
@@ -120,7 +120,7 @@
 		blacklistedBreakBlocks = []
 		#Dragon griefing - 2 is no griefing, 1 is breaking weak blocks, 0 is default
 		#Range: 0 ~ 2
-		"Dragon Griefing" = 0
+		"Dragon Griefing" = 1
 		#True if tamed dragons can follow the griefing rules.
 		"Tamed Dragon Griefing" = false
 		#The percentage chance for a block to drop as an item when a dragon breaks it.

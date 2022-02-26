@@ -6,3 +6,6 @@ net.minecraft.client.gui.screen.MainMenuScreen {
 xaero.common.gui.MyOptions {
 }
 
+net.minecraft.client.gui.screen.OptionsScreen {
+}
+
