@@ -1,0 +1,67 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "amoooooooooo",
+      "uniqueId": "9df6acb3-6618-474a-a2b0-e2e74748ae05"
+    },
+    "time": 1645807666277,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ftU25ju3J9"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "amoooooooooo",
+      "uniqueId": "9df6acb3-6618-474a-a2b0-e2e74748ae05"
+    },
+    "time": 1645807531864,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "D:\\Minecraft Modpacks\\Instances\\Damned Minecraft Reforged\\config\\spark\\heap-2022-02-25_16.45.08.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "amoooooooooo",
+      "uniqueId": "9df6acb3-6618-474a-a2b0-e2e74748ae05"
+    },
+    "time": 1645806795848,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "D:\\Minecraft Modpacks\\Instances\\Damned Minecraft Reforged\\config\\spark\\heap-2022-02-25_16.32.52.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "amoooooooooo",
+      "uniqueId": "9df6acb3-6618-474a-a2b0-e2e74748ae05"
+    },
+    "time": 1645662269901,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hSOC02EdO0"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "amoooooooooo",
+      "uniqueId": "9df6acb3-6618-474a-a2b0-e2e74748ae05"
+    },
+    "time": 1645662038824,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kd1L3lokTX"
+    }
+  }
+]

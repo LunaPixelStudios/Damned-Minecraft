@@ -1,3 +1,7 @@
 {
-	chapter_groups: [{ id: "75B5EF683272C3D8", title: "Starting Out" }]
+	chapter_groups: [
+		{ id: "75B5EF683272C3D8", title: "Starting Out" }
+		{ id: "4466E2D5FDE02143", title: "Bestiary" }
+		{ id: "5471885A399AE0A2", title: "Testing" }
+	]
 }

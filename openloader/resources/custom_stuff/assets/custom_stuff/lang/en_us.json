@@ -123,5 +123,12 @@
   "dialogue.villager.response.7": "What do you want?",
   "dialogue.villager.response.8": "Hmph.",
   "dialogue.login.1": "God, I feel so nauseous... (press Z to progress text)",
-  "dialogue.login.2": "I should try to find a town nearby."
+  "dialogue.login.2": "I should try to find a town nearby.",
+  "option.response.yes": "Yes.",
+  "option.response.no": "No.",
+  "dialogue.villager.newhere": "Are you new here?",
+  "dialogue.test.1": "I can tell.",
+  "dialogue.test.2": "Have a nice day.",
+  "dialogue.test.3": "Please leave me alone.",
+  "dialogue.test.4": "Ugh."
 }

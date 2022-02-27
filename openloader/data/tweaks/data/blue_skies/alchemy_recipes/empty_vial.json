@@ -1,0 +1,12 @@
+  {
+    "type": "blue_skies:catylist",
+    "override": false,
+    "input": "contenttweaker:empty_vial",
+    "catylist": "contenttweaker:yhivren_vial",
+    "results": [
+      "contenttweaker:empty_vial"
+    ],
+    "nbt": {
+        "dmc_potency": 2
+    }
+  }

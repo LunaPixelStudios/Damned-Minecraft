@@ -1,0 +1,3101 @@
+
+[custom_entity]
+
+	[custom_entity.sample]
+		type_name = "modid:type_name"
+		impact = 0.5
+		max_strikes = 1
+		armor_negation = 0.0
+		#Allowed Values: ZOMBIE, SKELETON, CREEPER, SPIDER, VINDICATOR
+		ai_type = "ZOMBIE"
+		texture_location = "modid:texture_location"
+
+[custom_weaponry]
+
+	[custom_weaponry.boneclub]
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		impact = 2.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "dungeons_gear:boneclub"
+
+	[custom_weaponry.moon_daggers]
+		armor_ignorance = 0.75
+		hit_at_once = 2
+		impact = 0.15
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:moon_dagger"
+
+	[custom_weaponry.fortune_spear]
+		armor_ignorance = 0.6
+		hit_at_once = 2
+		impact = 0.3
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:whispering_spear"
+
+	[custom_weaponry.cgm_machinepistol]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "BOW"
+		registry_name = "cgm:machine_pistol"
+
+	[custom_weaponry.grave_bane]
+		armor_ignorance = 0.9
+		hit_at_once = 2
+		impact = 0.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:grave_bane"
+
+	[custom_weaponry.cgm_assaultrifle]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "cgm:assault_rifle"
+
+	[custom_weaponry.great_hammer]
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "dungeons_gear:great_hammer"
+
+	[custom_weaponry.unmaykr]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "doom:unmaykr"
+
+	[custom_weaponry.great_axeblade]
+		armor_ignorance = 0.9
+		hit_at_once = 5
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "dungeons_gear:great_axeblade"
+
+	[custom_weaponry.frost_slayer]
+		armor_ignorance = 0.7
+		hit_at_once = 5
+		impact = 0.3
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "dungeons_gear:frost_slayer"
+
+	[custom_weaponry.mauler]
+		armor_ignorance = 0.75
+		hit_at_once = 1
+		impact = 0.3
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "FIST"
+		registry_name = "dungeons_gear:mauler"
+
+	[custom_weaponry.katana]
+		armor_ignorance = 0.7
+		hit_at_once = 2
+		impact = 0.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "dungeons_gear:katana"
+
+	[custom_weaponry.bone_cudgel]
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		impact = 2.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "dungeons_gear:bone_cudgel"
+
+	[custom_weaponry.encrusted_anchor]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 2.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "dungeons_gear:encrusted_anchor"
+
+	[custom_weaponry.broadsword]
+		armor_ignorance = 0.6
+		hit_at_once = 5
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "dungeons_gear:broadsword"
+
+	[custom_weaponry.claymore]
+		armor_ignorance = 0.6
+		hit_at_once = 5
+		impact = 0.3
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "dungeons_gear:claymore"
+
+	[custom_weaponry.sickles]
+		armor_ignorance = 0.6
+		hit_at_once = 2
+		impact = 0.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:sickle"
+
+	[custom_weaponry.chill_gale_knife]
+		armor_ignorance = 1.0
+		hit_at_once = 2
+		impact = 0.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:chill_gale_knife"
+
+	[custom_weaponry.cgm_grenadelauncher]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "cgm:grenade_launcher"
+
+	[custom_weaponry.growing_staff]
+		armor_ignorance = 0.7
+		hit_at_once = 3
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:growing_staff"
+
+	[custom_weaponry.shotgun]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "doom:shotgun"
+
+	[custom_weaponry.soul_knife]
+		armor_ignorance = 1.0
+		hit_at_once = 2
+		impact = 0.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:soul_knife"
+
+	[custom_weaponry.cgm_pistol]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "BOW"
+		registry_name = "cgm:pistol"
+
+	[custom_weaponry.cgm_shotgun]
+		armor_ignorance = 0.5
+		hit_at_once = 3
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "cgm:shotgun"
+
+	[custom_weaponry.cgm_rifle]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "cgm:rifle"
+
+	[custom_weaponry.chaingun]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "doom:chaingun"
+
+	[custom_weaponry.mace]
+		armor_ignorance = 0.3
+		hit_at_once = 2
+		impact = 0.7
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "dungeons_gear:mace"
+
+	[custom_weaponry.ballista]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "doom:ballista"
+
+	[custom_weaponry.fighters_bindings]
+		armor_ignorance = 0.3
+		hit_at_once = 1
+		impact = 0.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "FIST"
+		registry_name = "dungeons_gear:fighters_bindings"
+
+	[custom_weaponry.mechanized_sawblade]
+		armor_ignorance = 1.0
+		hit_at_once = 2
+		impact = 0.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "dungeons_gear:mechanized_sawblade"
+
+	[custom_weaponry.dark_katana]
+		armor_ignorance = 0.7
+		hit_at_once = 2
+		impact = 0.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "dungeons_gear:dark_katana"
+
+	[custom_weaponry.hammer_of_gravity]
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "dungeons_gear:hammer_of_gravity"
+
+	[custom_weaponry.eternal_knife]
+		armor_ignorance = 1.0
+		hit_at_once = 2
+		impact = 0.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:eternal_knife"
+
+	[custom_weaponry.dagger_wooden]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_wood"
+
+	[custom_weaponry.suns_grace]
+		armor_ignorance = 0.3
+		hit_at_once = 2
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "dungeons_gear:suns_grace"
+
+	[custom_weaponry.fangs_of_frost]
+		armor_ignorance = 0.7
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:fang_of_frost"
+
+	[custom_weaponry.spear]
+		armor_ignorance = 0.6
+		hit_at_once = 2
+		impact = 0.3
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:spear"
+
+	[custom_weaponry.stormlander]
+		armor_ignorance = 0.2
+		hit_at_once = 2
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "dungeons_gear:stormlander"
+
+	[custom_weaponry.nightmares_bite]
+		armor_ignorance = 0.8
+		hit_at_once = 2
+		impact = 0.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:nightmares_bite"
+
+	[custom_weaponry.masters_katana]
+		armor_ignorance = 1.0
+		hit_at_once = 2
+		impact = 0.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "dungeons_gear:masters_katana"
+
+	[custom_weaponry.dagger_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_stone"
+
+	[custom_weaponry.shear_dagger]
+		armor_ignorance = 0.8
+		hit_at_once = 2
+		impact = 0.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:shear_dagger"
+
+	[custom_weaponry.battlestaff]
+		armor_ignorance = 0.2
+		hit_at_once = 3
+		impact = 0.8
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:battlestaff"
+
+	[custom_weaponry.gauntlet]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "FIST"
+		registry_name = "dungeons_gear:gauntlet"
+
+	[custom_weaponry.supershotgun]
+		armor_ignorance = 1.0
+		hit_at_once = 1
+		impact = 1.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "doom:supershotgun"
+
+	[custom_weaponry.glaive]
+		armor_ignorance = 0.9
+		hit_at_once = 2
+		impact = 0.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:glaive"
+
+	[custom_weaponry.cgm_bazooka]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "BOW"
+		registry_name = "cgm:bazooka"
+
+	[custom_weaponry.cgm_heavyrifle]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "BOW"
+		registry_name = "cgm:heavy_rifle"
+
+	[custom_weaponry.heartstealer]
+		armor_ignorance = 0.6
+		hit_at_once = 3
+		impact = 0.3
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "dungeons_gear:heartstealer"
+
+	[custom_weaponry.resolute_tempest_knife]
+		armor_ignorance = 1.0
+		hit_at_once = 2
+		impact = 0.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:resolute_tempest_knife"
+
+	[custom_weaponry.heavycannon]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "doom:heavycannon"
+
+	[custom_weaponry.battlestaff_of_terror]
+		armor_ignorance = 0.3
+		hit_at_once = 3
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:battlestaff_of_terror"
+
+	[custom_weaponry.pistol]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "doom:pistol"
+
+	[custom_weaponry.sample]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "epicfight:registryname"
+
+	[custom_weaponry.flail]
+		armor_ignorance = 0.3
+		hit_at_once = 2
+		impact = 0.7
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "dungeons_gear:flail"
+
+	[custom_weaponry.venom_glaive]
+		armor_ignorance = 0.9
+		hit_at_once = 2
+		impact = 0.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:venom_glaive"
+
+	[custom_weaponry.broken_sawblade]
+		armor_ignorance = 0.65
+		hit_at_once = 2
+		impact = 0.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "dungeons_gear:broken_sawblade"
+
+	[custom_weaponry.anchor]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 2.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "dungeons_gear:anchor"
+
+	[custom_weaponry.cgm_minigun]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "CROSSBOW"
+		registry_name = "cgm:mini_gun"
+
+	[custom_weaponry.daggers]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:dagger"
+
+	[custom_weaponry.whispering_spear]
+		armor_ignorance = 0.8
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:whispering_spear"
+
+	[custom_weaponry.tempest_knife]
+		armor_ignorance = 1.0
+		hit_at_once = 2
+		impact = 0.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "dungeons_gear:tempest_knife"
+
+	[custom_weaponry.soul_fist]
+		armor_ignorance = 0.5
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "FIST"
+		registry_name = "dungeons_gear:soul_fist"
+
+	[custom_weaponry.tetra_sword]
+		armor_ignorance = 0.5
+		hit_at_once = 3
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "tetra:modular_sword"
+
+	[custom_weaponry.tetra_double]
+		armor_ignorance = 0.8
+		hit_at_once = 3
+		impact = 0.7
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "tetra:modular_double"
+
+	[custom_weaponry.dagger_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_wood"
+
+	[custom_weaponry.sword_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:sword_wood"
+
+	[custom_weaponry.longsword_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:longsword_wood"
+
+	[custom_weaponry.katana_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_wood"
+
+	[custom_weaponry.saber_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_wood"
+
+	[custom_weaponry.rapier_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_wood"
+
+	[custom_weaponry.greatsword_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_wood"
+
+	[custom_weaponry.hammer_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_wood"
+
+	[custom_weaponry.warhammer_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_wood"
+
+	[custom_weaponry.spear_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_wood"
+
+	[custom_weaponry.halberd_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_wood"
+
+	[custom_weaponry.pike_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_wood"
+
+	[custom_weaponry.lance_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_wood"
+
+	[custom_weaponry.throwing_knife_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_wood"
+
+	[custom_weaponry.tomahawk_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_wood"
+
+	[custom_weaponry.javelin_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_wood"
+
+	[custom_weaponry.boomerang_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_wood"
+
+	[custom_weaponry.battleaxe_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_wood"
+
+	[custom_weaponry.flanged_mace_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_wood"
+
+	[custom_weaponry.glaive_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_wood"
+
+	[custom_weaponry.quarterstaff_wood]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_wood"
+
+	[custom_weaponry.longsword_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_stone"
+
+	[custom_weaponry.katana_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_stone"
+
+	[custom_weaponry.saber_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_stone"
+
+	[custom_weaponry.rapier_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_stone"
+
+	[custom_weaponry.greatsword_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_stone"
+
+	[custom_weaponry.hammer_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_stone"
+
+	[custom_weaponry.warhammer_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_stone"
+
+	[custom_weaponry.spear_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_stone"
+
+	[custom_weaponry.halberd_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_stone"
+
+	[custom_weaponry.pike_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_stone"
+
+	[custom_weaponry.lance_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_stone"
+
+	[custom_weaponry.throwing_knife_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_stone"
+
+	[custom_weaponry.tomahawk_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_stone"
+
+	[custom_weaponry.javelin_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_stone"
+
+	[custom_weaponry.boomerang_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_stone"
+
+	[custom_weaponry.battleaxe_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_stone"
+
+	[custom_weaponry.flanged_mace_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_stone"
+
+	[custom_weaponry.glaive_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_stone"
+
+	[custom_weaponry.quarterstaff_stone]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_stone"
+
+	[custom_weaponry.dagger_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_iron"
+
+	[custom_weaponry.longsword_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_iron"
+
+	[custom_weaponry.katana_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_iron"
+
+	[custom_weaponry.saber_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_iron"
+
+	[custom_weaponry.rapier_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_iron"
+
+	[custom_weaponry.greatsword_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_iron"
+
+	[custom_weaponry.hammer_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_iron"
+
+	[custom_weaponry.warhammer_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_iron"
+
+	[custom_weaponry.spear_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_iron"
+
+	[custom_weaponry.halberd_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_iron"
+
+	[custom_weaponry.pike_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_iron"
+
+	[custom_weaponry.lance_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_iron"
+
+	[custom_weaponry.throwing_knife_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_iron"
+
+	[custom_weaponry.tomahawk_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_iron"
+
+	[custom_weaponry.javelin_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_iron"
+
+	[custom_weaponry.boomerang_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_iron"
+
+	[custom_weaponry.battleaxe_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_iron"
+
+	[custom_weaponry.flanged_mace_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_iron"
+
+	[custom_weaponry.glaive_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_iron"
+
+	[custom_weaponry.quarterstaff_iron]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_iron"
+
+	[custom_weaponry.dagger_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_gold"
+
+	[custom_weaponry.longsword_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_gold"
+
+	[custom_weaponry.katana_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_gold"
+
+	[custom_weaponry.saber_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_gold"
+
+	[custom_weaponry.rapier_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_gold"
+
+	[custom_weaponry.greatsword_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_gold"
+
+	[custom_weaponry.hammer_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_gold"
+
+	[custom_weaponry.warhammer_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_gold"
+
+	[custom_weaponry.spear_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_gold"
+
+	[custom_weaponry.halberd_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_gold"
+
+	[custom_weaponry.pike_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_gold"
+
+	[custom_weaponry.lance_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_gold"
+
+	[custom_weaponry.throwing_knife_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_gold"
+
+	[custom_weaponry.tomahawk_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_gold"
+
+	[custom_weaponry.javelin_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_gold"
+
+	[custom_weaponry.boomerang_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_gold"
+
+	[custom_weaponry.battleaxe_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_gold"
+
+	[custom_weaponry.flanged_mace_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_gold"
+
+	[custom_weaponry.glaive_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_gold"
+
+	[custom_weaponry.quarterstaff_gold]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_gold"
+
+	[custom_weaponry.dagger_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_diamond"
+
+	[custom_weaponry.longsword_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_diamond"
+
+	[custom_weaponry.katana_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_diamond"
+
+	[custom_weaponry.saber_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_diamond"
+
+	[custom_weaponry.rapier_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_diamond"
+
+	[custom_weaponry.greatsword_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_diamond"
+
+	[custom_weaponry.hammer_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_diamond"
+
+	[custom_weaponry.warhammer_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_diamond"
+
+	[custom_weaponry.spear_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_diamond"
+
+	[custom_weaponry.halberd_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_diamond"
+
+	[custom_weaponry.pike_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_diamond"
+
+	[custom_weaponry.lance_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_diamond"
+
+	[custom_weaponry.throwing_knife_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_diamond"
+
+	[custom_weaponry.tomahawk_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_diamond"
+
+	[custom_weaponry.javelin_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_diamond"
+
+	[custom_weaponry.boomerang_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_diamond"
+
+	[custom_weaponry.battleaxe_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_diamond"
+
+	[custom_weaponry.flanged_mace_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_diamond"
+
+	[custom_weaponry.glaive_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_diamond"
+
+	[custom_weaponry.quarterstaff_diamond]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_diamond"
+
+	[custom_weaponry.dagger_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_netherite"
+
+	[custom_weaponry.longsword_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_netherite"
+
+	[custom_weaponry.katana_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_netherite"
+
+	[custom_weaponry.saber_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_netherite"
+
+	[custom_weaponry.rapier_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_netherite"
+
+	[custom_weaponry.greatsword_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_netherite"
+
+	[custom_weaponry.hammer_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_netherite"
+
+	[custom_weaponry.warhammer_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_netherite"
+
+	[custom_weaponry.spear_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_netherite"
+
+	[custom_weaponry.halberd_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_netherite"
+
+	[custom_weaponry.pike_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_netherite"
+
+	[custom_weaponry.lance_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_netherite"
+
+	[custom_weaponry.throwing_knife_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_netherite"
+
+	[custom_weaponry.tomahawk_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_netherite"
+
+	[custom_weaponry.javelin_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_netherite"
+
+	[custom_weaponry.boomerang_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_netherite"
+
+	[custom_weaponry.battleaxe_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_netherite"
+
+	[custom_weaponry.flanged_mace_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_netherite"
+
+	[custom_weaponry.glaive_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_netherite"
+
+	[custom_weaponry.quarterstaff_netherite]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_netherite"
+
+	[custom_weaponry.dagger_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_copper"
+
+	[custom_weaponry.longsword_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_copper"
+
+	[custom_weaponry.katana_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_copper"
+
+	[custom_weaponry.saber_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_copper"
+
+	[custom_weaponry.rapier_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_copper"
+
+	[custom_weaponry.greatsword_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_copper"
+
+	[custom_weaponry.hammer_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_copper"
+
+	[custom_weaponry.warhammer_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_copper"
+
+	[custom_weaponry.spear_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_copper"
+
+	[custom_weaponry.halberd_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_copper"
+
+	[custom_weaponry.pike_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_copper"
+
+	[custom_weaponry.lance_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_copper"
+
+	[custom_weaponry.throwing_knife_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_copper"
+
+	[custom_weaponry.tomahawk_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_copper"
+
+	[custom_weaponry.javelin_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_copper"
+
+	[custom_weaponry.boomerang_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_copper"
+
+	[custom_weaponry.battleaxe_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_copper"
+
+	[custom_weaponry.flanged_mace_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_copper"
+
+	[custom_weaponry.glaive_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_copper"
+
+	[custom_weaponry.quarterstaff_copper]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_copper"
+
+	[custom_weaponry.dagger_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_tin"
+
+	[custom_weaponry.longsword_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_tin"
+
+	[custom_weaponry.katana_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_tin"
+
+	[custom_weaponry.saber_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_tin"
+
+	[custom_weaponry.rapier_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_tin"
+
+	[custom_weaponry.greatsword_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_tin"
+
+	[custom_weaponry.hammer_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_tin"
+
+	[custom_weaponry.warhammer_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_tin"
+
+	[custom_weaponry.spear_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_tin"
+
+	[custom_weaponry.halberd_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_tin"
+
+	[custom_weaponry.pike_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_tin"
+
+	[custom_weaponry.lance_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_tin"
+
+	[custom_weaponry.throwing_knife_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_tin"
+
+	[custom_weaponry.tomahawk_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_tin"
+
+	[custom_weaponry.javelin_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_tin"
+
+	[custom_weaponry.boomerang_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_tin"
+
+	[custom_weaponry.battleaxe_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_tin"
+
+	[custom_weaponry.flanged_mace_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_tin"
+
+	[custom_weaponry.glaive_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_tin"
+
+	[custom_weaponry.quarterstaff_tin]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_tin"
+
+	[custom_weaponry.dagger_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_bronze"
+
+	[custom_weaponry.longsword_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_bronze"
+
+	[custom_weaponry.katana_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_bronze"
+
+	[custom_weaponry.saber_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_bronze"
+
+	[custom_weaponry.rapier_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_bronze"
+
+	[custom_weaponry.greatsword_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_bronze"
+
+	[custom_weaponry.hammer_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_bronze"
+
+	[custom_weaponry.warhammer_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_bronze"
+
+	[custom_weaponry.spear_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_bronze"
+
+	[custom_weaponry.halberd_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_bronze"
+
+	[custom_weaponry.pike_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_bronze"
+
+	[custom_weaponry.lance_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_bronze"
+
+	[custom_weaponry.throwing_knife_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_bronze"
+
+	[custom_weaponry.tomahawk_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_bronze"
+
+	[custom_weaponry.javelin_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_bronze"
+
+	[custom_weaponry.boomerang_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_bronze"
+
+	[custom_weaponry.battleaxe_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_bronze"
+
+	[custom_weaponry.flanged_mace_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_bronze"
+
+	[custom_weaponry.glaive_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_bronze"
+
+	[custom_weaponry.quarterstaff_bronze]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_bronze"
+
+	[custom_weaponry.dagger_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_steel"
+
+	[custom_weaponry.longsword_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_steel"
+
+	[custom_weaponry.katana_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_steel"
+
+	[custom_weaponry.saber_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_steel"
+
+	[custom_weaponry.rapier_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_steel"
+
+	[custom_weaponry.greatsword_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_steel"
+
+	[custom_weaponry.hammer_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_steel"
+
+	[custom_weaponry.warhammer_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_steel"
+
+	[custom_weaponry.spear_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_steel"
+
+	[custom_weaponry.halberd_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_steel"
+
+	[custom_weaponry.pike_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_steel"
+
+	[custom_weaponry.lance_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_steel"
+
+	[custom_weaponry.throwing_knife_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_steel"
+
+	[custom_weaponry.tomahawk_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_steel"
+
+	[custom_weaponry.javelin_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_steel"
+
+	[custom_weaponry.boomerang_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_steel"
+
+	[custom_weaponry.battleaxe_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_steel"
+
+	[custom_weaponry.flanged_mace_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_steel"
+
+	[custom_weaponry.glaive_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_steel"
+
+	[custom_weaponry.quarterstaff_steel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_steel"
+
+	[custom_weaponry.dagger_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_silver"
+
+	[custom_weaponry.longsword_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_silver"
+
+	[custom_weaponry.katana_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_silver"
+
+	[custom_weaponry.saber_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_silver"
+
+	[custom_weaponry.rapier_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_silver"
+
+	[custom_weaponry.greatsword_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_silver"
+
+	[custom_weaponry.hammer_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_silver"
+
+	[custom_weaponry.warhammer_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_silver"
+
+	[custom_weaponry.spear_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_silver"
+
+	[custom_weaponry.halberd_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_silver"
+
+	[custom_weaponry.pike_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_silver"
+
+	[custom_weaponry.lance_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_silver"
+
+	[custom_weaponry.throwing_knife_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_silver"
+
+	[custom_weaponry.tomahawk_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_silver"
+
+	[custom_weaponry.javelin_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_silver"
+
+	[custom_weaponry.boomerang_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_silver"
+
+	[custom_weaponry.battleaxe_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_silver"
+
+	[custom_weaponry.flanged_mace_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_silver"
+
+	[custom_weaponry.glaive_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_silver"
+
+	[custom_weaponry.quarterstaff_silver]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_silver"
+
+	[custom_weaponry.dagger_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_invar"
+
+	[custom_weaponry.longsword_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_invar"
+
+	[custom_weaponry.katana_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_invar"
+
+	[custom_weaponry.saber_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_invar"
+
+	[custom_weaponry.rapier_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_invar"
+
+	[custom_weaponry.greatsword_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_invar"
+
+	[custom_weaponry.hammer_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_invar"
+
+	[custom_weaponry.warhammer_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_invar"
+
+	[custom_weaponry.spear_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_invar"
+
+	[custom_weaponry.halberd_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_invar"
+
+	[custom_weaponry.pike_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_invar"
+
+	[custom_weaponry.lance_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_invar"
+
+	[custom_weaponry.throwing_knife_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_invar"
+
+	[custom_weaponry.tomahawk_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_invar"
+
+	[custom_weaponry.javelin_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_invar"
+
+	[custom_weaponry.boomerang_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_invar"
+
+	[custom_weaponry.battleaxe_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_invar"
+
+	[custom_weaponry.flanged_mace_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_invar"
+
+	[custom_weaponry.glaive_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_invar"
+
+	[custom_weaponry.quarterstaff_invar]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_invar"
+
+	[custom_weaponry.dagger_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_platinum"
+
+	[custom_weaponry.longsword_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_platinum"
+
+	[custom_weaponry.katana_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_platinum"
+
+	[custom_weaponry.saber_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_platinum"
+
+	[custom_weaponry.rapier_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_platinum"
+
+	[custom_weaponry.greatsword_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_platinum"
+
+	[custom_weaponry.hammer_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_platinum"
+
+	[custom_weaponry.warhammer_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_platinum"
+
+	[custom_weaponry.spear_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_platinum"
+
+	[custom_weaponry.halberd_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_platinum"
+
+	[custom_weaponry.pike_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_platinum"
+
+	[custom_weaponry.lance_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_platinum"
+
+	[custom_weaponry.throwing_knife_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_platinum"
+
+	[custom_weaponry.tomahawk_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_platinum"
+
+	[custom_weaponry.javelin_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_platinum"
+
+	[custom_weaponry.boomerang_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_platinum"
+
+	[custom_weaponry.battleaxe_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_platinum"
+
+	[custom_weaponry.flanged_mace_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_platinum"
+
+	[custom_weaponry.glaive_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_platinum"
+
+	[custom_weaponry.quarterstaff_platinum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_platinum"
+
+	[custom_weaponry.dagger_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_electrum"
+
+	[custom_weaponry.longsword_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_electrum"
+
+	[custom_weaponry.katana_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_electrum"
+
+	[custom_weaponry.saber_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_electrum"
+
+	[custom_weaponry.rapier_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_electrum"
+
+	[custom_weaponry.greatsword_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_electrum"
+
+	[custom_weaponry.hammer_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_electrum"
+
+	[custom_weaponry.warhammer_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_electrum"
+
+	[custom_weaponry.spear_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_electrum"
+
+	[custom_weaponry.halberd_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_electrum"
+
+	[custom_weaponry.pike_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_electrum"
+
+	[custom_weaponry.lance_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_electrum"
+
+	[custom_weaponry.throwing_knife_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_electrum"
+
+	[custom_weaponry.tomahawk_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_electrum"
+
+	[custom_weaponry.javelin_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_electrum"
+
+	[custom_weaponry.boomerang_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_electrum"
+
+	[custom_weaponry.battleaxe_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_electrum"
+
+	[custom_weaponry.flanged_mace_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_electrum"
+
+	[custom_weaponry.glaive_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_electrum"
+
+	[custom_weaponry.quarterstaff_electrum]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_electrum"
+
+	[custom_weaponry.dagger_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_nickel"
+
+	[custom_weaponry.longsword_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_nickel"
+
+	[custom_weaponry.katana_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_nickel"
+
+	[custom_weaponry.saber_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_nickel"
+
+	[custom_weaponry.rapier_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_nickel"
+
+	[custom_weaponry.greatsword_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_nickel"
+
+	[custom_weaponry.hammer_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_nickel"
+
+	[custom_weaponry.warhammer_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_nickel"
+
+	[custom_weaponry.spear_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_nickel"
+
+	[custom_weaponry.halberd_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_nickel"
+
+	[custom_weaponry.pike_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_nickel"
+
+	[custom_weaponry.lance_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_nickel"
+
+	[custom_weaponry.throwing_knife_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_nickel"
+
+	[custom_weaponry.tomahawk_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_nickel"
+
+	[custom_weaponry.javelin_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_nickel"
+
+	[custom_weaponry.boomerang_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_nickel"
+
+	[custom_weaponry.battleaxe_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_nickel"
+
+	[custom_weaponry.flanged_mace_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_nickel"
+
+	[custom_weaponry.glaive_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_nickel"
+
+	[custom_weaponry.quarterstaff_nickel]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_nickel"
+
+	[custom_weaponry.dagger_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:dagger_lead"
+
+	[custom_weaponry.longsword_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "GREATSWORD"
+		registry_name = "spartanweaponry:longsword_lead"
+
+	[custom_weaponry.katana_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "KATANA"
+		registry_name = "spartanweaponry:katana_lead"
+
+	[custom_weaponry.saber_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "TACHI"
+		registry_name = "spartanweaponry:saber_lead"
+
+	[custom_weaponry.rapier_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SWORD"
+		registry_name = "spartanweaponry:rapier_lead"
+
+	[custom_weaponry.greatsword_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:greatsword_lead"
+
+	[custom_weaponry.hammer_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:hammer_lead"
+
+	[custom_weaponry.warhammer_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:warhammer_lead"
+
+	[custom_weaponry.spear_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:spear_lead"
+
+	[custom_weaponry.halberd_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:halberd_lead"
+
+	[custom_weaponry.pike_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:pike_lead"
+
+	[custom_weaponry.lance_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "LONGSWORD"
+		registry_name = "spartanweaponry:lance_lead"
+
+	[custom_weaponry.throwing_knife_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "DAGGER"
+		registry_name = "spartanweaponry:throwing_knife_lead"
+
+	[custom_weaponry.tomahawk_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:tomahawk_lead"
+
+	[custom_weaponry.javelin_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:javelin_lead"
+
+	[custom_weaponry.boomerang_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:boomerang_lead"
+
+	[custom_weaponry.battleaxe_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:battleaxe_lead"
+
+	[custom_weaponry.flanged_mace_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "AXE"
+		registry_name = "spartanweaponry:flanged_mace_lead"
+
+	[custom_weaponry.glaive_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:glaive_lead"
+
+	[custom_weaponry.quarterstaff_lead]
+		armor_ignorance = 0.5
+		hit_at_once = 2
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT, SHIELD
+		weapon_type = "SPEAR"
+		registry_name = "spartanweaponry:quarterstaff_lead"
+
+[custom_armor]
+
+	[custom_armor.sample]
+		stun_armor = 0.0
+		weight = 0.0
+		registry_name = "epicfight:registryname"
+

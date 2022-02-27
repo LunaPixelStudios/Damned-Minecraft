@@ -1,6 +1,6 @@
 {
 	id: "5EFFFE14704A3AF1"
-	group: "75B5EF683272C3D8"
+	group: "4466E2D5FDE02143"
 	order_index: 0
 	filename: "bestiary"
 	title: "Bestiary"
@@ -22,6 +22,7 @@
 			}]
 		}
 		{
+			title: "Maka"
 			tags: ["codex"]
 			x: -54.5d
 			y: -17.0d
