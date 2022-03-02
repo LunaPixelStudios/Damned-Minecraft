@@ -44,5 +44,5 @@
 	withered_colors = ["#555555", "#AAAAAA", "#555555"]
 	withered_fractions = [0.25, 0.5, 0.75]
 	left_order = ["health", "armor", "absorption", "lavacharm", "lavacharm2"]
-	right_order = ["blood", "healthmount", "food", "feathers", "thirst", "air", "flighttiara", "decay"]
+	right_order = ["blood", "healthmount", "food", "feathers", "armortoughness", "thirst", "air", "flighttiara", "decay"]
 

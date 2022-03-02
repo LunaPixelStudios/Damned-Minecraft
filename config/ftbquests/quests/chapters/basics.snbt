@@ -1,0 +1,214 @@
+{
+	id: "2479E2DF48F4BCA5"
+	group: "105DBC850CF2B81C"
+	order_index: 0
+	filename: "basics"
+	title: "Basics"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Identification"
+			x: -5.0d
+			y: -2.0d
+			description: ["Identify Tomes are your most valuable resource while adventuring. They allow you to see what type of gear Morphstones are for without needing to guess."]
+			dependencies: ["7CA17E5D2FB3EABE"]
+			id: "6CAC7C2B9963ACD9"
+			tasks: [{
+				id: "527564F7A2DE960E"
+				type: "item"
+				item: "mmorpg:identify_tome"
+			}]
+			rewards: [{
+				id: "6892EA4F5F3D7526"
+				type: "item"
+				item: "mmorpg:identify_tome"
+				count: 3
+			}]
+		}
+		{
+			x: -7.0d
+			y: -2.0d
+			description: ["Salvage Hammers are the modern equivalent of the Salvage Station. Use it by picking it up in your inventory and left-clicking on the item you want to salvage with it."]
+			dependencies: ["7CA17E5D2FB3EABE"]
+			id: "4464450D05BF8E2F"
+			tasks: [{
+				id: "2BE58A60B912400D"
+				type: "item"
+				item: "mmorpg:salvage_hammer"
+			}]
+			rewards: [{
+				id: "3C3343C694F0F1E1"
+				type: "item"
+				item: "mmorpg:mat/salvage/salvage0"
+				count: 4
+			}]
+		}
+		{
+			x: -6.0d
+			y: -0.5d
+			shape: "hexagon"
+			dependencies: [
+				"4464450D05BF8E2F"
+				"6CAC7C2B9963ACD9"
+			]
+			id: "3FA6DC17D27EC63C"
+			tasks: [{
+				id: "76E2FCD5FB59A5C7"
+				type: "item"
+				title: "Profession Tools"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "mmorpg:craft_tools/armor_craft"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_tools/wep_craft"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_tools/inscribing"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_tools/cooking"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_tools/jewel_craft"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_tools/alchemy"
+								Count: 1b
+							}
+						]
+					}
+				}
+			}]
+			rewards: [{
+				id: "2B81F93D70FBA5A0"
+				type: "random"
+				title: "Random Crafting Material"
+				icon: "mmorpg:backpack/material_pouch"
+				table_id: 4202053265805784673L
+			}]
+		}
+		{
+			title: "Alchemy"
+			x: -4.0d
+			y: 1.0d
+			dependencies: ["3FA6DC17D27EC63C"]
+			id: "2B98BFD1EC9D8EA8"
+			tasks: [{
+				id: "39FE98627E46BB57"
+				type: "item"
+				title: "Brewed Potion"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "mmorpg:craft_result/alchemy/1"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_result/alchemy/2"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_result/alchemy/3"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_result/alchemy/4"
+								Count: 1b
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			title: "Cooking"
+			x: -6.0d
+			y: 2.0d
+			dependencies: ["3FA6DC17D27EC63C"]
+			id: "158302BE604A3FF0"
+			tasks: [{
+				id: "2312B61E4C4266FB"
+				type: "item"
+				title: "Cooked Meal"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "mmorpg:craft_result/cooking/1"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_result/cooking/2"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_result/cooking/3"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_result/cooking/4"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_result/cooking/5"
+								Count: 1b
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			title: "Inscribing"
+			x: -8.0d
+			y: 1.0d
+			dependencies: ["3FA6DC17D27EC63C"]
+			id: "03171A69220EAB9B"
+			tasks: [{
+				id: "502DA2C37661343C"
+				type: "item"
+				title: "Enchanted Scroll"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "mmorpg:craft_result/inscribing/1"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_result/inscribing/2"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_result/inscribing/4"
+								Count: 1b
+							}
+							{
+								id: "mmorpg:craft_result/inscribing/3"
+								Count: 1b
+							}
+						]
+					}
+				}
+			}]
+		}
+	]
+}

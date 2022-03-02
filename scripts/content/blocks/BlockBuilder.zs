@@ -12,3 +12,10 @@ cage.withItemGroup(DMCItemBuilder.vialItemGroup);
 cage.withType<BlockBuilderAdvanced>();
 cage.withRenderType(BlockRenderType.CUTOUT);
 cage.build("cage");
+
+new BlockBuilder(<blockmaterial:glass>)
+.withoutMovementBlocking()
+.withItemGroup(DMCItemBuilder.vialItemGroup)
+.withRenderType(BlockRenderType.CUTOUT)
+.withType<BlockBuilderAdvanced>()
+.build("cyarisvial");

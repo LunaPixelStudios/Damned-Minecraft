@@ -47,9 +47,10 @@
 			y: -2.5d
 			subtitle: "Morphstones aren't universal."
 			description: [
-				"Morphstones are the way to convert normal items into stat-fuelled super items (aka they let you do damage/survive to anything higher than level 5)."
+				"Morphstones are the way to convert normal items into stat-fuelled super items (aka they let you do damage to/survive anything higher than level 5)."
 				"You apply morphstones to items by picking up the morphstone and clicking it ontop of the item you want to apply it to in your inventory."
 				"Morphstones will be unidentified when you first obtain them. To identify them, craft an Identify Tome. You could also get lucky and guess what piece of gear the morphstone is for."
+				"This mechanic is core to using items and materials in Mine \\& Slash. If you want to use something on your gear, pick it up and click it onto your gear in your inventory."
 			]
 			dependencies: ["79CED5460880D8F1"]
 			id: "7CA17E5D2FB3EABE"

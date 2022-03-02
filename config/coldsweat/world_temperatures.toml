@@ -1,0 +1,27 @@
+
+#Notation: [["dimension1", "temperature1"], ["dimension2", "temperature2"]... etc]
+#Common dimension IDs: minecraft:overworld, minecraft:the_nether, minecraft:the_end
+#Note: all temperatures are in Minecraft units
+#°F to MC = (x - 32) / 42
+#°C to MC = x / 23.3
+[Dimensions]
+
+	[Dimensions.DimensionTemperatureOffset]
+		"Dimension Temperature Offsets" = [["minecraft:the_nether", 1.0], ["minecraft:the_end", -0.1]]
+
+	[Dimensions.DimensionTemperatures]
+		#Override their respective offset values
+		#Also override ALL biome temperatures
+		"Dimension Temperatures" = []
+
+#Notation: [["biome1", "temperature1"], ["biome2", "temperature2"]... etc]
+#Note: all temperatures are in Minecraft units
+[Biomes]
+
+	[Biomes.BiomeTemperatureOffsets]
+		"Biome Temperature Offsets" = [["minecraft:soul_sand_valley", -0.5], ["minecraft:plains", 0.3], ["minecraft:bamboo_jungle", 0.2], ["minecraft:bamboo_jungle_hills", 0.2], ["minecraft:jungle", 0.2], ["minecraft:jungle_hills", 0.2], ["minecraft:jungle_edge", 0.2], ["minecraft:modified_jungle", 0.2], ["minecraft:modified_jungle_edge", 0.2], ["minecraft:desert", -0.2], ["minecraft:desert_hills", -0.2], ["minecraft:desert_lakes", -0.3], ["minecraft:giant_spruce_taiga", 0.2], ["minecraft:giant_spruce_taiga_hills", 0.2], ["minecraft:savanna", 0.2], ["minecraft:savanna_plateau", 0.2], ["minecraft:shattered_savanna_plateau", 0.2], ["minecraft:taiga", 0.2], ["minecraft:taiga_hills", 0.2], ["minecraft:taiga_mountains", 0.2], ["minecraft:snowy_taiga", 0.2], ["minecraft:snowy_taiga_hills", 0.2], ["minecraft:snowy_taiga_mountains", 0.2], ["minecraft:snowy_mountains", 0.2]]
+
+	[Biomes.BiomeTemperatures]
+		#Temperatures for individual biomes
+		"Biome Temperatures" = []
+
