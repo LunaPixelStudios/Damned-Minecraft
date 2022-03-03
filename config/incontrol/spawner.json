@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "mob": "ob_aquamirae:anglerfish",
+        "persecond": 0.2,
+        "attempts": 20,
+        "amount": {
+          "minimum": 1,
+          "maximum": 2
+        },
+        "conditions": {
+          "dimension": "minecraft:overworld",
+          "inwater": true,
+          "mindist": 5,
+          "maxdist": 120,
+          "minheight": 18,
+          "maxheight": 70,
+          "maxthis": 20
+        }
+      }
+]

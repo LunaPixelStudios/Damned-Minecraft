@@ -379,7 +379,7 @@
 
 	["Mob Events".random]
 		#Set to false to disable random mob events for every world.
-		enabled = false
+		enabled = true
 
 		["Mob Events".random.ticks]
 			#Minimum time in ticks until a random event can occur. 20 Ticks = 1 Second.

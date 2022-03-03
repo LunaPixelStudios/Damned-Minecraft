@@ -35,6 +35,6 @@ CTEventManager.register<MCRightClickBlockEvent>((event) => {
 <advanceditem:cyaris_vial>.setOnItemUse((context) => {
     var face = context.direction;
     context.world.setBlockState(context.pos.offset(face), <blockstate:contenttweaker:cyarisvial>);
-    context.player.getHeldItem(context.hand).shrink();
+    context.player.getHeldItem(context.hand).mutable().shrink();
     return ActionResultType.SUCCESS;
 });

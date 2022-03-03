@@ -38,37 +38,21 @@
       {
         "dimension": "minecraft:overworld",
         "mob": "lycanitesmobs:sylph",
-        "maxcount": {
-          "amount": 0,
-          "perplayer": false
-        },
         "result": "deny"
       },
       {
         "dimension": "minecraft:overworld",
         "mob": "lycanitesmobs:jouste",
-        "maxcount": {
-          "amount": 0,
-          "perplayer": false
-        },
         "result": "deny"
       },
       {
         "dimension":"minecraft:overworld",
         "mob": "lycanitesmobs:joustealpha",
-        "maxcount": {
-          "amount": 0,
-          "perplayer": false
-        },
         "result": "deny"
       },
       {
         "dimension": "minecraft:overworld",
         "mob": "lycanitesmobs:maka",
-        "maxcount": {
-          "amount": 0,
-          "perplayer": false
-        },
         "result": "deny"
       },
       {
@@ -79,7 +63,20 @@
           "perplayer": false
         },
         "result": "deny"
+      },
+      {
+        "mob": "ob_aquamirae:anglerfish",
+        "dimension": "minecraft:overworld",
+        "biome": ["otg:vv.deep_cold_ocean","otg:vv.deep_frozen_ocean","otg:vv.deep_lukewarm_ocean","otg:vv.deep_ocean","otg:vv.deep_warm_ocean"],
+        "result": "default"
+      },
+      {
+        "mob": "ob_aquamirae:anglerfish",
+        "dimension": "minecraft:overworld",
+        "incontrol": true,
+        "result": "deny"
       }
+    
 
 
 

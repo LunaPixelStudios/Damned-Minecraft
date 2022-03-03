@@ -40,6 +40,7 @@ craftingTable.addShapeless( "advdungeonkey",
 
  );
 
+smithing.addRecipe("iron_cluster", <item:minecraft:iron_ingot>, <item:geolosys:iron_cluster>, <item:geolosys:iron_cluster>);
 //CuttingBoard.addRecipe("testipe", <item:biomesoplenty:orange_cosmos>, [<item:contenttweaker:powder>.withTag({dmc_powder_col: 16096066})], <tag:items:forge:tools/knife>);
  /*<recipetype:farmersdelight:cooking>.addRecipe("healing_vial",
     <item:contenttweaker

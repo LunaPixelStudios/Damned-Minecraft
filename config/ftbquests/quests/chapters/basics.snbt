@@ -210,5 +210,17 @@
 				}
 			}]
 		}
+		{
+			title: "Socketing \\& Gems"
+			x: -8.5d
+			y: -4.5d
+			description: ["Gems are upgrade items that are used on gear with sockets. Each socket is a space for 1 gem. Remove gems from sockets with a Gem Socket Extractor Tool."]
+			id: "0759062CE398E1C3"
+			tasks: [{
+				id: "2077858A6F7C6BE8"
+				type: "item"
+				item: "mmorpg:socket_extractor"
+			}]
+		}
 	]
 }

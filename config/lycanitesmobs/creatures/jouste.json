@@ -7,10 +7,10 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityJouste",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelJouste",
-  "loadDefault": true,
-  "enabled": true,
+  "loadDefault": false,
+  "enabled": false,
   "spawning": {
-    "enabled": true,
+    "enabled": false,
     "spawners": [
       "land_animal"
     ],

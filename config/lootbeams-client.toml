@@ -18,7 +18,7 @@
 	#Range: 0.0 ~ 10.0
 	beam_height = 1.0
 	#Overrides an item's beam color with hex color. Must follow the specific format: (registryname=hexcolor) Or (#tagname=hexcolor). Example: "minecraft:stone=0xFFFFFF". This also accepts modids.
-	color_overrides = ["#crafttweaker:heirloom=0xFF6F00", "#crafttweaker:exotics=0x03FFA7", "#crafttweaker:trophies=0xB580FF", "#crafttweaker:ancient=0xFF0037", "#crafttweaker:anointment=0xE7F06E", "#crafttweaker:uncommon=0x55FF55", "#crafttweaker:rare=0x5555FF", "#crafttweaker:healing=0xFF0000", "#crafttweaker:currency=0xA7C4F2"]
+	color_overrides = ["#minecraft:dmc_heirloom=0xFF6F00", "#minecraft:dmc_exotics=0x03FFA7", "#minecraft:dmc_trophies=0xB580FF", "#minecraft:dmc_ancient=0xFF0037", "#minecraft:dmc_anointment=0xE7F06E", "#minecraft:dmc_uncommon=0x55FF55", "#minecraft:dmc_rare=0x5555FF", "#minecraft:dmc_healing=0xFF0000", "#minecraft:dmc_currency=0xA7C4F2"]
 	#The Y-offset of the loot beam.
 	#Range: -30.0 ~ 30.0
 	beam_y_offset = 0.0

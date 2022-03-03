@@ -8,7 +8,7 @@
 	#> maxheat - maximum heating value for forging
 	#> fuel_level (Soul soil fuel level = 1, other = 0) #optional
 	#Example: "tag = forge:eggs, minheat = 300, maxheat = 1000, fuel_level = 1"
-	HeatingMaterials = ["tag = forge:ores/iron, minheat = 1000, maxheat = 1300, fuel_level = 1", "tag = forge:ores/gold, minheat = 1000, maxheat = 1300, fuel_level = 1", "tag = forge:ores/copper, minheat = 1000, maxheat = 1300, fuel_level = 1", "tag = forge:ores/tin, minheat = 1000, maxheat = 1300, fuel_level = 1", "tag = forge:ores/silver, minheat = 1000, maxheat = 1300, fuel_level = 1", "tag = forge:ores/lead, minheat = 1000, maxheat = 1300, fuel_level = 1", "tag = forge:ores/aluminium, minheat = 1000, maxheat = 1300, fuel_level = 1", "tag = forge:ores/platinum, minheat = 1200, maxheat = 1400, fuel_level = 1"]
+	HeatingMaterials = ["tag = forge:ores/iron, minheat = 1000, maxheat = 1300, fuel_level = 1"]
 	#Removes recipes for items that can be made at smithing table.
 	RemoveRecipes = true
 
